@@ -1,0 +1,78 @@
+name: リール投稿（毎日21:00 JST）
+
+on:
+  schedule:
+    # JST 20:20 = UTC 11:20 に企画＋動画生成開始 → 21:00頃に投稿完了
+    - cron: "20 11 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: instagram-post
+  cancel-in-progress: false
+
+jobs:
+  reel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: リール企画生成（キャプション＋Kling/Veo/Higgsfieldプロンプト）
+        run: npm run reel:generate
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+
+      - name: AI動画生成（REPLICATE_API_TOKEN設定時のみ）
+        run: npm run reel:video
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+          REPLICATE_API_TOKEN: ${{ secrets.REPLICATE_API_TOKEN }}
+          REPLICATE_VIDEO_MODEL: ${{ vars.REPLICATE_VIDEO_MODEL }}
+
+      - name: 企画・動画をコミット
+        run: |
+          git config user.name "draft-bot"
+          git config user.email "bot@draft-match.com"
+          git add queue/ videos/ || true
+          git commit -m "reel: $(date -u +%Y-%m-%d) の企画・動画を生成" || echo "変更なし"
+          git pull --rebase origin main
+          git push
+
+      - name: rawURL反映待ち
+        run: sleep 60
+
+      - name: Instagramへ投稿（動画がある場合のみ）
+        run: npm run reel:post
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+
+      - name: 投稿済みキューをコミット
+        run: |
+          git add queue/ posted/
+          git commit -m "reel: $(date -u +%Y-%m-%d) 投稿完了" || echo "変更なし"
+          git pull --rebase origin main
+          git push

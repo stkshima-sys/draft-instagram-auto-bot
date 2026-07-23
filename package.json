@@ -1,0 +1,31 @@
+{
+  "name": "draft-instagram-auto",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Draft Instagram自動運用システム（企画→生成→投稿→計測→分析→改善）",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "carousel:generate": "tsx src/scheduler/carousel.ts generate",
+    "carousel:post": "tsx src/scheduler/carousel.ts post",
+    "reel:generate": "tsx src/scheduler/reel.ts generate",
+    "reel:video": "tsx src/scheduler/reel.ts video",
+    "reel:post": "tsx src/scheduler/reel.ts post",
+    "insights": "tsx src/scheduler/insights.ts",
+    "weekly": "tsx src/scheduler/weekly.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "googleapis": "^140.0.0",
+    "openai": "^4.70.0",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

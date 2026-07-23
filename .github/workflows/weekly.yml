@@ -1,0 +1,42 @@
+name: 週次分析・改善（毎週月曜9:00 JST）
+
+on:
+  schedule:
+    # JST 月曜9:00 = UTC 月曜0:00
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: 週次分析＋改善方針の更新
+        run: npm run weekly
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+
+      - name: レポート・改善方針をコミット
+        run: |
+          git config user.name "draft-bot"
+          git config user.email "bot@draft-match.com"
+          git add reports/ prompts/改善方針.md
+          git commit -m "weekly: $(date -u +%Y-%m-%d) 分析レポート＋改善方針更新" || echo "変更なし"
+          git pull --rebase origin main
+          git push

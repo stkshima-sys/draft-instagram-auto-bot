@@ -1,0 +1,69 @@
+name: カルーセル投稿（毎日12:00 JST）
+
+on:
+  schedule:
+    # JST 11:30 = UTC 02:30 に生成開始 → 12:00頃に投稿完了
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: instagram-post
+  cancel-in-progress: false
+
+jobs:
+  carousel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: 日本語フォントをインストール（スライド画像用）
+        run: sudo apt-get update && sudo apt-get install -y fonts-noto-cjk
+
+      - run: npm ci
+
+      - name: カルーセル生成（企画＋画像）
+        run: npm run carousel:generate
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+
+      - name: 画像をコミット（Instagramが取得できる公開URLにするため）
+        run: |
+          git config user.name "draft-bot"
+          git config user.email "bot@draft-match.com"
+          git add media/ queue/
+          git commit -m "carousel: $(date -u +%Y-%m-%d) の投稿素材を生成" || echo "変更なし"
+          git pull --rebase origin main
+          git push
+
+      - name: rawURL反映待ち
+        run: sleep 60
+
+      - name: Instagramへ投稿
+        run: npm run carousel:post
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+
+      - name: 投稿済みキューをコミット
+        run: |
+          git add queue/ posted/
+          git commit -m "carousel: $(date -u +%Y-%m-%d) 投稿完了" || echo "変更なし"
+          git pull --rebase origin main
+          git push
