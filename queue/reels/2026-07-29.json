@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-29",
+  "category": "球場観戦Vlog風",
+  "title": "球場Vlog風リール：エスコン女子の1日観戦フルコース",
+  "scene": "エスコンフィールド北海道の入口でワクワクしながら写真撮影→友達と売店で選ぶ球場グルメ→座席で乾杯して盛り上がり、そのまま応援スタート！",
+  "caption": "球場って、やっぱり特別なワクワク感があるよね⚾️🍟今日はエスコンフィールド北海道での観戦Vlog風リール！推し選手のグッズを選んだり、売店で球場グルメを迷いがち😋 やっぱり乾杯は欠かせないし、座席でみんなと盛り上がる時間が最高の思い出になる。ひとりで観に行くのが不安だったけど、仲間と行くと楽しさ倍増🎶『野球観戦仲間がほしい！』と思ったら、Draftでつながれるのも◎ 球場で新しい友達ができたら、観戦ももっと楽しくなるんだな〜と実感した1日でした！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#エスコンフィールド",
+    "#推し活",
+    "#女子旅",
+    "#観戦仲間募集",
+    "#北海道観光",
+    "#野球観戦Vlog"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, natural-looking, vertical 9:16 video of three Japanese women in their 20s arriving at Es Con Field Hokkaido, chatting and taking cheerful selfies at the entrance. Next, they browse colorful ballpark food stands, laughing and pointing at various snacks. Finally, the friends are seated in the stadium stands, raising their drinks in a lively toast and then start cheering enthusiastically for the game. Everything feels handheld and spontaneous, just like authentic smartphone footage, with dynamic close-ups and mid-shots. No AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot. 0-5s: Three Japanese women in their 20s enter Es Con Field Hokkaido, taking selfies and showing their excitement at the stadium entrance. 5-10s: The group walks through the concourse, stopping at food stands, selecting ballpark gourmet snacks with fun gestures and chatting. 10-15s: They arrive at their seats, do a friendly drink toast, and break into cheerful, animated cheering together. All shots use natural handheld motion and close-up/mid-range framing, with soft outdoor lighting.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot look. Start with a handheld pan as three Japanese women in their 20s approach and pose at the entrance of Es Con Field Hokkaido. Transition to a handheld push-in as they browse food stands and gesture animatedly at different snacks. End with a handheld over-the-shoulder view as they sit in stadium seats, raise drinks for a group toast, and then pan out to capture them cheering together. No AI artifacts, all camera movements are organic and natural."
+  },
+  "videoFile": "videos/2026-07-29.mp4"
+}
