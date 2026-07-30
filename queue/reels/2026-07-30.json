@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-30",
+  "category": "ホームランの盛り上がり",
+  "title": "ホームランの瞬間！球場で盛り上がる観戦女子たち",
+  "scene": "PayPayドームの観客席。ホームランが飛び出す瞬間、20代女性たちが歓声をあげ、立ち上がってハイタッチ！周囲のみんなも大盛り上がりで、仲間感が伝わるリアルな瞬間。",
+  "caption": "ホームランが出た瞬間って、みんな一気に立ち上がってハイタッチしがちだよね🙌✨あの一体感が、野球観戦の醍醐味かも。普段は初対面同士でも、この瞬間だけはみんなが仲間になれる感じ、めちゃくちゃ推せる😊PayPayドームの独特の盛り上がり、行ったことある？1人で行くのも全然アリだけど、やっぱり一緒に盛り上がれる観戦仲間がいるともっと楽しい！私も友達と行くたび「また行こうね」って盛り上がるし、推しのホームランなら絶対記念写真も撮っちゃう📸SNSにもあげたくなる瞬間多すぎ！Draftなら同じ熱量の仲間が見つかるから、次の試合は一緒に盛り上がれるかも。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#ホームラン",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#観戦仲間",
+    "#女子旅",
+    "#球場体験"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second photorealistic video shot with a smartphone, handheld and dynamic. Japanese women in their 20s are sitting in the audience seats at PayPay Dome, Fukuoka. At the moment a home run happens, they jump up, cheer with big smiles, and high-five each other. The background is filled with excited fans, everyone celebrating. The camera naturally shakes, capturing authentic excitement, laughter, and candid reactions. No text overlays, no visible AI artifacts.",
+    "veo": "0-5s: Close-up of 2-3 Japanese women in their 20s sitting together in the PayPay Dome stands, holding drinks and chatting with anticipation. 5-10s: Suddenly, the crowd erupts as a home run is hit; the women jump to their feet, shout with joy, and high-five each other, with the camera following their reactions. 10-15s: Quick shots of the group and surrounding fans clapping, smiling, and hugging, the atmosphere electric with shared excitement. All footage is vertical 9:16, photorealistic, smartphone-shot look, handheld, no overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds. Handheld camera, close to the group of Japanese women in their 20s. The camera starts with a steady shot, then quickly tilts and moves with the group as they stand up and cheer for the home run. Natural pan towards their high-fives, slight push-in for emotional impact, then a handheld pull-back revealing more cheering fans around them. Authentic smartphone video feeling, no text or AI traces."
+  },
+  "videoFile": "videos/2026-07-30.mp4"
+}
