@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-31",
+  "category": "女性同士の観戦",
+  "title": "女子だけで楽しむ！PayPayドーム観戦の幸せ3シーン",
+  "scene": "明るい午後、20代女性2人がPayPayドームの外で待ち合わせて笑顔で再会。観客席で推しカラーのタオルを持ち、グルメ片手に乾杯＆歓声で大盛り上がり。名物・鷹メシをスマホで撮影し合いながら、「また来ようね」と盛り上がる自然なやりとり。",
+  "caption": "「女子だけの野球観戦、めっちゃ楽しい！」って思ったことある？今日はPayPayドームで、女友達との本気観戦のリアルな幸せシーンをお届けします🥰 友達とグッズ揃えて写真を撮ったり、席で推しタオルをふって盛り上がったり、名物の鷹メシを分け合う時間ってやっぱり特別✨ 実は「一緒に観に行く仲間がいない」「誘える友達がいない」ってよく聞くけど、共通の趣味で繋がれる仲間ができると、本当に世界が広がるよ！私たちも最初はちょっと緊張したけど、応援グッズ見せ合ったり、食べ物シェアしながらすぐ仲良くなれた！野球初心者でも「推し活」目線で楽しめることいっぱいあるから、友達誘って一度チャレンジしてみてほしいな⚾️💙 観戦仲間との思い出、あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#友達と観戦",
+    "#推し活",
+    "#PayPayドーム",
+    "#ホークス女子",
+    "#観戦仲間募集中",
+    "#ドーム飯"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s meet with a hug and smile outside a modern Japanese baseball stadium (PayPay Dome), then enjoying the game in the stands, holding team towels and baseball snacks, laughing and cheering. Closeup of them taking food photos, doing cheers with drinks. Vibrant, fun, lively, no AI artifacts, no text overlays.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot, Japanese women in their 20s at a Japanese baseball stadium (PayPay Dome).\n0-5s: Two friends meet and greet each other happily in front of the stadium, capturing their excitement. \n5-10s: In the stands, cheering with team towels, eating stadium food, laughing together. \n10-15s: Taking photos of their food and doing a toast with drinks, sharing a genuine joyful moment. Natural handheld camera feel, no AI look.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look, handheld camera. Start with a gentle handheld pan following two Japanese women in their 20s as they greet each other outside PayPay Dome. Transition to a handheld push-in as they cheer in the stadium seats, holding snacks and towels. Finish with a close handheld orbit as they take food photos and toast with drinks, natural lighting, casual atmosphere."
+  },
+  "videoFile": "videos/2026-07-31.mp4"
+}
