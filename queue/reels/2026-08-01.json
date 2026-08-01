@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-01",
+  "category": "推し活動画",
+  "title": "推し活3連発！東京ドームでの野球女子あるある",
+  "scene": "1人目の女性がユニフォーム姿で友達と自撮りしながら応援。2人目が推し選手のタオルを高く掲げて歓声を上げる。最後に3人でうちわを振って盛り上がるスマホ動画風の密着感。",
+  "caption": "野球観戦って、やっぱり推し活が一番楽しい！今日は東京ドームで、ユニ姿で全力応援したり、推しのタオルを掲げてアピったり、うちわ振って盛り上がったり…女友達と集まると、つい全力で推し活しがちだよね⚾️💖でも、実は「一緒に行く友達がいない」ってときもあって…。そんなとき、観戦仲間が見つかるDraftが頼りになるんだ😊周りの目を気にせず、思いっきり楽しめるのが推し活の醍醐味！スタジアムのワイワイ感も最高✨みんなはどんな推し活してる？『ユニフォームで自撮り』『タオルアピール』『うちわ全振り』、全部やっちゃう派？それとも控えめ派？あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#東京ドーム",
+    "#観戦仲間探し",
+    "#ユニフォーム女子",
+    "#野球観戦あるある",
+    "#ドラフト仲間"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Three Japanese women in their 20s at Tokyo Dome baseball stadium. First, one girl takes a cheerful selfie in her baseball uniform with a friend in the seat area. Next, another girl excitedly raises a towel supporting her favorite player, smiling brightly. Lastly, all three wave big colorful uchiwa fans together with joy. Capture joyful, candid, and lively moments, with the bustling stadium background. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, total 15s, smartphone-shot, photorealistic, natural handheld motion, Japanese women in their 20s at Tokyo Dome. 0-5s: Close-up of a woman in baseball uniform taking a selfie with a friend in the audience seats, both laughing and posing. 5-10s: Another close-up, different woman standing and raising a bright towel with her favorite player's name, cheering and looking towards the field. 10-15s: All three together in the seats, waving uchiwa fans energetically and smiling for the camera, surrounded by the bustling stadium crowd. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look. Start with a handheld close-up pushing in on a Japanese woman taking a selfie in her baseball uniform. Next, pan right to capture another woman raising a colorful towel and cheering. Finally, handheld camera pulls back as three women wave uchiwa fans together, laughing and enjoying the Tokyo Dome atmosphere. Candid, lively motion, stadium background. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-01.mp4"
+}
