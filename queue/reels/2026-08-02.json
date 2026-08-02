@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-02",
+  "category": "観戦仲間との交流",
+  "title": "観戦仲間とシェアする球場グルメ3選",
+  "scene": "東京ドームの観客席で20代女性2人がわいわいグルメをシェアして乾杯。観戦後、笑顔で記念写真を撮り合う。売店前で「どれ食べる？」と相談しながら楽しそうに並ぶシーン。",
+  "caption": "野球観戦の思い出って、実は『誰と何を食べたか』も大事だよね🍴✨今日は観戦仲間とシェアしたい、東京ドームの球場グルメを3つご紹介！まずは定番のジャンボ唐揚げ。試合そっちのけで盛り上がる美味しさ😂次は売店限定のタピオカドリンクで乾杯！写真も映えるから、つい撮り合いっこしちゃうよね📸最後はボリューム満点のドームカレー、みんなでシェアすれば絆も深まる！『野球好きだけど、一緒に行く友達がいない…』って人も、Draftなら新しい観戦仲間に出会えるかも？みんなで食べて笑って、推し活もっと楽しくしよう🥰あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦仲間",
+    "#プロ野球",
+    "#東京ドーム",
+    "#推し活",
+    "#観戦コーデ",
+    "#おでかけ女子",
+    "#野球観戦あるある",
+    "#グルメシェア"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, photorealistic, smartphone-shot look, natural handheld motion. At Tokyo Dome, two Japanese women in their 20s sit in the stands, smiling and laughing as they share fried chicken and toast with drinks. After the game, they take cheerful selfies together in the stadium. Cut to both at a busy food concession, pointing and discussing menu options, surrounded by the lively atmosphere of a baseball game. No text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, natural handheld. 0-5s: Two Japanese women in their 20s sitting in Tokyo Dome stands, clinking drinks, sharing fried chicken, and chatting happily. 5-10s: At the concession stand, they point at the menu, laugh, and discuss what to order, surrounded by other fans. 10-15s: After the game, they pose for selfies together near the stands, holding snacks and smiling brightly. No text overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot look, natural handheld motion. Start with a handheld shot of two 20-something Japanese women in stadium seats sharing food and drinks. Slight pan to follow their conversation and laughter. Quick push-in as they take selfies together after the game. Conclude with a gentle pan at the food stall as they point and select snacks. No overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-02.mp4"
+}
