@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-03",
+  "category": "野球好き女子あるある",
+  "title": "野球好き女子あるある7選",
+  "slides": [
+    {
+      "heading": "観戦コーデに悩みがち",
+      "body": "「どのTシャツにしよう？」\n「推しカラーで揃える？」など、\n観戦日前日はファッションショー状態！👕🧢"
+    },
+    {
+      "heading": "推しが打った瞬間の大絶叫",
+      "body": "推しのヒットやホームランで思わず立ち上がっちゃう！\n「周りも同じテンションだと超嬉しい」\n共感ポイント高めです🙌"
+    },
+    {
+      "heading": "球場グルメを全力でチェック",
+      "body": "「今日は何食べよう？」\n試合前にグルメ攻略を入念リサーチ！\nつい写真も撮りがち🍟📸"
+    },
+    {
+      "heading": "遠征バッグはパンパン問題",
+      "body": "遠征となると荷物が急増！\n「推しグッズ」「着替え」「応援ボード」\n全部詰めたらカバンが爆発寸前🎒"
+    },
+    {
+      "heading": "一緒に行く仲間探しが悩み",
+      "body": "誰かと一緒に盛り上がりたいけど\n予定が合わず1人観戦もしばしば。\n同じ趣味の友達が欲しいな…🤍"
+    },
+    {
+      "heading": "雨天でも観戦への本気度",
+      "body": "「カッパは必須！」「タオル多め」\n天気予報も常にチェックしちゃう。\n雨でも現地行きたい派です☔"
+    },
+    {
+      "heading": "SNSでの写真UPはマスト",
+      "body": "試合やグルメ、グッズまで\n「#本日の推し活」投稿がルーティン！\nタイムラインが野球色に染まります📱"
+    }
+  ],
+  "caption": "こんな経験ありませんか？野球女子の球場ライフは毎回イベントみたいにワクワク！観戦コーデに悩んだり、推しの活躍で大絶叫したり、球場グルメを全力で調査したり…遠征の準備はもはや“旅行”。でも一緒に行く仲間がなかなか見つからなくて、1人観戦になることも多いですよね。そんな時こそ、同じ趣味の友達がいるともっと楽しい！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#観戦コーデ",
+    "#推し活仲間",
+    "#球場グルメ",
+    "#野球好きな人と繋がりたい",
+    "#遠征女子",
+    "#スポーツ観戦",
+    "#推し活あるある",
+    "#野球観戦初心者"
+  ],
+  "coverImagePrompt": "A photorealistic smartphone photo of Japanese women in their 20s enjoying a baseball game at a stadium in Japan, wearing team T-shirts, eating stadium food, natural lighting, cheerful atmosphere, no text.",
+  "images": [
+    "media/carousel/2026-08-03/01_cover.jpg",
+    "media/carousel/2026-08-03/02_slide.jpg",
+    "media/carousel/2026-08-03/03_slide.jpg",
+    "media/carousel/2026-08-03/04_slide.jpg",
+    "media/carousel/2026-08-03/05_slide.jpg",
+    "media/carousel/2026-08-03/06_slide.jpg",
+    "media/carousel/2026-08-03/07_slide.jpg",
+    "media/carousel/2026-08-03/08_slide.jpg",
+    "media/carousel/2026-08-03/09_cta.jpg"
+  ]
+}
