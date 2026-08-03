@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-03",
+  "category": "球場グルメ紹介",
+  "title": "横浜スタジアムで女子が選ぶ！球場グルメ3種食べ比べリール",
+  "scene": "横浜スタジアムの観客席で、20代の日本人女性2人が球場グルメを手に持って笑顔で見せ合う。ホットドッグやベイスターズオリジナルスイーツ、レモンサワーで乾杯。友達同士、楽しそうにグルメをシェアして食べるリアルな瞬間を切り取る。",
+  "caption": "『球場グルメって、つい全部食べたくなっちゃうよね🍴✨』\n\n横浜スタジアムでお気に入りのグルメを友達とシェア！ホットドッグやベイスターズ限定のスイーツ、さっぱりレモンサワーなど、スタジアムならではの美味しさにワクワクが止まらない時間🥰\n\n「推しの応援も大事だけど、やっぱりグルメで盛り上がりたい！」そんな気持ち、野球女子なら一度はあるはず。観戦仲間と『どれ頼む？』って相談するのも楽しいし、SNS映えするメニューは写真や動画に撮って残したくなる📸\n\n一人で観戦もいいけど、仲間と食べ比べして「これ美味しい〜！」って盛り上がる体験、Draftなら見つかるかも！\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#プロ野球",
+    "#観戦仲間",
+    "#推し活",
+    "#観戦コーデ",
+    "#グルメ部",
+    "#女子会",
+    "#ベイスターズ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16, 10-15s video shot with a handheld smartphone look, featuring two Japanese women in their 20s at Yokohama Stadium. They are sitting in the stands, smiling, holding and showing off a hot dog, a cup of lemon sour, and a team-branded dessert. Natural lighting and casual, fun gestures as they clink drinks, exchange bites, and laugh together. Realistic stadium background, crowded but focused on the women, no text overlays, no AI artifacts, authentic enthusiasm and candid moments.",
+    "veo": "Cut 0-5s: Two Japanese women in their 20s sit down in Yokohama Stadium stands, laughing, holding a hot dog and stadium dessert, prepping to eat. Handheld, casual angle. Cut 5-10s: The women clink their drinks (lemon sour), then take a bite of the food, reacting with delight, showing each other. Background filled with baseball fans and stadium sounds. Cut 10-15s: Closeup as they share bites, playfully point to the dessert, smiling, with the stadium gently out of focus behind. No overlays, only natural motion.",
+    "higgsfield": "Photorealistic vertical 9:16, 10-15 seconds. Two Japanese women in their 20s at Yokohama Stadium, handheld camera motion. Begin with pan from hot dog and dessert up to their faces as they laugh and interact, then a quick push-in during the drink clink, and slight camera wobble as they share food and react. Focus on natural handheld realism, real stadium background, no overlays, no AI look."
+  },
+  "videoFile": "videos/2026-08-03.mp4"
+}
