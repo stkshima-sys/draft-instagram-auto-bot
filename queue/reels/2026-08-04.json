@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-04",
+  "category": "球場観戦Vlog風",
+  "title": "神宮球場1日Vlog風リール：観戦女子のリアル体験",
+  "scene": "友達同士で明治神宮球場に到着し、テンション高めにゲート前で自撮り。売店で人気の球場グルメを選んでいる様子。観客席で乾杯・応援しながら楽しむ女子たちの笑顔とリアルな盛り上がり。",
+  "caption": "「野球好きだけど、一緒に観戦できる仲間がいない…」そんな悩み、ありませんか？\n今日のリールは、明治神宮球場で女子3人組が1日を満喫してるスマホ撮影風Vlog🎥✨\n入場ゲートでわいわい自撮りして、球場グルメを選びながら「どれにする？」って盛り上がったり…席に着いたらみんなで乾杯して、推し選手の応援からハイタッチまで全力！\n一人だと不安だったり、初めての球場はドキドキしがちだけど、仲間がいれば何倍も楽しいよね。\nDraftなら、同じ趣味の観戦仲間が見つかるから初めてでも大丈夫。一緒に思い出を作ろう⚾️\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#明治神宮球場",
+    "#推し活",
+    "#観戦仲間",
+    "#女子旅",
+    "#仲間探し",
+    "#ドラフトアプリ"
+  ],
+  "prompts": {
+    "kling": "A group of 2-3 Japanese women in their 20s, arriving at Meiji Jingu Stadium, laughing and taking selfies at the entrance with natural excitement. Cut to them browsing and happily choosing food at the stadium food stands, then jumping to the stadium seats where they are toasting with drinks, eating, and energetically cheering for the game. Realistic smartphone-shot handheld style, 9:16 vertical, with soft sunlight and authentic background crowds.",
+    "veo": "0-5s: Japanese women in their 20s entering Meiji Jingu Stadium, laughing and taking selfies near the gate, showing excitement and friendship. 5-10s: At the stadium's food stands, the women are discussing, pointing, and choosing ballpark food with smiles, capturing candid moments. 10-15s: The group sitting in the audience seats, clinking drinks, taking bites of food, and cheering for their team together, all shot in a natural, spontaneous smartphone style.",
+    "higgsfield": "Vertical 9:16, photorealistic, handheld camera with slight shake, panning from the stadium entrance to the group of Japanese women smiling and taking selfies, push-in as they browse food stalls, then follow-cam as they walk to their seats, ending with a handheld close-up of the group toasting and cheering in the stands. No overlays, no AI artifacts, real sunlight atmosphere."
+  },
+  "videoFile": "videos/2026-08-04.mp4"
+}
