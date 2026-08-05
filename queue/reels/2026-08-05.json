@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-05",
+  "category": "観戦仲間との交流",
+  "title": "観戦仲間とPayPayドームごはん女子会リール",
+  "scene": "試合後のPayPayドーム観客席で、3人の20代女性が笑顔で球場グルメをシェアしながら乾杯。スマホで写真を撮り合う様子や、自推しユニ姿で盛り上がるナチュラルな瞬間。最後に全員でセルフィーして「次も一緒に行こうね！」と楽しげに映る。",
+  "caption": "野球観戦って、推しの応援はもちろんだけど…観戦仲間とワイワイごはんを食べたり、写真を撮り合う時間もすごく特別じゃない？PayPayドームで推しユニ着て、みんなで球場グルメをシェアするのが毎回楽しみ🥤✨「ひとりだと寂しいかも…」って思ってたけど、観戦仲間ができてからは新しい楽しみがどんどん増えた！試合の感想を語り合ったり、知らないメニューにチャレンジしたり…球場でしか味わえない思い出が増えていく感じ🥰野球女子の輪、もっと広がっていくと嬉しいな。あなたはどれに共感しましたか？\n\n仲間の見つけ方や観戦女子の楽しみ方はプロフィールからチェック→ @Draft_baseball\n\n#野球女子 #球場グルメ #観戦仲間 #PayPayドーム #プロ野球 #推し活女子 #観戦コーデ #野球好きと繋がりたい #女子会 #福岡グルメ",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦仲間",
+    "#PayPayドーム",
+    "#プロ野球",
+    "#推し活女子",
+    "#観戦コーデ",
+    "#野球好きと繋がりたい",
+    "#女子会",
+    "#福岡グルメ"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld camera movement. Scene: Three Japanese women in their 20s, smiling and chatting in PayPay Dome Fukuoka stadium seats after the game. They share ballpark food, clink drinks in a friendly toast, take cheerful selfies in their team jerseys, and happily interact with each other. Clear expressions of friendship, casual fun, and authentic moments. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion, Japanese women in their 20s at PayPay Dome Fukuoka. 0-5s: Three women sitting in stadium seats, laughing and sharing ballpark food, passing snacks to each other, happy atmosphere. 5-10s: The group clinks their drinks and take turns snapping candid smartphone photos of each other in their team jerseys. 10-15s: They gather for a close selfie, all smiling and saying 'Let's go again!' with the dome background, showing energetic, authentic friendship. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look. Start with a handheld pan across three Japanese women in their 20s sitting in PayPay Dome seats, laughing and sharing food. Camera gently push-in as they clink drinks and capture photos of each other. End with a handheld zoom-in for a group selfie, everyone smiling and lively. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-05.mp4"
+}
