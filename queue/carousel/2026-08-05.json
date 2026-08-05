@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-05",
+  "category": "推し活",
+  "title": "推し活女子の必須応援テク7選",
+  "slides": [
+    {
+      "heading": "手作りうちわでアピール",
+      "body": "選手への想いは手作りうちわが一番伝わる！\n推しカラーや名前、好きな言葉をデコって、\n球場で目立っちゃおう🎀"
+    },
+    {
+      "heading": "推しとリンクコーデ",
+      "body": "推しの背番号Tシャツやカラーパンツなど、\nさりげなくリンクさせるコーデが流行中🎽\n球場で写真を撮ると気分も上がるよ！"
+    },
+    {
+      "heading": "うちわ＆ボードの持ち運び術",
+      "body": "大きいうちわやボードはトートバッグや\n専用ケースで持ち運びが便利！落下・破損防止で\n推し活グッズも長持ち。"
+    },
+    {
+      "heading": "推し選手の応援チャント完璧化",
+      "body": "推し選手のチャントは前日から予習♪\n動画やSNSでチェックして、\n現地で大きな声で応援しよう📣"
+    },
+    {
+      "heading": "SNS映えフォトの撮り方",
+      "body": "球場のスタンドや選手パネル前での写真は、\n日差しや背景にもこだわって撮影を。\n推しのグッズを持ってパシャリ📸"
+    },
+    {
+      "heading": "仲間と一緒に推し活計画",
+      "body": "一緒に観戦する仲間がいると、\n応援のモチベもUP！\n初めてでも気軽に誘ってみてね👭"
+    }
+  ],
+  "caption": "「球場で推しを全力応援したい！」そう思ったことありませんか？一人だと最初は緊張しがちだけど、うちわやボード作り、リンクコーデなど工夫次第で楽しさ倍増！自分だけの応援グッズやコーデで思いっきり推し活できると、推し選手と“気持ちがつながった”気分になれます。写真もこだわって撮ればSNS映えもバッチリ。さらに、観戦仲間と一緒なら応援も思い出もシェアできて最高です。\n\n今回紹介した7つのテク、ぜひ次の試合で試してみてね。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#プロ野球観戦",
+    "#観戦コーデ",
+    "#うちわ作り",
+    "#球場グルメ",
+    "#応援グッズ",
+    "#推し選手",
+    "#球場フォト",
+    "#Draft観戦仲間"
+  ],
+  "coverImagePrompt": "A group of stylish Japanese women in their 20s enjoying a baseball game at a Japanese stadium, cheering with handmade uchiwa and baseball uniforms, photorealistic, shot on smartphone, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-05/01_cover.jpg",
+    "media/carousel/2026-08-05/02_slide.jpg",
+    "media/carousel/2026-08-05/03_slide.jpg",
+    "media/carousel/2026-08-05/04_slide.jpg",
+    "media/carousel/2026-08-05/05_slide.jpg",
+    "media/carousel/2026-08-05/06_slide.jpg",
+    "media/carousel/2026-08-05/07_slide.jpg",
+    "media/carousel/2026-08-05/08_cta.jpg"
+  ]
+}
