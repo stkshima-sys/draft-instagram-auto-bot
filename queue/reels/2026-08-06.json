@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-06",
+  "category": "球場グルメ紹介",
+  "title": "PayPayドーム女子の推しグルメ3選🍔",
+  "scene": "PayPayドームの客席で2人の20代女性が笑顔で乾杯しながらホークス名物のグルメを手に取る。ひとりがカリッとジューシーな鷹の祭典バーガーを頬張り、もうひとりが名物の明太子ソース唐揚げをシェア。最後にふたりでデザートのソフトクリームを食べながらカメラに向かって「最高！」とポーズ。",
+  "caption": "野球観戦といえば、やっぱり欠かせないのが“球場グルメ”🍗💕PayPayドームに行ったら絶対食べたい推しグルメを、野球女子2人でシェアしながら楽しんできたよ！みんなも一度はSNSで見たことあるはずの“鷹の祭典バーガー”、カリカリ唐揚げに明太子ソースがかかった“明太唐揚げ”、そしてしっとり濃厚な“球場ソフトクリーム”は試合中も気分アガること間違いなし✨ひとりで観戦もいいけど、美味しいものを「おいしい！」って共有できる仲間がいると、野球がますます好きになるよね⚾️友達とワイワイ食べ比べも盛り上がるし、推し選手の話で盛り上がるのも、これが醍醐味！「次はこれ食べてみたい！」って思ったら、ぜひDraftで観戦仲間も探してみてね🥰 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#ホークス",
+    "#推し活",
+    "#グルメ巡り",
+    "#女子旅",
+    "#球場体験"
+  ],
+  "prompts": {
+    "kling": "Two Japanese women in their 20s sitting in the PayPay Dome stands during a baseball game, natural makeup, casual fashionable summer outfits (one in a white T-shirt and denim skirt, the other in a yellow team jersey and bucket hat), cheerful expressions. Both holding signature stadium foods: one lifts a burger with a team flag, the other shares spicy fried chicken with a friend, then both enjoy a soft serve ice cream together. Handheld, close-up and mid shots, realistic smartphone camera wobble, people occasionally reacting to the game in the blurred background, sunny daytime, photorealistic, no AI artifacts, no text overlays.",
+    "veo": "vertical 9:16, photorealistic, natural smartphone-shot look. 0-5s: Two Japanese women in their 20s sit in PayPay Dome seats, smile and toast with their stadium food (burger and fried chicken), handheld close-up, lively stadium background. 5-10s: One woman takes a big bite of the burger, the other offers fried chicken to her friend, both laughing, camera pans to their hands sharing food. 10-15s: Both hold soft serve ice cream, turn to camera with a happy 'cheers' gesture, lens flares from stadium lights, ends with them grinning at camera. No overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, photorealistic. Start with a handheld medium shot of two Japanese women in their 20s at PayPay Dome stands, gentle push-in as they pick up stadium foods. Quick pan between their faces as they smile, then to food close-ups (burger, fried chicken). Slight shake as camera moves in closer while they share and eat, finishing with a soft dolly push as both enjoy soft serve ice cream together, waving at the camera. No overlays, no visible AI artifacts."
+  },
+  "videoFile": "videos/2026-08-06.mp4"
+}
