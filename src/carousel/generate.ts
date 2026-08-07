@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync, existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { CAROUSEL_CATEGORIES } from "../config/categories.js";
 import { todayJST } from "../config/env.js";
@@ -32,6 +32,12 @@ const SYSTEM = `あなたは日本のプロ野球好き女性(18〜30歳)向けI
 
 export async function generateCarousel(): Promise<CarouselPlan> {
   const date = todayJST();
+  // 既に今日のキューがある場合（手動セットや再実行）は生成をスキップして上書きを防ぐ
+  const existing = `queue/carousel/${date}.json`;
+  if (existsSync(existing)) {
+    console.log(`⏭ 今日のキューが既に存在するため生成をスキップ: ${existing}`);
+    return JSON.parse(readFileSync(existing, "utf-8")) as CarouselPlan;
+  }
   const category = await selectCategory(CAROUSEL_CATEGORIES, "carousel");
   const strategy = loadStrategy();
 
