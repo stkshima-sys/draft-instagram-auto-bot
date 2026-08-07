@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-07",
+  "category": "女性同士の観戦",
+  "title": "女子観戦あるあるinエスコン！推し活＆グルメを満喫する日",
+  "scene": "友達2人と座席で球場グルメを手に乾杯して笑顔。推しグッズを身につけて応援しながら一緒に写真撮影。コンコースで人気グルメをゲットしてはしゃぐ自然な雰囲気。",
+  "caption": "「野球好きだけど一緒に行ける友達がいない…」そんな悩み、ありませんか？今日は女子2人でエスコンフィールド北海道へ！球場グルメ片手に乾杯して写真撮ったり、推しグッズで全力応援したり…やっぱり女友達とだと盛り上がり方が違う！自分の好きなことを“分かってくれる人”と現地で思い切り楽しめるのは最高の思い出になるよね。しかも、球場のグルメやコーデの話で気がついたら盛り上がっちゃうのも女子観戦あるある！Draftでは、そんな観戦仲間を気軽に探せるから『次はもっと大人数で行きたい！』も叶うよ。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#エスコンフィールド",
+    "#推し活女子",
+    "#女子旅",
+    "#観戦仲間",
+    "#北海道グルメ",
+    "#スポーツ観戦"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second photorealistic smartphone-shot video of two Japanese women in their 20s at Es Con Field Hokkaido. They’re sitting together in the stands, laughing, clinking gourmet food and drinks, holding team merchandise, and taking casual selfies. The ambiance is lively, natural, with handheld camera movement capturing smiling faces, animated gestures, and the crowd in the background. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look. 0-5s: Two Japanese women in their 20s sitting in Es Con Field Hokkaido stands, smiling, raising their drinks with gourmet food, candid and energetic atmosphere. 5-10s: Close-up of both showing off team merchandise and cheering, then taking a selfie together, friends in the background also enjoying. 10-15s: Both walking through the stadium concourse, talking, laughing, and buying a popular food item from a vendor. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, natural handheld camera motion throughout. Handheld pan across two Japanese women in their 20s, sitting in the stadium stands, laughing and clinking their food and drinks. Push-in as they show off their team goods and take a selfie together, capturing genuine smiles. Subtle handheld follow as they move through the concourse, pick up snacks, and react naturally. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-07.mp4"
+}
