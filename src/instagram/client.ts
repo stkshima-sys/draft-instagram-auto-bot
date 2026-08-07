@@ -89,30 +89,42 @@ export async function getPermalink(mediaId: string): Promise<string> {
   return r.permalink ?? "";
 }
 
+type InsightsResponse = {
+  data: { name: string; values?: { value: number }[]; total_value?: { value: number } }[];
+};
+
 /**
  * メディア単位のインサイト取得。
- * Metaは指標名を頻繁に変えるため、未対応指標は0で埋めて続行する。
+ * - 基本指標はまとめて1回で取得（feed/reels共通で有効なもののみ）
+ * - profile_visits/follows は total_value 指定が必要なため別呼び出し
+ * - 未対応指標は0で埋めて続行する
  */
 export async function getMediaInsights(mediaId: string): Promise<Record<string, number>> {
-  const metrics = ["reach", "views", "likes", "comments", "shares", "saved", "profile_visits", "follows", "total_interactions"];
   const out: Record<string, number> = {};
-  // まとめて取得を試み、失敗したら1つずつ取得（未対応指標をスキップするため）
-  try {
-    const r = await graph<{ data: { name: string; values: { value: number }[] }[] }>(
-      `${mediaId}/insights`, { metric: metrics.join(",") },
-    );
-    for (const d of r.data) out[d.name] = d.values?.[0]?.value ?? 0;
-  } catch {
-    for (const m of metrics) {
-      try {
-        const r = await graph<{ data: { name: string; values: { value: number }[] }[] }>(
-          `${mediaId}/insights`, { metric: m },
-        );
-        out[m] = r.data?.[0]?.values?.[0]?.value ?? 0;
-      } catch {
-        out[m] = 0;
-      }
+  const core = ["reach", "views", "likes", "comments", "shares", "saved", "total_interactions"];
+
+  const parse = (r: InsightsResponse | null) => {
+    for (const d of r?.data ?? []) {
+      out[d.name] = d.total_value?.value ?? d.values?.[0]?.value ?? 0;
     }
+  };
+
+  const [coreRes, extraRes] = await Promise.all([
+    graph<InsightsResponse>(`${mediaId}/insights`, { metric: core.join(",") }).catch(() => null),
+    graph<InsightsResponse>(`${mediaId}/insights`, {
+      metric: "profile_visits,follows",
+      metric_type: "total_value",
+    }).catch(() => null),
+  ]);
+  parse(coreRes);
+  parse(extraRes);
+
+  // バッチが丸ごと失敗した場合のみ1つずつ取得（メディアタイプによる指標差異への保険）
+  if (!coreRes) {
+    await Promise.all(core.map(async (m) => {
+      const r = await graph<InsightsResponse>(`${mediaId}/insights`, { metric: m }).catch(() => null);
+      out[m] = r?.data?.[0]?.values?.[0]?.value ?? 0;
+    }));
   }
   return out;
 }
