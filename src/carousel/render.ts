@@ -23,17 +23,45 @@ function esc(s: string): string {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
-/** 全角基準でテキストを折り返す（「まと／め」のような1文字残りを避けるため行長を均等化） */
+/**
+ * 全角基準でテキストを折り返す。
+ * - 英単語・数字の連続（例: Draft, 2026）は1トークンとして扱い、行をまたいで分割しない
+ * - 行頭に句読点・閉じ括弧が来ないようにする（禁則処理）
+ * - 行長を均等化して「まと／め」のような1文字残りを避ける
+ */
 function wrap(text: string, maxChars: number): string[] {
   const out: string[] = [];
   for (const para of text.split("\n")) {
-    const chars = [...para];
-    if (chars.length === 0) { out.push(""); continue; }
-    const lineCount = Math.ceil(chars.length / maxChars);
-    const perLine = Math.ceil(chars.length / lineCount);
-    for (let i = 0; i < chars.length; i += perLine) {
-      out.push(chars.slice(i, i + perLine).join(""));
+    // ASCII英数字の連続は1トークン、それ以外は1文字ずつ
+    const tokens = para.match(/[A-Za-z0-9#&%+._-]+|\S|\s/gu) ?? [];
+    if (tokens.length === 0) { out.push(""); continue; }
+    // 半角は0.55文字幅として計算
+    const width = (t: string) => [...t].reduce((s, c) => s + (/[ -~]/.test(c) ? 0.55 : 1), 0);
+    const total = tokens.reduce((s, t) => s + width(t), 0);
+    const lineCount = Math.max(1, Math.ceil(total / maxChars));
+    const target = total / lineCount;
+
+    const lines: string[] = [];
+    let cur = "";
+    let curW = 0;
+    const noBreakBefore = /^[、。！？!?…ー」』）〉》”’]/;
+    for (const t of tokens) {
+      const tw = width(t);
+      const shouldBreak =
+        cur !== "" &&
+        curW + tw > target + 0.3 &&
+        lines.length < lineCount - 1 &&
+        !noBreakBefore.test(t);
+      if (shouldBreak) {
+        lines.push(cur);
+        cur = "";
+        curW = 0;
+      }
+      cur += t;
+      curW += tw;
     }
+    if (cur) lines.push(cur);
+    out.push(...lines.map((l) => l.trim()));
   }
   return out;
 }
