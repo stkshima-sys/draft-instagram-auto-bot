@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-08",
+  "category": "球場グルメ紹介",
+  "title": "横浜スタジアム・女子の推し球場グルメ3連発！",
+  "scene": "女性たちが横浜スタジアムで球場グルメを手に持ち、笑顔で見せ合う。友達とシェアしながら美味しそうに食べてリアクション。背景にはベイスターズブルーの観客席や賑やかな雰囲気が広がる。",
+  "caption": "球場に来たら、やっぱりグルメも楽しみたいよね🍟✨ 横浜スタジアムには、見た目も味も大満足なグルメがいっぱい！今日の推しグルメは、ハマの名物・みんな大好きシウマイ、ボリューミーな横浜ドッグ、インスタ映え間違いなしのカラフルレモネード🍋💙 1人で食べるのもいいけど、友達とシェアする時間ってやっぱり特別だなぁって思う。『野球観戦したいけど、誘える友達がいなくて…』なんて悩んでる人も大丈夫！“Draft”なら同じ趣味の仲間とすぐ繋がれるから、次の現地観戦ももっと楽しくなるはず。保存して、次の球場遠征の参考にしてね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦仲間",
+    "#推し活",
+    "#横浜スタジアム",
+    "#観戦コーデ",
+    "#ベイスターズ",
+    "#グルメ部",
+    "#現地レポ"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, shot with a smartphone. Three Japanese women in their 20s sitting together in the Yokohama Stadium stands, holding and showing off various ballpark foods like shumai, a long hot dog, and a colorful lemonade. They smile, laugh, and take small bites together. Camera moves naturally, handheld and close, capturing candid happy moments with lively baseball crowd in the background. No text overlays, absolutely no AI or CGI look.",
+    "veo": "Vertical 9:16, photorealistic. 0-5s: Shot begins handheld on three Japanese women in their 20s smiling and unwrapping their ballpark foods while sitting in Yokohama Stadium stands, background full of fans in blue. 5-10s: Close-up shots of the women showing their shumai, hot dog, and colorful lemonade to the camera, each reacting with delight, some sharing bites. 10-15s: Friends clink their lemonade cups in a cheerful toast, then cut to a wide shot showing them laughing together, enjoying the game atmosphere. Natural lighting, no overlays, authentic smartphone-shot feeling.",
+    "higgsfield": "Photorealistic, vertical 9:16, 10-15 seconds. Begin with a handheld camera focused on three Japanese women in their 20s seated in Yokohama Stadium stands, natural crowd backdrop. Slow push-in as they show and offer ballpark foods (shumai, hot dog, colorful lemonade) to each other and the camera, interacting joyfully. Slight pan to follow their movement as they toast drinks and laugh, maintaining handheld realism throughout. No text, no AI artifacts, purely authentic and lively."
+  },
+  "videoFile": "videos/2026-08-08.mp4"
+}
