@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-09",
+  "category": "Draft利用方法",
+  "title": "5ステップで安心！観戦仲間の見つけ方",
+  "slides": [
+    {
+      "heading": "STEP1: 自分の推しを登録",
+      "body": "まずはDraftで好きな球団や推し選手、観戦スタイルを登録しよう！\nグルメ派や写真好きもOK📸\n自分らしさをアピールすると気の合う仲間が見つかりやすいよ。"
+    },
+    {
+      "heading": "STEP2: 仲間のプロフィールをチェック",
+      "body": "年代や推し球団、趣味が一致する観戦仲間のプロフィールを一覧で見られるよ！\n「この人と話してみたい！」と思ったら気軽にいいね👍\n女性同士だから安心。"
+    },
+    {
+      "heading": "STEP3: 気になった人とチャット",
+      "body": "共通の「好き」があるから、チャットも盛り上がるはず！\n観戦グッズやコーデの話題もおすすめ。\n「野球好きあるある」で盛り上がれるかも🎶"
+    },
+    {
+      "heading": "STEP4: 一緒に観戦計画を立てよう",
+      "body": "気が合えば、日程を相談して一緒に観戦計画を！\n球場グルメめぐりや現地写真撮影も楽しめる。\n心強い仲間となら初観戦もワクワク☺️"
+    },
+    {
+      "heading": "STEP5: 体験をシェアしよう",
+      "body": "観戦後はDraftやSNSで思い出をシェア💬\n新しい仲間との思い出がどんどん増えて、推し活がもっと楽しくなるよ！"
+    }
+  ],
+  "caption": "「野球観戦、一緒に楽しめる友達がほしい！…って思ったことありませんか？」\n\nDraftは、恋愛じゃなく“野球好き仲間”を探せるサービス。今回はDraftで観戦仲間を見つける5ステップを紹介しました！\n自分の推しや興味を登録して、気になる人とチャット。\n一緒に観戦や球場グルメを楽しんだり、写真をシェアしたり…\n1人じゃ不安な球場デビューも安心サポート。\n同じ趣味の女の子同士、話が弾んで推し活も倍楽しくなるはずです。\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#観戦仲間",
+    "#プロ野球観戦",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦コーデ",
+    "#野球好きさんと繋がりたい",
+    "#女性限定",
+    "#野球仲間募集",
+    "#Draftで仲間探し"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, Japanese women in their 20s enjoying a baseball game at a stadium in Japan, casual outfits, sharing snacks, taking selfies together, lively and fun atmosphere",
+  "images": [
+    "media/carousel/2026-08-09/01_cover.jpg",
+    "media/carousel/2026-08-09/02_slide.jpg",
+    "media/carousel/2026-08-09/03_slide.jpg",
+    "media/carousel/2026-08-09/04_slide.jpg",
+    "media/carousel/2026-08-09/05_slide.jpg",
+    "media/carousel/2026-08-09/06_slide.jpg",
+    "media/carousel/2026-08-09/07_cta.jpg"
+  ]
+}
