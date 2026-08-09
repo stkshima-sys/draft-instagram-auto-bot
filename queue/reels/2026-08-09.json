@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-09",
+  "category": "女性同士の観戦",
+  "title": "神宮女子！観戦仲間と推し活DAY",
+  "scene": "明治神宮球場のスタンドで20代女子2人が笑顔で乾杯。球場グルメをシェアしながら盛り上がり、推しの応援グッズを片手に一緒にコール。まるで自撮りのようなリアルな親しみやすい映像。",
+  "caption": "「野球を一緒に観に行ける友達が欲しいな…」って思ったこと、ありませんか？今日は神宮球場で仲良し女子2人で観戦してきました！スタンドで乾杯したり、球場グルメをシェアして「あれ美味しい！」「これSNSで見たやつ！」と盛り上がって…やっぱり友達と行く野球観戦は格別✨推し活トークも止まらず、気づけば試合以上に笑ってる時間が多いかも。1人観戦も楽しいけど、気兼ねなく盛り上がれる友達がいると楽しさ倍増だよね！そんな“観戦仲間”と出会えるDraftも覗いてみてね⚾️野球場での思い出、もっと増やしたい人は要チェック👀あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#明治神宮球場",
+    "#推しグッズ",
+    "#観戦仲間",
+    "#女子旅",
+    "#推し活女子"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone camera look. Two Japanese women in their 20s sit together in the stands at Meiji Jingu Stadium. First, they smile and hold up drinks for a cheers, capturing a happy selfie moment. Next, they share and eat colorful stadium food, laughing and pointing at each other's dishes. Finally, both join together waving team towels and cheering with excitement, all footage handheld with lively crowd and baseball field in the background. No overlays, no AI distortion.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot, at a Japanese baseball stadium. Cut1 (0-5s): Close-up of two Japanese women in their 20s clinking drinks and smiling at the camera in the stands, with sunlight and cheering crowd. Cut2 (5-10s): Medium shot as they share stadium food—one offers fries to the other, both laugh naturally, surrounded by fan atmosphere. Cut3 (10-15s): Both stand up, wave team towels and enthusiastically cheer for their team together, with the green field and players visible behind them. No text overlays, no AI look.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shooting style. Begin with a slight handheld push-in as two Japanese women in their 20s cheers drinks and smile at the stadium seats. Transition to a gentle pan as they share and taste ballpark food, reacting with joy. Finish with a handheld, slight pull-back as the women stand, wave towels, and shout their cheers in unison. Natural crowd and stadium energy, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-09.mp4"
+}
