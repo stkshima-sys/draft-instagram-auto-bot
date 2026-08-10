@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-10",
+  "category": "観戦仲間との交流",
+  "title": "神宮球場・観戦仲間と楽しむ「試合後ごはん」リアル映像",
+  "scene": "神宮球場の観客席で20代女性2人が試合終了後、笑顔でセルフィーを撮り合う。売店エリアで球場グルメ（焼きそばや唐揚げ）を仲良くおしゃべりしながら受け取る。ベンチ席で乾杯＆グルメをシェアしながら盛り上がる様子。",
+  "caption": "野球観戦の楽しみって、試合中だけじゃなくて『観戦後のごはんタイム』も外せないよね！友達と試合の余韻を語り合いながら、球場グルメを分け合ったり、写真を撮ったり…こういう時間が本当に宝物。\n1人だとちょっと勇気がいるけど、観戦仲間がいればもっと楽しめる。神宮の売店、限定グルメも多いからシェアするのも本当におすすめ。スマホで撮り合いっこして、思い出も倍増！\n野球をきっかけに広がる仲間の輪、どんどん増やしていこう⚾️💛　あなたはどれに共感しましたか？\n\nフォロー＆保存で最新の観戦仲間情報をチェック！Draftで気軽に観戦仲間を見つけよう🍿",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#神宮球場",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活女子",
+    "#スポーツ好き女子",
+    "#写真好きな人と繋がりたい",
+    "#Draftで観戦仲間"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15 second smartphone-shot style video showing two Japanese women in their 20s after a pro baseball game at Meiji Jingu Stadium. Scene starts with both smiling and taking selfies in the stands, then shifts to them at the bustling food vendor area receiving classic stadium foods (like yakisoba and karaage), chatting naturally with joyful expressions. Ends with them at a bench-style table in the concourse, clinking drinks (non-alcoholic OK), sharing bites, laughing, and showing each other photos on their phones. Natural handheld camera, energy of real friends, soft stadium lighting, no overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot style with natural handheld motion. \n0-5s: Two Japanese women in their 20s in Meiji Jingu Stadium seats, smiling and taking selfies together after a game. \n5-10s: The duo walks to the stadium food stalls, happily selecting and receiving food (yaki soba, karaage), chatting and laughing. \n10-15s: Both sit at a bench in the concourse, doing a fun 'kanpai,' sharing bites of food, and showing photos to each other, immersed in friendly conversation. All scenes: no visible AI or text overlays.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, natural smartphone-shot look. Camera starts handheld with gentle sway as two Japanese women take selfies in stadium seats, then hand-held pan follows them walking to the food stalls. Smooth push-in as they receive and look at food close-up, ending with a relaxed hand-held medium shot of both at a bench: cup clinking, food sharing, lots of natural laughter. Lighting consistent with Meiji Jingu at dusk or early evening, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-10.mp4"
+}
