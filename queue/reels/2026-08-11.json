@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-11",
+  "category": "女性同士の観戦",
+  "title": "女子観戦あるあるダイジェストin PayPayドーム",
+  "scene": "友達同士でPayPayドームの客席に座りながら乾杯。推しグッズ片手に歓声を上げ、球場グルメを笑顔でシェア。みんなでスマホで記念写真を撮る姿も映る。",
+  "caption": "野球好き女子の観戦って、やっぱり最高！今日は女友達とPayPayドームで推し活してきました⚾️✨みんなで推しのユニフォームやタオルを持ち寄って、球場グルメにテンションMAX🍟🍗最初は「一緒に行く子いないかも…」って不安だったけど、気の合う仲間がいると楽しさ2倍！観戦中、点が入るたびみんなでハイタッチしたり、推しの登場曲で盛り上がったり…これぞ“野球女子あるある”だよね🥰知らない人同士でも球場では一瞬で打ち解けちゃう空気感も大好き！もし「野球観戦行きたいけど、誰と行こう？」って悩んでるなら、ぜひDraftで仲間探してみて！みんなの“推し活あるある”、あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#推し活",
+    "#女子会",
+    "#仲間探し",
+    "#週末の楽しみ",
+    "#野球観戦"
+  ],
+  "prompts": {
+    "kling": "A group of 2-3 Japanese women in their 20s, sitting together in the stands of PayPay Dome in Fukuoka, smiling and laughing as they toast with drinks. They are wearing baseball jerseys and holding team towels and fan merchandise. The camera moves naturally, focusing on their excitement, sharing stadium food like fried chicken and fries, and taking cheerful selfies together. Everything looks like a real smartphone video with natural lighting and crowd atmosphere, without any AI or artificial effects, 9:16 vertical, 10-15 seconds.",
+    "veo": "0-5s: Two Japanese women in their 20s sit in the PayPay Dome stands, laughing and raising drinks for a toast, with fans and stadium in the background. 5-10s: The group excitedly waves team towels and cheers, then one shares stadium food with her friends, all smiling. 10-15s: They gather close, holding their phones out to snap a fun group selfie, the camera capturing their candid joy. Photorealistic, smartphone-shot look, vertical 9:16, no overlays, no AI artifacts.",
+    "higgsfield": "Handheld camera, gently panning across a group of Japanese women in their 20s in PayPay Dome, capturing their reactions as they toast, share snacks, and cheer. Occasional push-in as they take group selfies and show team merchandise. The camera follows natural movements, maintaining a spontaneous, authentic smartphone video feel, vertical 9:16, 10-15 seconds."
+  },
+  "videoFile": "videos/2026-08-11.mp4"
+}
