@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-12",
+  "category": "女性同士の観戦",
+  "title": "東京ドームで女子観戦！友達と最高の野球女子デー",
+  "scene": "東京ドームの観客席で20代の日本人女性2人が笑顔で乾杯。推しタオルやユニフォーム姿で盛り上がり、名物グルメをシェアして楽しむ。友達同士の自然な会話やリアクションが映る。",
+  "caption": "野球観戦って、一緒に盛り上がれる友達がいるだけで楽しさ倍増だよね🥰 東京ドームで推しタオル持って乾杯したり、球場グルメをシェアしたり…つい写真も撮りまくっちゃう！1人だとちょっと不安だけど、仲間となら初めての球場デビューも安心。実は「野球好き女子で集まれる友達欲しい！」って声、すごく多いんだって。推しのプレーに一緒に叫んだり、グッズ見たり、応援グルメを探検したり、時間を忘れて最高の思い出に。Draftなら、同じ野球好き女子と簡単につながれるから、観戦仲間探しがぐっと気軽に。観戦仲間と一緒なら、どんな試合も特別な一日に！あなたはどれに共感しましたか？\n\nフォロー＆保存で最新の野球女子情報をCHECK✨ 観戦仲間探しはDraft公式へ！",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#東京ドーム",
+    "#推し活",
+    "#観戦仲間募集",
+    "#スポーツ女子",
+    "#女子会",
+    "#Draftで観戦仲間"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second photorealistic smartphone-shot style video. Natural handheld camera captures two Japanese women in their 20s in Tokyo Dome stands. They smile, clink drinks in a fun toast, wear team uniforms and cheer towels, laugh, chat, and share classic stadium food like stadium hot dogs or karaage. Natural, casual moments as friends enjoying a baseball game together. The background shows other fans and stadium energy. No text overlays, no visible AI artifacts.",
+    "veo": "0-5s: Handheld camera pans across the Tokyo Dome audience, focusing on two Japanese women in their 20s wearing team-themed outfits, holding towels and drinks, settling into their seats and smiling.\n5-10s: Close-up of the girls cheerfully clinking drinks, laughing and talking while sharing stadium food. Their natural reactions and excitement are clearly visible.\n10-15s: Medium shot as they stand, wave towels, and cheer, blending into the lively crowd around them. Fun, authentic friend experience. No text overlays or AI artifacts.",
+    "higgsfield": "Handheld, vertical 9:16, photorealistic. Begin with a slow pan across the crowd, push-in to focus on two Japanese women in their 20s laughing in stadium seats. Camera moves closer as they clink drinks, share stadium food, and react naturally to the game. Capture spontaneous gestures and camaraderie, with slight camera shake for realism. No text overlays, avoid AI look."
+  },
+  "videoFile": "videos/2026-08-12.mp4"
+}
