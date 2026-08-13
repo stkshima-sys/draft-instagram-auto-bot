@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-13",
+  "category": "ホームランの盛り上がり",
+  "title": "横浜スタジアム ホームラン瞬間の一体感リール",
+  "scene": "横浜スタジアムの観客席で、推しタオルを持った20代女性たちが、ホームラン瞬間に立ち上がり歓声や拍手。ハイタッチやジャンプで盛り上がる表情をスマホで至近距離から撮影。最後は笑顔で乾杯＆「また来ようね！」と盛り上がる様子。",
+  "caption": "ホームランの瞬間って、やっぱり球場ならではの一体感がすごいよね！💙\n誰かが打った瞬間、見知らぬファンとも自然にハイタッチしちゃったり、思わずジャンプして叫んだり…✨この空気感、同じ推しを応援する仲間と共有できるのが最高！1人観戦も楽しいけど、やっぱり「次は一緒に盛り上がりたい」って思っちゃうんだよね。\nDraftなら、野球観戦がもっと楽しくなる仲間が見つかるよ⚾️この熱狂、ぜひ体験してみて！\nあなたはどれに共感しましたか？\n\n（フォロー＆保存で最新の球場レポをチェックしよう！観戦仲間探しはプロフィールリンクから会員登録してね💡）",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#推し活",
+    "#観戦コーデ",
+    "#ホームラン",
+    "#野球観戦",
+    "#ドラフト仲間"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10–15 seconds. Photorealistic, looks like natural smartphone video. Capture three Japanese women in their 20s sitting in the stands at Yokohama Stadium, holding team towels and wearing casual fan outfits. At the moment of a home run, they all suddenly jump to their feet, raise their hands in excitement, laugh, and high-five each other, surrounded by other cheering fans. Camera is handheld, moving with subtle shakes as it follows their reactions, focusing closely on genuine facial expressions and lively movements, with stadium lights and crowd in the background. No overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 second, photorealistic, smartphone-shot. Scene 1 (0–5s): Close-up of three Japanese women in their 20s seated together in the crowded stands at Yokohama Stadium, chatting, holding team towels, and glancing toward the field. Scene 2 (5–10s): Suddenly, everyone jumps up as a home run is hit—cheering, clapping, high-fiving nearby fans, showing wide smiles and excited gestures. Scene 3 (10–15s): The women share a celebratory toast with drinks, laughing, with the festive stadium crowd and field in the background. Handheld camera, natural lighting, no overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10–15s, photorealistic smartphone video. Start with handheld camera facing three Japanese women in their 20s at their stadium seats, slightly panning to capture their anticipation. As the home run moment happens, do a subtle push-in and slight upward tilt to emphasize their reaction—smiles, jumping, high-fives. Camera follows with quick handheld pans between faces and hands, ending with a close-up of their smiling faces and raised drinks for a group toast. Stadium energy and crowd movement visible in the background, natural light, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-13.mp4"
+}
