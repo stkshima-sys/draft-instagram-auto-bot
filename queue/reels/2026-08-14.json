@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-14",
+  "category": "女性同士の観戦",
+  "title": "女子3人の横浜スタジアム観戦あるあるリール",
+  "scene": "横浜スタジアムの観客席で、20代女性3人が笑顔で乾杯し球場グルメを食べながら盛り上がる。推し選手のタオルやグッズを見せ合い、スマホで写真や自撮りを楽しむ様子。最後は「また来ようね！」と仲良く手を振るエモい締め。",
+  "caption": "「野球好きだけど、一緒に観に行く友達がいない…」そんな悩み、女子同士なら一気に解決しちゃう！今日は横浜スタジアムで、女友達3人で観戦を満喫してきました✨球場グルメで乾杯したり、推しタオルを見せ合いっこして盛り上がったり…カメラロールが楽しすぎて、スマホが手放せない（笑）現地ならではの一体感や、友達と感情を共有できる瞬間がたまらないんだよね。でも「一緒に行く仲間がほしい」って思う人、意外と多いはず。そんな時はDraftで観戦仲間を見つけるのも全然アリ！女子同士だから、初めてでも安心して楽しめるよ💕\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#推し活",
+    "#女子会",
+    "#観戦仲間募集中",
+    "#スポーツ好き",
+    "#Draftでつながろう"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural handheld smartphone-style. Three Japanese women in their 20s sitting together in Yokohama Stadium's outfield seats, smiling and laughing. They do a friendly ‘kanpai’ with drinks, show off their favorite player's towels and merch, eat stadium snacks like karaage and fries, and take cheerful selfies together. Background shows a lively game day atmosphere with other fans, bright daylight. No text overlay, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 seconds, realistic smartphone-shot look, Japanese women in their 20s at Yokohama Stadium. \n0-5s: Three friends arrive at their seats, giggling, holding team merch and food; quick cheers with drinks. \n5-10s: Close-ups of them eating stadium snacks, showing off player towels and sharing reactions to a play on the field. \n10-15s: One of them holds up a phone for a group selfie, they all pose happily, then wave to the camera with the stadium in the background. No text, no AI look.",
+    "higgsfield": "Vertical 9:16, photorealistic and natural. Start with a handheld wide shot following three Japanese women in their 20s as they sit down with food at their seats in Yokohama Stadium. Brief pan to their smiling faces as they cheers drinks. Push-in as they share stadium snacks and display their favorite player towels. Pull-back shot as they gather for a group selfie, ending with a steady handheld wave to the camera, capturing the ballpark and crowd energy. No text overlays, no AI cues."
+  },
+  "videoFile": "videos/2026-08-14.mp4"
+}
