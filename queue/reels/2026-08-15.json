@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-15",
+  "category": "球場グルメ紹介",
+  "title": "明治神宮球場・夏の球場グルメ神3",
+  "scene": "明治神宮球場の観客席で、20代女性2人が定番のウインナー盛りとビールを笑顔で乾杯。手元のグルメをカメラに見せて解説しつつ、一口パクリ。友達と美味しそうに盛り上がるリアルな雰囲気でまとめる。",
+  "caption": "「球場グルメを食べるために野球観戦に行ってる」そんな女子、実は多いんじゃない？🥰\n今回は明治神宮球場の名物・ウインナー盛り&ひんやりドリンクを手に、友達と現地レポ！グルメを片手に「かんぱ〜い」しながら推し談義するの、最高すぎる！野球初心者でもグルメきっかけなら気軽に楽しめるし、SNS映えもばっちり✨1人観戦はちょっと勇気いるけど、こうやって仲間と盛り上がる時間が本当に宝物だなって感じます！\n「野球仲間ほしいな」って思ったことある人、Draftで観戦友達見つけてみるのもおすすめだよ！\nみんなは球場で何食べるのが好き？あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#プロ野球",
+    "#明治神宮球場",
+    "#観戦コーデ",
+    "#推し活",
+    "#週末の楽しみ",
+    "#グルメ部",
+    "#友達探し",
+    "#観戦仲間"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 15-second vertical video, natural handheld smartphone-style, showing two Japanese women in their 20s sitting in the stands at Meiji Jingu Stadium. They are smiling and holding classic ballpark food—sausages on a plate and cold drinks. The women look at the camera, chatting and laughing, then hold up the food toward the lens for a close-up. One takes a happy bite while the other lifts her drink in a toast, with the stadium background and a lively, friendly vibe. No text overlays, no visible AI artifacts.",
+    "veo": "Vertical 9:16, 15s, photorealistic. 0-5s: Two Japanese women in their 20s walk through the concourse at Meiji Jingu Stadium, laughing and carrying ballpark food and drinks. 5-10s: Sitting in the stadium seats, they turn to camera, smiling, and show off their sausage platter and drinks closely to the lens. 10-15s: One woman takes a big bite of sausage, the other raises her drink for a casual toast with her friend, both giggling with the lively stadium scene in the background. No text overlays, realistic smartphone-shot style, no AI look.",
+    "higgsfield": "Vertical 9:16, real smartphone video look. Start with a handheld tracking shot following two Japanese women in their 20s as they walk with food through the crowd at Meiji Jingu Stadium. Transition to a gentle pan as they sit down in their seats and present their sausages and drinks to camera. Finish with a handheld push-in as one takes a bite, the other raises her drink for a toast, capturing their natural smiles and the lively ballpark behind them. No text overlays, no obvious AI artifacts."
+  },
+  "videoFile": "videos/2026-08-15.mp4"
+}
