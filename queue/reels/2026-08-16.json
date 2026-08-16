@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-16",
+  "category": "推し活動画",
+  "title": "推し活女子3人組のEs Con Field応援デイ",
+  "scene": "観客席で日ハムのユニフォーム姿の女子3人がタオルやうちわを掲げて盛り上がる。別カットで乾杯やグルメを楽しみながら自然な笑顔。最後は3人で肩を組み、推しメンコールで盛り上がる。",
+  "caption": "「野球好きな女友達がほしい！」そんな気持ち、共感しちゃう人多いはず🥺今日はEs Con Fieldで推し活全開な女子3人組の日常をお届け🫶💙\n\nユニ姿×タオル×うちわはやっぱり最強！席に着いた瞬間からテンション爆上がりだし、現地のグルメや乾杯の時も自然と笑顔になっちゃう🍻✨仲間と一緒だと推しの応援も何倍も楽しいし、今日の思い出も「また絶対来ようね！」って話しながら帰り道で余韻タイム…\n\n1人で行く勇気が出ない、友達を誘いにくい…そんなときは「Draft」で観戦仲間を探してみるのがおすすめ🙌\n\n野球女子仲間がいるだけで、球場の楽しさがグッと広がるよ！\n\nあなたはどれに共感しましたか？\n\n気になった人はプロフィールのリンクからチェックしてね🔗\n\n#野球女子 #プロ野球 #観戦コーデ #球場グルメ #推し活 #エスコンフィールド #日ハム女子 #野球観戦仲間 #応援スタイル #Draftで観戦仲間",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#エスコンフィールド",
+    "#日ハム女子",
+    "#野球観戦仲間",
+    "#応援スタイル",
+    "#Draftで観戦仲間"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, filmed with a handheld smartphone. Three Japanese women in their 20s are seated together in the stands of Es Con Field Hokkaido, all wearing team uniforms. First, they raise towels and cheer with bright smiles, waving their uchiwa fans energetically. Then they toast with drinks and eat stadium food, laughing naturally. Finally, they put their arms around each other, looking at the camera and calling out for their favorite player. No text overlays, no AI artifacts, natural lighting and movement, authentic crowd in the background.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot style, Japanese women in their 20s at Es Con Field Hokkaido. 0-5s: Three women in team uniforms enthusiastically waving towels and uchiwa in the stands, cheering. 5-10s: The women clink their drinks together and take bites of stadium food, laughing and chatting. 10-15s: The three put their arms around each other, facing the camera, and chant for their favorite player, the baseball field and excited crowd in the background. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, 10-15s, smartphone quality. Camera starts handheld with gentle lateral pan across three Japanese women in team uniforms in the stands at Es Con Field Hokkaido, raising towels and waving uchiwa with big smiles. Push-in slightly for closeups as they toast with drinks and casually eat stadium food, capturing candid reactions. Finish with a held close-up as the group embraces and chants, background lively with natural crowd. No AI artifacts, no text, real-life lighting and sound."
+  },
+  "videoFile": "videos/2026-08-16.mp4"
+}
