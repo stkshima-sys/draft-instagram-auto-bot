@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-17",
+  "category": "ホームランの盛り上がり",
+  "title": "ホームランの瞬間！一緒に沸ける野球観戦女子リール",
+  "scene": "20代の日本人女性2人がEs Con Field Hokkaidoのスタンドで応援。ホームランが出て歓声とともにハイタッチ＆歓喜ジャンプ。笑顔で乾杯しながら“楽しすぎ！”と弾ける表情に。",
+  "caption": "ホームランの瞬間って、やっぱり球場でしか味わえない最高の盛り上がりだよね！誰かと一緒なら、キラキラの瞬間も感動も、全部2倍楽しい✨ハイタッチしたり、思わずジャンプしちゃったり…スタジアムの一体感に包まれるあの感じ、もっとたくさんの野球好き女子とシェアしたい！ひとり観戦もいいけど、仲間がいると笑い声も増えて、推し活も全力に楽しめちゃう！最近は新しい観戦友達ができて、一緒にグルメレポしたり応援したり…最高すぎ！観戦仲間探しのDraftで、もっと球場が近くなる体験してみてね。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#観戦仲間",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#エスコンフィールド北海道",
+    "#ホームラン",
+    "#野球観戦",
+    "#ドラフト仲間"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone-shot look, handheld camera. Two Japanese women in their 20s sitting in the stands at Es Con Field Hokkaido during a baseball game, both wearing casual baseball fan outfits with team merchandise hats or towels. As a home run is hit, the crowd erupts; the two women jump up with big smiles, shout joyfully, high five, and hug, surrounded by excited fans. One woman holds a drink cup, both turn to each other and laugh, soaking in the atmosphere. The scene feels lively, warm, and super authentic – no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, 10-15s, smartphone-shot style. 0-5s: Two Japanese women in their 20s sitting together in Es Con Field Hokkaido’s stands, chatting and watching the game, holding food or drinks. 5-10s: The moment a home run is hit, both women stand up, shout with excitement, and high five as people around them cheer. 10-15s: Close-up as they turn to each other, laugh, and clink their drinks, with genuine smiles and a sense of celebration. Natural crowd reactions in the background, no artificial look, no text overlays.",
+    "higgsfield": "Vertical 9:16, photorealistic, 10-15s, smartphone-style. Handheld camera with slight shake; start with a pan across the crowded stands at Es Con Field Hokkaido, then push-in towards two Japanese women in their 20s as they react to a home run: jumping up, high-fiving, and laughing. Quick tilt up to capture the crowd's cheer, then handheld move back to the women as they celebrate with a drink toast. No AI artifacts, natural lighting and movement."
+  },
+  "videoFile": "videos/2026-08-17.mp4"
+}
