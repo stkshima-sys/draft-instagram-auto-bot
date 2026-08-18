@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-18",
+  "category": "推し活動画",
+  "title": "推し活全開！横浜スタジアムで応援女子時間",
+  "scene": "観客席でユニフォーム姿の女性たちが笑顔で乾杯。タオルを一斉に掲げて推し球団を全力応援。うちわを振りながら楽しそうに盛り上がるリアルな瞬間連続。",
+  "caption": "「野球好きだけど、一緒に行く友達がなかなか見つからない…」そんなこと、ありませんか？今日は横浜スタジアムで推し活を満喫する女子たちのリアルな観戦風景をお届け⚾️💙ユニフォームを着て、推しカラーのタオルやうちわを持って、みんなで乾杯したり、一緒に応援する一体感はやっぱり最高！初めての球場でも、仲間がいれば心強いし、新しい友達もできちゃうかも☺️🍻一人で行くのがちょっと不安だったけど、勇気を出してDraftで観戦仲間を探したら、推し活がもっと楽しくなりました！あなたも新しい仲間との推し活、始めてみませんか？保存して、次の観戦の参考にしてね！\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#横浜スタジアム",
+    "#応援グッズ",
+    "#観戦仲間募集",
+    "#女子会",
+    "#Draftで観戦"
+  ],
+  "prompts": {
+    "kling": "Three Japanese women in their twenties, wearing baseball jerseys and holding cheering towels, sit in the stands at Yokohama Stadium. The handheld smartphone camera captures them laughing, clinking drinks together, raising their towels overhead as they cheer, and enthusiastically waving hand fans. The scene feels spontaneous, vibrant, and genuinely fun amid a lively stadium crowd, with natural lighting and authentic smartphone-shot look. No text overlays or AI artifacts.",
+    "veo": "0-5s: Close-up, smartphone-held footage of three Japanese women in their twenties, wearing their favorite team's uniforms, smiling and making a toast with stadium drinks in the Yokohama Stadium stands. 5-10s: Medium shot as they simultaneously lift up their colorful cheering towels and shout encouragement, the crowd's excitement visible around them. 10-15s: Handheld, slightly panning shot as they wave team-themed fans (uchiwa), cheering together and laughing, perfectly capturing authentic friendship and stadium energy. No text overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic. Handheld camera throughout, starting with a push-in on three Japanese women in their twenties wearing team jerseys in the stands at Yokohama Stadium. Slight pan as they raise cheering towels, then quick handheld movements as they clink drinks and wave uchiwa fans. Lighting is natural, capture real smiles and animated gestures, stadium crowd in background. No overlays, no AI signatures."
+  },
+  "videoFile": "videos/2026-08-18.mp4"
+}
