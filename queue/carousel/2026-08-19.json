@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-19",
+  "category": "球場グルメ",
+  "title": "保存必須！球場グルメ神7選🍴",
+  "slides": [
+    {
+      "heading": "東京ドーム・ギガ盛ジャンボ焼き鳥",
+      "body": "インパクト大のジャンボ焼き鳥は1本500円。2階2ゲート横の売店が穴場だよ🍖\n仲間とシェアして写真も映える！"
+    },
+    {
+      "heading": "甲子園・甲子園カレー",
+      "body": "関西女子に人気の定番メニュー！並んでも食べたい名物カレーは1杯750円🍛\nバックネット裏3ゲート付近の売店でGETできるよ。"
+    },
+    {
+      "heading": "ZOZOマリン・チーバくん焼き",
+      "body": "SNSでも話題のインパクト菓子。\nチーバくん型のベビーカステラは1パック500円🐻\n1塁側の売店が目印。"
+    },
+    {
+      "heading": "バンテリンドーム・みそかつサンド",
+      "body": "名古屋名物のみそかつサンドは800円。\n1塁側コンコース内の売店で売ってるよ！\nがっつり系なのにぺろっと食べちゃう😋"
+    },
+    {
+      "heading": "楽天モバイル・ずんだシェイク",
+      "body": "仙台限定スイーツの王道！\nずんだシェイクは550円で、外野エリア売店で販売。\n甘党女子はマストチェック🥤"
+    },
+    {
+      "heading": "PayPayドーム・明太焼きそばパン",
+      "body": "福岡球場グルメ通に大人気。\n明太焼きそばパンは1個480円、1塁側売店がよく空いてる！\nピリ辛で小腹満たしに◎"
+    }
+  ],
+  "caption": "「どの球場に行っても絶対食べたい！」野球女子の間で話題の球場グルメを、名物からSNS映えメニューまで厳選紹介🍴スタジアムでしか味わえない限定メニューは、仲間ともシェアしたいし、一人観戦でも気分が上がるよね！\n気になる売店の場所や値段情報もまとめたので、次回の観戦時に役立ててね。お気に入りを保存しておけば、当日悩まずグルメ巡りができちゃう👌\n他にも「これ食べてほしい！」ってメニューがあれば、コメントで教えてね💬\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#プロ野球観戦",
+    "#推し活女子",
+    "#観戦コーデ",
+    "#スタジアムごはん",
+    "#推し活部",
+    "#球場映え",
+    "#球場巡り",
+    "#グルメ記録"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, group of Japanese women in their 20s smiling and holding unique ballpark foods at a modern Japanese baseball stadium, cheerful, lively, casual outfits",
+  "images": [
+    "media/carousel/2026-08-19/01_cover.jpg",
+    "media/carousel/2026-08-19/02_slide.jpg",
+    "media/carousel/2026-08-19/03_slide.jpg",
+    "media/carousel/2026-08-19/04_slide.jpg",
+    "media/carousel/2026-08-19/05_slide.jpg",
+    "media/carousel/2026-08-19/06_slide.jpg",
+    "media/carousel/2026-08-19/07_slide.jpg",
+    "media/carousel/2026-08-19/08_cta.jpg"
+  ]
+}
