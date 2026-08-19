@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-19",
+  "category": "球場デート",
+  "title": "神宮球場で野球仲間と盛り上がる観戦デート風リール",
+  "scene": "明治神宮球場の観客席、20代の日本人女性2人が笑顔で乾杯。カメラが友達目線でグルメやユニフォーム姿を自然に映す。試合の応援やスマホで写真を撮る様子もリアルに切り取る。",
+  "caption": "「友達と神宮球場で野球観戦、やっぱり最高！」\n\n野球好き女子なら、推し球団のユニに着替えて、球場グルメで乾杯したい気持ち…めっちゃわかる！現地でしか味わえない空気や、観戦仲間と応援を合わせる瞬間って、やっぱり一人じゃ味わえない特別な楽しさがあるよね🍻⚾\n\n「野球観に行きたいのに、誘える友達がいない…」「1人でドーム行くのはちょっと勇気がいる…」そんな悩み、実はみんなけっこう感じがち。\n\nでも勇気を出して一歩踏み出したら、新しい仲間ができて、推し活がもっと楽しくなるから不思議！Draftなら、野球好きの仲間がきっと見つかるよ☺️\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#神宮球場",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦仲間",
+    "#野球観戦",
+    "#週末のおでかけ",
+    "#スポーツ好きと繋がりたい"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10 to 15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s, wearing casual stadium outfits and cheering at Meiji Jingu Stadium. Scene starts with them sitting in the stands, laughing and clinking drinks, showcasing ballpark food. Camera gently pans to their friendly interactions: one takes a selfie with her friend, they wave towels and cheer for their favorite team. Background filled with other young fans, bright daytime lighting, lively atmosphere. No AI artifacts, no text overlays.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone-shot look. Scene 0-5s: Two Japanese women in their 20s, in casual baseball fan outfits, sit together in Meiji Jingu Stadium’s stands, smiling and talking. 5-10s: They excitedly hold up drinks and toast, followed by one holding a tray with famous ballpark food, both laughing. 10-15s: The friends take a selfie together, then stand up cheering and waving towels as the game heats up, atmosphere full of happy young fans. No AI artifacts, natural handheld camera movement, no text overlays.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look. Start with a gentle handheld pan across two Japanese women in their 20s sitting in Meiji Jingu Stadium, then a slight push-in as they smile and toast their drinks. Quick handheld transition to a close-up of one holding stadium food. End with a steady handheld shot as both women stand, wave towels, and take a selfie, surrounded by the lively crowd. Natural ambient daylight, vibrant but authentic mood, no AI artifacts, no text overlays."
+  },
+  "videoFile": "videos/2026-08-19.mp4"
+}
