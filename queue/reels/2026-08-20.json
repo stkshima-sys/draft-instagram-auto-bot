@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-20",
+  "category": "Draft利用シーン",
+  "title": "Draftで集まった野球観戦仲間とPayPayドームで初合流！",
+  "scene": "PayPayドームのコンコースで20代女性2人が「やっと会えたね！」と笑顔で合流し、観客席に移動。座席で球場グルメとドリンクで乾杯、推しチームのタオルを広げて応援ポーズ。",
+  "caption": "「野球好きだけど一緒に観戦する友達がいない…」って思ったことありませんか？私もずっとそんな悩みがあったけど、Draftで出会った仲間とついにPayPayドームで初合流！最初はドキドキだけど、同じチーム推し同士だからすぐに意気投合！球場グルメを一緒に食べて、推しタオル片手に『今日も全力応援しよう！』って盛り上がれるのが最高です🥳✨ひとりで行く勇気が出なかった私も、今では観戦仲間と新しい思い出をいっぱい作れてます。迷ってる人こそ一歩踏み出してみて！野球観戦の楽しさが100倍になるよ⚾️あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#観戦仲間",
+    "#PayPayドーム",
+    "#プロ野球",
+    "#推し活",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#野球観戦初心者",
+    "#女子会",
+    "#Draftで観戦"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s meet with excited smiles at the PayPay Dome concourse, exchange friendly greetings, walk together to the stadium seats, sit side by side, raise drinks and ballpark food in a fun toast, then unroll their favorite team’s towels and cheer with happy gestures. Authentic crowd and stadium atmosphere, lively and candid.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, Japanese women in their 20s at PayPay Dome. \n0-5s: Two women walking and searching for each other in the busy stadium concourse, then notice and wave. \n5-10s: They meet, smile brightly, and head together to their seats, sharing a brief laugh. \n10-15s: Sitting in their seats, they toast with ballpark food and drinks, then hold up their team's towel for a cheering selfie moment. Natural handheld, lively crowd.",
+    "higgsfield": "Vertical 9:16, photorealistic. Start with handheld pan following two 20s Japanese women in PayPay Dome’s concourse as they spot each other; quick push-in as they greet and laugh. Switch to a handheld tracking shot as they walk to their seats. At seats, a slight push-in as they raise drinks and food for a toast, ending with a cheerful selfie-style shot holding up their team towels. All motion should feel spontaneous and realistic with gentle camera shakes."
+  },
+  "videoFile": "videos/2026-08-20.mp4"
+}
