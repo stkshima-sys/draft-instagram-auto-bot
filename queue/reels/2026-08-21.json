@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-21",
+  "category": "女性同士の観戦",
+  "title": "女友達とPayPayドーム観戦VLOG風リール",
+  "scene": "20代女性2人がPayPayドームの外で笑顔の自撮り→球場内で乾杯＆グルメに大盛り上がり→座席で推しグッズ片手に一緒に応援＆パチリ。",
+  "caption": "「女友達と野球観戦、やっぱ最高！」そんな声、最近よく聞きませんか？\n周りに一緒に行く人いないとちょっと不安…だけど、PayPayドームで女友達と行くと、グルメも推し活も映え写真も全部叶っちゃう✨唐揚げ片手に乾杯して、可愛い推しグッズ並べて、写真撮って…応援の瞬間も歓声も、一人だと味わえない一体感があるんです！普段はなかなか言えない“好き”を思いっきり叫べるのも、女友達と一緒だからこそ。\n野球観戦、気になるけど一歩踏み出せない…そんなあなたも、Draftで観戦仲間を見つけて新しい世界に飛び込んでみませんか？保存して次の予定づくりの参考に！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#PayPayドーム",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦仲間",
+    "#女子会",
+    "#観戦VLOG",
+    "#週末の過ごし方"
+  ],
+  "prompts": {
+    "kling": "Two Japanese women in their 20s outside PayPay Dome in Fukuoka, smiling and taking a selfie with a smartphone, then inside the stadium in the stands, laughing and clinking drinks, enjoying classic ballpark food like karaage, then showing off their plush mascot keychains and cheering together for their team. Photorealistic, vertical 9:16, natural handheld smartphone look, friendly and vibrant mood, no AI artifacts or overlays.",
+    "veo": "0-5s: Two Japanese women in their 20s standing outside PayPay Dome, holding their phones up for a cheerful selfie, natural lighting. 5-10s: Inside the stadium concourse, both laughing, grabbing food and drinks at a concession stall, handheld camera follows as they toast and take a bite. 10-15s: Sitting in the stands, the friends wave team towels and plush mascots, snap photos, and cheer, capturing genuine camaraderie. Vertical 9:16, photorealistic, no text overlays or AI artifacts.",
+    "higgsfield": "Handheld smartphone-style vertical 9:16 video: Start with a gentle pan across PayPay Dome entrance as two Japanese women in their 20s pose for a selfie. Quick push-in as they laugh and toast drinks in the concourse, munching on ballpark food. Cut to a close-up: camera orbits as they wave team goods, smile, and cheer together in the stands. All scenes feel authentic, lively, and unstaged, no AI look or overlays."
+  },
+  "videoFile": "videos/2026-08-21.mp4"
+}
