@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-22",
+  "category": "推し活動画",
+  "title": "PayPayドームで推し活満喫！リアル観戦女子の1日",
+  "scene": "球場前でユニフォーム姿の女子2人が笑顔で自撮り。観客席でタオルを掲げて盛り上がる姿。グルメ片手に乾杯しながら推しの応援を楽しむシーン。",
+  "caption": "『野球観戦、好きなのに一緒に行く友達がいない…』そんな悩み、ありませんか？今日はPayPayドームで“推し活”を楽しむリアル女子の日常をお届け！ まずは入口でユニフォームを着て記念自撮り📸　席に着いたらタオルやうちわで全力応援💕『推しが打席に立つ瞬間、つい叫んじゃうよね！』って共感してくれる友達がいると、楽しさ100倍！ 試合の合間には球場グルメで乾杯🍹　球場でしか味わえないグルメをシェアして写真もパシャリ！どんなシーンも一緒に盛り上がれる仲間がいると、野球観戦はもっと思い出になるはず。 Draftなら、同じ趣味の“観戦仲間”が見つかるよ。『やってみたいな』と思ったら、まずは保存&フォローしてね😉 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#観戦仲間募集中",
+    "#応援グッズ",
+    "#スポーツ観戦",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16, 10-15 second smartphone-style video. Two Japanese women in their 20s, wearing colorful Fukuoka Hawks baseball jerseys, smile and take selfies in front of PayPay Dome. Cut to them sitting in the stadium seats, waving team towels and uchiwa fans, cheering together energetically. Then they raise drinks and toast with stadium food, laughing naturally. The camera should feel handheld and candid, capturing authentic joyful moments, with bright natural lighting and visible background crowds.",
+    "veo": "vertical, 9:16, photorealistic, smartphone-shot, natural handheld, 10-15s. 0-5s: Outside PayPay Dome, two Japanese women in their 20s, in colorful jerseys, excitedly take a selfie, laughing. 5-10s: Inside the stands, both stand up holding team towels and uchiwa fans, wave them above their heads, and cheer for their team, showing genuine happiness. 10-15s: They sit, clink cups with drinks and share stadium food, smiling and enjoying the atmosphere. No text overlays, no AI artifacts.",
+    "higgsfield": "Photorealistic vertical 9:16, 10-15s. Camera starts outside PayPay Dome with a handheld, slightly shaky pan as two Japanese women in their 20s pose for a selfie in colorful jerseys. Quick cut to a handheld push-in shot of them in stadium seats, energetically cheering, waving towels and uchiwa fans. Final cut shows a smooth handheld close-up as they laugh, toast with drinks, and enjoy ballpark food together. Bright, natural stadium light, lively crowd background."
+  },
+  "videoFile": "videos/2026-08-22.mp4"
+}
