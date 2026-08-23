@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-23",
+  "category": "球場観戦Vlog風",
+  "title": "横浜スタジアム1日Vlog風・女子観戦あるあるリール",
+  "scene": "横浜スタジアムの入口でワクワクしながら友達と自撮り。売店グルメを手にして移動し、スタンドの座席で乾杯！ユニ着用の笑顔で応援＆推しタオル掲げる。リアルな球場体験をスマホ撮影風で表現。",
+  "caption": "＼球場観戦って最高すぎるっ！／\n今日は友達と横浜スタジアムでプロ野球観戦。入場から売店グルメ選び、乾杯、推し活まで…1日を全力で楽しむリアルなVlog風リールを撮ってみたよ！球場独特の雰囲気や、笑顔で盛り上がる観戦仲間との時間、ついつい食べすぎちゃう球場グルメまで、全部が思い出になるよね🥤⚾️✨\n「一緒に行く友達がいない…」って不安な人も、案外SNSで仲間は見つかるし、Draftなら野球好き女子同士で簡単に繋がれちゃう。推し活も応援も、誰かと共有したほうが何倍も楽しい！観戦後の語り合いタイムも最高🙌\nあなたはどれに共感しましたか？コメントで教えてね！保存して次の観戦の参考にもどうぞ💕\n\n※Draftの会員登録はプロフィールから",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#横浜スタジアム",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#観戦仲間",
+    "#スタジアムVlog",
+    "#野球好きと繋がりたい",
+    "#ドライブDraft"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15s smartphone-shot style video at Yokohama Stadium. Shows a group of 2-3 Japanese women in their 20s entering the baseball stadium, happily taking selfies at the entrance, then walking through the concourse with food from a stand, and finally sitting in the stands, smiling, raising drinks for a toast, and waving team towels. Handheld camera, natural lighting, no text or AI artifacts.",
+    "veo": "Scene 1 (0-5s): Handheld shot of 2-3 Japanese women in their 20s entering Yokohama Stadium, laughing and taking selfies at the entrance gate. Scene 2 (5-10s): Walking through the concourse, stopping at a food stall, picking up stadium food and drinks, playful smiles. Scene 3 (10-15s): Sitting in the stands, with a close-up of the women cheering, raising their drinks in a toast, showing their team towels, expressing joy and excitement. All shots are vertical, photorealistic, and feel like casual smartphone footage.",
+    "higgsfield": "Handheld smartphone-style vertical video at Yokohama Stadium, following 2-3 Japanese women in their 20s: start with pan as they enter and take selfies, transition to smooth push-in through the bustling concourse as they grab stadium food, then shift to steady handheld close-up of the friends cheering, smiling, making a toast with drinks, and waving team towels in the stands. Natural crowd atmosphere, real lighting, no overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-08-23.mp4"
+}
