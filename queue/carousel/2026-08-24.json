@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-24",
+  "category": "推し活",
+  "title": "推し活が楽しくなる応援アイデア7選",
+  "slides": [
+    {
+      "heading": "1. オリジナルうちわで推しアピール",
+      "body": "推し選手の名前や背番号をデコるのが今っぽい🎀\n写真映えも◎！友達と色違いで作るのもおすすめだよ。"
+    },
+    {
+      "heading": "2. ユニフォームコーデでリンク感UP",
+      "body": "推しカラー小物やスカートと合わせてアレンジ。\n普通のワンピに羽織るだけで観戦上級者っぽくなるよ👗"
+    },
+    {
+      "heading": "3. みんなで推しボードチャレンジ",
+      "body": "ハートやメッセージボードは意外と試合中も目立つ！\nSNSでも話題になりやすいよ📸"
+    },
+    {
+      "heading": "4. チームカラーのネイルで密かに推し活",
+      "body": "さりげなく指先まで推しチーム愛を取り入れるのが最近のトレンド💅\n球場グルメ写真とも相性抜群！"
+    },
+    {
+      "heading": "5. 仲間とおそろアイテムで一体感",
+      "body": "推し仲間とタオルやキャップをおそろにすると写真タイムも盛り上がる！\n思い出作りにもぴったり✨"
+    }
+  ],
+  "caption": "野球観戦、せっかくなら推し活も全力で楽しみたいよね！この投稿では、球場で「かわいい」「楽しい」と思える推し活アイデアをまとめてみました🎶\nオリジナルうちわやユニフォームアレンジ、推しボード、ネイル、仲間とおそろアイテム──どれもSNS映え&思い出に残るものばかり。推し活って、工夫次第でどんどん広がるし、同じ推しを持つ仲間とワイワイ盛り上がるのも最高の瞬間！初めて球場に行く人もこの投稿を保存して、今度の観戦の参考にしてね👀\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#推し活",
+    "#観戦コーデ",
+    "#うちわ作り",
+    "#球場ファッション",
+    "#観戦仲間募集中",
+    "#応援グッズ",
+    "#女子野球部",
+    "#球場デビュー"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, Japanese women in their 20s enjoying a lively day at a Japanese baseball stadium, showing off self-made cheering goods and stylish uniforms",
+  "images": [
+    "media/carousel/2026-08-24/01_cover.jpg",
+    "media/carousel/2026-08-24/02_slide.jpg",
+    "media/carousel/2026-08-24/03_slide.jpg",
+    "media/carousel/2026-08-24/04_slide.jpg",
+    "media/carousel/2026-08-24/05_slide.jpg",
+    "media/carousel/2026-08-24/06_slide.jpg",
+    "media/carousel/2026-08-24/07_cta.jpg"
+  ]
+}
