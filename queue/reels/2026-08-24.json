@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-24",
+  "category": "球場観戦Vlog風",
+  "title": "神宮女子の観戦Vlog！推し活まるっと1日密着",
+  "scene": "神宮球場の正面ゲートで待ち合わせ、チケット片手にワクワク入場。売店で球場グルメやドリンクを買って、観客席で乾杯＆自撮り。試合開始！友達同士で応援グッズ振って盛り上がる姿。",
+  "caption": "今日は神宮球場で女子だけの推し活観戦Vlogを撮ってみたよ⚾️💕『野球好きなんだけど、一緒に行く友達なかなかいないんだよね…』って思ってたけど、Draftで観戦仲間ができて初めてのグループ観戦！ゲート前で待ち合わせして、ワクワクしながらスタンドへ。売店では球場グルメも迷いがち🤣そして乾杯でテンション爆上がり🍻推し選手のグッズを手に応援しながら、やっぱり現地最高ってなっちゃう。推し活友達がいると、写真もいっぱい撮れてSNS映え間違いなし！『野球詳しくないんだけど大丈夫？』って人も、雰囲気で楽しめちゃうから心配いらないよ。一緒に盛り上がれる観戦仲間、Draftで見つけてみて！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#神宮球場",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活女子",
+    "#観戦仲間",
+    "#現地レポ",
+    "#野球観戦",
+    "#推し活"
+  ],
+  "prompts": {
+    "kling": "A lively day at Meiji Jingu Stadium: Three Japanese women in their 20s meet at the entrance, laughing as they show their tickets. The camera follows them hand-held as they walk through the bustling concourse, stopping at a food stall to buy signature stadium eats and drinks, then move to their seats. The friends take cheerful selfies, raise their drinks for a toast, and energetically cheer with team towels and goods as the game begins. Natural lighting, casual summer outfits, upbeat, no AI artifacts, authentic smartphone-shot look, hand-held movement throughout.",
+    "veo": "vertical, 9:16, 10-15s, photorealistic, smartphone-shot style. 0-5s: Three Japanese women in their 20s excitedly meet and enter Meiji Jingu Stadium, tickets in hand, capturing the energetic entrance and moving through the concourse with crowds in the background. 5-10s: The group stops at a lively food stall, laughing and buying classic stadium food and drinks. 10-15s: They sit in the stands, take selfies, clink drinks for a toast, and wave team towels and goods, supporting their favorite players. No overlays, just natural, joyful moments.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot look. Begin with hand-held walking shot as three Japanese women approach and enter Meiji Jingu Stadium; switch to a natural pan as they queue and buy food at a bustling stall; cut to a gentle push-in and pan while they sit, take selfies, toast with drinks, and cheer with team goods in the stands. All movements are steady but authentically hand-held, capturing real candid moments, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-24.mp4"
+}
