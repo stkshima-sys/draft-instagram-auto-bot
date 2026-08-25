@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-25",
+  "category": "ホームランの盛り上がり",
+  "title": "ホームランでスタンドがひとつに！野球女子の熱狂観戦体験",
+  "scene": "エスコンフィールド北海道の観客席、20代女性たちがホームランの瞬間に立ち上がり歓声とハイタッチで盛り上がる。手には推し選手タオルや応援グッズ、笑顔と喜びが溢れるリアルな映像。スマホ目線で臨場感たっぷりな撮影で、野球観戦の“共感”を切り取る。",
+  "caption": "推し選手がホームランを打った瞬間、スタンド中がひとつになってめちゃくちゃ盛り上がるあの感じ…！🔥 気づけば隣の友達や周りの人たちと自然にハイタッチしちゃうし、「この瞬間のために観にきてる！」って思うよね🥰 野球を一緒に楽しむ仲間がいると、感動も楽しさも何倍にも広がるから不思議。球場で叫んでハイタッチして、グルメ片手に盛り上がるのが最高の推し活！ひとりだとちょっと勇気がいる…って思っても、みんな同じ気持ちかも。“観戦仲間”と一緒だと、もっと自然体で楽しめるよ⚾️💙　あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#エスコンフィールド",
+    "#観戦仲間",
+    "#推し活",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#ホームラン",
+    "#ハイタッチ",
+    "#野球観戦"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Scene: At Es Con Field Hokkaido, Japanese women in their 20s in casual, trendy baseball outfits. A home run is just hit — women jump up from their seats, cheer loudly, raise arms, and give heartfelt high-fives with big smiles. They're holding team towels and food, genuinely excited. Camera moves naturally as if a friend is recording the moment, capturing candid reactions and the live stadium vibe, no text overlays, no AI artifacts.",
+    "veo": "Vertical video, 10-15 seconds, photorealistic, smartphone-shot look, handheld. 0-5s: Crowd shot of 2-3 Japanese women in their 20s sitting together at Es Con Field Hokkaido, holding team towels and snacks, chatting and glancing toward the field. 5-10s: Suddenly, a home run is hit — they leap up, cheering, arms in the air, exchanging excited high-fives with each other and nearby fans, faces lit up with joy, camera shakes with excitement. 10-15s: The women laughing, hugging, eating ballpark food, camera pans across their happy faces and the crowd’s lively reaction, no text overlays, no AI artifacts.",
+    "higgsfield": "Vertical, 10-15 seconds, photorealistic, looks like a smartphone video. Start with handheld camera slightly shaking, filming Japanese women in their 20s seated in the stands. As the home run is hit, perform a natural handheld push-in to capture their faces lighting up, then a quick pan left and right as they jump up, cheer, and give high-fives, capturing the spontaneous joyful reactions and movement. End with a gentle handheld pull-back showing the group and surrounding crowd celebrating, no AI artifacts, no text overlays."
+  },
+  "videoFile": "videos/2026-08-25.mp4"
+}
