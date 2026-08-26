@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-26",
+  "category": "球場グルメ紹介",
+  "title": "PayPayドーム女子の推し球場グルメ体験リール",
+  "scene": "20代女子がPayPayドームの観客席で名物グルメ（例えばビールと明太子ソーセージ）を手に笑顔で乾杯。ひとくち食べて「最高！」とリアクション、友達同士で盛り上がる様子。最後に「こういう時間、野球女子でシェアしたいよね」の空気感で締め。",
+  "caption": "PayPayドームの球場グルメ、みんなはどれが好き？🍴⚾️\n野球観戦の楽しみといえば、やっぱり現地でしか味わえない限定グルメ！今日は、球場女子3人で明太子ソーセージと生ビールで乾杯してきたよ🥳　ひとくち食べるだけでテンション爆上がり！球場の空気、みんなの応援、そして推しのユニフォーム…全部が合わさって、なんでもないひとときが特別な思い出に変わるんだよね💖　一緒に楽しめる仲間がいると、もっと会話も盛り上がっちゃうし、推し選手の話も止まらない！でも「誘える友達がいない…」っていうの、ちょっと分かるかも。でも大丈夫、野球女子同士のつながりって意外とすぐ見つかるし、Draft使えば球場仲間も増やせるよ🙌\nグルメも空気もシェアできる仲間、いたら最強だよね✨\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#球場グルメ",
+    "#野球女子",
+    "#PayPayドーム",
+    "#プロ野球",
+    "#推し活",
+    "#観戦仲間",
+    "#観戦コーデ",
+    "#福岡グルメ",
+    "#女子会",
+    "#観戦日記"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second, photorealistic smartphone-shot video of three Japanese women in their 20s sitting together at the PayPay Dome baseball stadium during a sunny game. They're in casual but cute outfits, smiling and laughing as they hold up and show off classic stadium foods like mentaiko sausages and draft beer. The camera captures their genuine excitement as they take a big bite and cheer with their drinks, framed by the stadium crowd and seats around them. The hand-held camera follows natural movements and lively reactions, with no artificial elements or overlays, mimicking spontaneous friends-capture style.",
+    "veo": "Scene 1 (0-5s): Handheld vertical shot approaches three Japanese women in their 20s seated together at PayPay Dome, laughing and talking, with visible trays of stadium food.\nScene 2 (5-10s): Close-up as one woman raises a mentaiko sausage and another holds a beer; they all clink their drinks, take a bite, and react with delight. The background includes a lively crowd and some ballpark banners.\nScene 3 (10-15s): The women exchange smiles, chat animatedly about the food, and gesture toward the field, showing off their food to each other in a playful, natural moment. No overlays or AI artifacts.",
+    "higgsfield": "Handheld vertical camera work, starting with a pan across three smiling Japanese women in their 20s at a packed PayPay Dome. Push-in for a close-up as they toast with beers and take a bite of stadium food, capturing their cheerful faces and animated gestures. The camera gently shifts to reveal the bustling crowd and vibrant stadium atmosphere, all with a candid, lively vibe and no artificial elements."
+  },
+  "videoFile": "videos/2026-08-26.mp4"
+}
