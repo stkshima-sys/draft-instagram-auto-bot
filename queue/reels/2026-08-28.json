@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-28",
+  "category": "球場観戦Vlog風",
+  "title": "神宮球場1日Vlog｜推し活女子のリアル観戦レポ",
+  "scene": "明治神宮球場のゲートをくぐる20代女性たち。売店で球場グルメを買ってワクワク顔、座席で乾杯＆笑顔の応援。日常の延長みたいなリアルな観戦体験をスマホで切り取る。",
+  "caption": "今日は推し活女子の1日球場Vlog🎥✨\n神宮のゲートをくぐった瞬間から気分MAX！友達との「何食べる？」「どこ座る？」ってやりとりも、球場ならではのワクワク感だよね。売店で唐揚げや生ビールをゲットしたら、いざ座席へ！乾杯しながら、目の前で盛り上がる観客を見て「やっぱり現地は最高！」ってつい口にしがち。周りの女子グループもお揃いユニで写真撮ってて、SNSに載せたくなる気持ち超わかる💚\nでも一緒に行く友達がいない時のさみしさも、正直ある…。そんな時こそ観戦仲間探しもありかも？\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#明治神宮球場",
+    "#推し活",
+    "#観戦仲間募集",
+    "#球場Vlog",
+    "#野球観戦",
+    "#休日の過ごし方"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Japanese women in their 20s excitedly enter Meiji Jingu Stadium together, chatting and smiling. Close-up of hands buying fried chicken and drinks at a crowded concession stand, then walking up the steps toward the seats. The group of 2-3 women sits together in bright casual clothes and team accessories, clinking drinks for a cheerful toast, then cheering with fans in the background. No text overlays, no AI artifacts, looks like a candid real smartphone video.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Scene breakdown: 0-5s — POV and over-the-shoulder shots of two Japanese women in their 20s entering Meiji Jingu Stadium, chatting and smiling; 5-10s — Handheld close-up as they buy fried chicken and beer from a busy concession stand, laughing; 10-15s — At their seats, the group does a friendly kanpai (cheers) and enthusiastically cheers, surrounded by other fans. Background shows clear stadium details. No text overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld camera motion. Start with a slight pan as Japanese women in their 20s walk into Meiji Jingu Stadium (handheld, slight shake), push-in shot at the concession stand as hands pick up food and drinks (handheld close-up), followed by a steady handheld shot of the group sitting in their seats, doing a cheerful toast and cheering with energetic, candid expressions. No text overlays, no AI artifacts, just authentic Japanese ballpark atmosphere."
+  },
+  "videoFile": "videos/2026-08-28.mp4"
+}
