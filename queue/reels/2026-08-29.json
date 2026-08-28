@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-29",
+  "category": "観戦仲間との交流",
+  "title": "明治神宮球場アフター女子会🍻推し活交流リール",
+  "scene": "試合観戦後、明治神宮球場の観客席で20代女性2人が笑顔で自撮り。コンコースでお互いの写真をスマホで撮り合い、売店グルメを片手に乾杯。仲間と気軽に盛り上がる雰囲気をリアルに切り取る。",
+  "caption": "試合後は“誰かと一緒”がやっぱり楽しい！明治神宮球場で推しを応援した後、観戦仲間と写真を撮り合ったり、球場グルメで乾杯したり…✨みんな同じユニやグッズで盛り上がるから、初対面でもすぐ仲良くなれちゃうんだよね！『SNSでしか話せない』『ひとり観戦はちょっと不安…』って思ってたけど、思いきって声かけて良かった～って毎回思う。推しの話題はもちろん、コーデやグルメの写真もみんなでシェアする時間が最高すぎて、楽しさ倍増しがち♡観戦仲間と一緒だと余韻までずっと続く！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#観戦仲間",
+    "#明治神宮球場",
+    "#球場グルメ",
+    "#推し活女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#推し活友達",
+    "#野球観戦",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s at Meiji Jingu Stadium after a baseball game, sitting in the stands taking cheerful selfies, then moving to the concourse taking photos of each other with their smartphones, finally buying food and drinks at the concession stand and doing a lively 'cheers' gesture, all with genuine laughter and relaxed, friendly interactions. No text overlays, no AI artifacts, focus on authentic atmosphere.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot, natural. 0-5s: Two Japanese women in their 20s sitting in the stands at Meiji Jingu Stadium, smiling and snapping selfies together after a baseball game. 5-10s: Both walking through the concourse, taking turns photographing each other with their phones, playful and laughing. 10-15s: At a stadium food stand, they each hold a drink and food, clinking their cups together with big smiles and making casual conversation, capturing a lively and natural vibe. No overlays or visible AI effects.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot, two Japanese women in their 20s at Meiji Jingu Stadium. Begin handheld wide shot of both in the stands taking a selfie, natural shake. Subtle pan as one takes photos of the other on the concourse, giggling. Gentle push-in at the concession stand as both hold food and drinks, smiling and toasting together, all in a relaxed, authentic mood. No overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-08-29.mp4"
+}
