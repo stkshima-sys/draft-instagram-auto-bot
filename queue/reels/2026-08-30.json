@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-30",
+  "category": "ホームランの盛り上がり",
+  "title": "ホームランの瞬間、女子観戦仲間と盛り上がるリアルな体験リール",
+  "scene": "横浜スタジアムの外野席で、推しチームのホームランが出た瞬間、20代の女性観戦仲間たちが一斉に立ち上がり両手でハイタッチ＆ハグ。周囲のファンとも喜びをシェアして、スマホで笑顔の自撮り＆動画も撮り合う。臨場感ある盛り上がりのリアルな友情シーン。",
+  "caption": "「ホームランの瞬間って、なんであんなにテンション爆上がりするんだろう…？🤔✨」\n\n今日は横浜スタジアムで推しチームのホームランが飛び出した瞬間をリールでお届け！観戦仲間と一緒だと、思いっきり立ち上がってハイタッチしたり、知らない隣の人ともつい盛り上がっちゃったり…。あの一体感、最高すぎて忘れられないよね😂💙\n\n「一緒に盛り上がる仲間がほしい」「1人で球場行くのはちょっと不安…」って思ってる人も、実は結構いるんだよ。自分から声かけづらくても、仲間と一緒ならホームランの瞬間も何倍も楽しくなる！\n\n今日も自撮り動画で思い出をいっぱい残したよ📱💕 忙しい日々も、こういう瞬間があるからまたがんばれる！\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#推し活",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#観戦コーデ",
+    "#ホームラン",
+    "#野球観戦",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Three Japanese women in their 20s sitting together in the outfield stands of Yokohama Stadium during a pro baseball game, wearing casual summer outfits, holding drinks and cheering towels. As a home run is hit, they all jump up, cheer loudly, exchanging high-fives and joyful hugs with each other and other nearby fans. One woman takes a quick selfie video capturing their shared excitement. Natural smiles, vivid stadium background, crowd in the distance, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, Japanese women in their 20s at Yokohama Stadium.\n0-5s: Two friends sitting in the outfield stands, chatting with drinks, glancing excitedly at the field. \n5-10s: The moment a home run is hit—everyone stands, the friends scream, exchange high-fives, and hug joyfully, crowd in the background cheering.\n10-15s: One woman quickly switches to selfie mode, the group poses with big smiles, capturing the shared moment on video, stadium lights and lively fans behind them. No overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look, natural handheld camera with gentle handheld shake, occasional quick pan following the women's reactions. Camera is close-up during the home run, capturing high-fives and hugs. At the end, a quick push-in to the group selfie moment, crowded Yokohama Stadium backdrop, Japanese women in their 20s, lively, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-30.mp4"
+}
