@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-31",
+  "category": "推し活動画",
+  "title": "推し活女子のYOKOHAMA応援Vlog",
+  "scene": "横浜スタジアムの観客席で、ユニフォーム姿の女子たちがタオルを掲げて盛り上がる。うちわを振って「推し」を全力で応援しながら、仲間と笑顔で乾杯。最後はスマホのインカメで全員集合の記念セルフィー！",
+  "caption": "野球女子の推し活、楽しんでる？ユニ姿で全力応援したり、タオルやうちわで推しアピしてる時って、誰よりも自分らしくなれる気がするんだよね🤭好きな選手の活躍にキャーッてなって、周りのファンとも自然と仲良くなれるこの一体感…最高すぎ！でも実は「一緒に来る子がいない」って悩みもけっこう多いあるある。Draftなら同じ気持ちの女子と観戦仲間になれるから、寂しさゼロで推し活できちゃう💙球場で友達と盛り上がった思い出、もっと増やそう！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#推し活",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#観戦仲間",
+    "#応援グッズ",
+    "#球場ライフ",
+    "#Draftで観戦仲間"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, natural smartphone video look. Young Japanese women (20s) in baseball jerseys at Yokohama Stadium, sitting in the audience seats, holding up colorful towels, smiling and cheering. They wave handmade uchiwa fans, laugh together, toast with drinks, and take a group selfie using a smartphone. Sunlight, crowd in background. Handheld, slight shake, authentic atmosphere, no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot, 10-15s. 0-5s: Two Japanese women in their 20s, wearing team jerseys, hold up towels and cheer excitedly from Yokohama Stadium's stands. 5-10s: A third friend joins, waving a cute uchiwa fan; together, they toast their drinks, laughing. 10-15s: The group stands close, smiling and taking a cheerful group selfie with a smartphone, bright stadium lights and crowd visible in the background. No overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Scene starts with a handheld pan across Japanese women in their 20s in baseball jerseys at Yokohama Stadium, waving towels and cheering. Camera pushes in slightly as they raise their drinks for a toast, capturing genuine smiles. Ends with a dynamic handheld shot as one friend holds the smartphone for a selfie, all girls squeeze together, beaming at the camera. Real crowd and stadium environment, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-31.mp4"
+}
