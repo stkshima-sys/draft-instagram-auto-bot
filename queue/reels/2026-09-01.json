@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-01",
+  "category": "女性同士の観戦",
+  "title": "野球女子観戦あるある！東京ドームの友達時間",
+  "scene": "東京ドームの観客席で、女友達3人がスマホで自撮りしながら乾杯。グルメをシェアして盛り上がる様子。応援タオルを持ちつつ、お互い推し選手の話題で笑い合う。",
+  "caption": "野球好き女子の観戦って、やっぱり最強の推し活だよね🥰友達と一緒に東京ドームで過ごす時間、推しのプレーに大興奮してハイタッチしたり、球場グルメをシェアしたり🍟🍺観戦コーデもこだわっちゃうし、撮りがち自撮りも思い出になる！でも実は「なかなか一緒に行ける友達見つからない…」って悩みもあるあるだよね。Draftなら観戦仲間を見つけて、もっと気軽に野球を楽しめるよ💡ひとり観戦もいいけど、やっぱり“共感できる仲間”がいると楽しさ倍増。みんなはどんな観戦の瞬間が好き？あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#推し活",
+    "#球場グルメ",
+    "#観戦仲間",
+    "#東京ドーム",
+    "#観戦コーデ",
+    "#観戦あるある",
+    "#自撮り女子",
+    "#ドラフトマッチング"
+  ],
+  "prompts": {
+    "kling": "Three Japanese women in their 20s sitting in Tokyo Dome stadium seats, laughing and smiling while taking a selfie video with a smartphone. They clink drinks for a toast, share ballpark food like fries and snacks, and wave team towels excitedly. Natural handheld vertical motion, photorealistic, candid moments, realistic lighting and background, no visible AI artifacts.",
+    "veo": "Cut 0-5s: Three Japanese women in their 20s seated in Tokyo Dome, filming a selfie video with a smartphone, smiling and clinking drinks together, handheld, natural lighting. Cut 5-10s: The group excitedly shares ballpark food like fries and croquettes, taking bites and making fun expressions to the phone camera. Cut 10-15s: They cheer with team towels, laughing and talking, closeups of their happy faces, all in a lively stadium crowd. Vertical 9:16, photorealistic, natural smartphone-shot look.",
+    "higgsfield": "Vertical 9:16 video, handheld camera with slight shake to imitate real smartphone shooting, slow push-in on three Japanese women in their 20s at Tokyo Dome seats. Camera pans between faces as they toast drinks, share stadium food, and wave towels, with natural crowd background. Photorealistic, vibrant, lively atmosphere, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-01.mp4"
+}
