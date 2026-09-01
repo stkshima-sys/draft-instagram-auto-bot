@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-02",
+  "category": "Draft利用シーン",
+  "title": "Draftで初めて観戦仲間と球場合流！明治神宮で女子推し活",
+  "scene": "神宮球場の入口前、スマホを見てワクワクしながら仲間と待ち合わせする20代女性。笑顔で合流し、記念にセルフィー。そのまま談笑しながら観客席に向かう。",
+  "caption": "野球友達を作るのって、実はちょっと勇気いりますよね。でもDraftなら『推し同士でつながって、初めて会うのにすぐ意気投合！』な瞬間がいっぱい☺️今日は神宮球場で、Draftで出会った観戦仲間と待ち合わせ！最初はドキドキしてたけど、推し選手や球場グルメトークで一気に打ち解けました。スマホで『どこいる〜？』ってやりとりも楽しいし、推し活の写真もバッチリ撮れちゃう📸球場での出会いって、やっぱり特別。1人観戦に不安がある人も、Draftなら新しい観戦仲間ともっと野球が楽しめるよ！一緒に応援したり、好きなチームの話で盛り上がれる仲間がいると、球場体験が何倍も楽しくなる💡あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#明治神宮球場",
+    "#推し活",
+    "#友達募集",
+    "#球場体験",
+    "#Draftでつながる"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 12-second, photorealistic, smartphone-shot look video. Opening shot: two Japanese women in their 20s stand at Meiji Jingu Stadium’s entrance, checking their phones and searching for each other. They spot each other, smile brightly, wave, and walk closer. Cut to a close-up as they laugh, take a selfie together, and then walk side by side towards the stands, chatting and looking excited. Natural handheld camera with lively, authentic stadium background. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 12 seconds total, photorealistic, realistic smartphone-shot style, Japanese women in their 20s at Meiji Jingu Stadium. 0-5s: Handheld shot of a woman at stadium entrance, looking at her phone, searching for her Draft match; pans to the second woman standing nearby. 5-10s: They recognize each other, smile, wave, meet up, and take a cheerful selfie together. 10-15s: Both walk into the stadium’s concourse, laughing and excited, holding baseball-themed goods, blending with the crowd. Ambient stadium sounds, no overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s photorealistic video with authentic smartphone-shot and natural handheld motion. Start with a slight handheld pan at the stadium entrance as one woman checks her phone. Handheld follow as she walks and waves to her new friend. Quick push-in during their bright smile selfie moment, then handheld tracking shot as both walk together into the stands, chatting and laughing, crowd and stadium energy around. No overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-02.mp4"
+}
