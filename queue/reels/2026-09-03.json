@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-03",
+  "category": "球場グルメ紹介",
+  "title": "女子が選ぶ神宮球場グルメ体験リール",
+  "scene": "明治神宮球場の観客席で20代の日本人女性2人が、人気の球場グルメ（たとえばウインナー盛り）を笑顔で見せ合いながら乾杯🍴。その後、ひと口食べてリアクション＆おいしい！と顔を見合わせる。ラストは「野球観戦に一緒に来てくれる仲間がほしい」と語り合う和やかな雰囲気。",
+  "caption": "野球観戦といえば神宮の球場グルメは外せない🍺✨今日の推しグルメは『ウインナー盛り合わせ』！友達と一緒に「これ美味しい〜」ってシェアしながら盛り上がる瞬間、最高じゃない？ひとり観戦も楽しいけど、やっぱり誰かと『美味しいね！』って笑い合えると何倍も幸せになる気がするんだよね😊💚ちなみに、球場グルメに詳しい“野球女子”に出会えたら、次はどれにしよう〜って悩むのも楽しい！みんなのイチオシ神宮グルメも教えてほしいな🍟⚾️ 『観戦仲間ほしい』『球場グルメ制覇したい』って思ったらDraftもおすすめ♡（※詳細はキャプション末をご覧ください） あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#神宮球場",
+    "#プロ野球",
+    "#観戦仲間",
+    "#推し活",
+    "#女子会",
+    "#ウインナー盛り",
+    "#野球観戦",
+    "#グルメ部"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds. Photorealistic handheld smartphone footage of two Japanese women in their 20s at Meiji Jingu Stadium, sitting in the spectator seats during a lively baseball game. They are smiling, chatting, and holding up colorful stadium food like a sausage platter, clinking their food together as a toast. One woman takes a cheerful bite while looking at her friend, who responds with a delighted expression. The background shows a bustling stadium atmosphere with fans, but focus is on the joyful interaction between the two women enjoying the food, natural lighting, no text overlays.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, natural. 0-5s: Close-up of two Japanese women in their 20s sitting in the stands at Meiji Jingu Stadium, sharing excited smiles as they hold up sausage platters and make a playful toast. 5-10s: One woman takes a big bite, and both react with happy faces, laughing together and showing the food to the camera. 10-15s: The two look around at the vibrant crowd, then exchange a warm glance as one gestures as if inviting new friends to join them, ending with a shared smile. No text overlays, no AI artifacts, all handheld, real-life smartphone look.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, natural handheld camera motion. Begin with a slight push-in towards two Japanese women in their 20s sitting in the stands at Meiji Jingu Stadium, capturing them smiling, holding up a sausage platter, and clinking food. Pan gently between their faces as one eats and reacts happily, then finish with a slight pull-back to reveal the lively stadium background and their friendly atmosphere, emphasizing organic movements, lighting, and realistic smartphone-shot style."
+  },
+  "videoFile": "videos/2026-09-03.mp4"
+}
