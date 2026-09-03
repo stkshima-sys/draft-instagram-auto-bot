@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-04",
+  "category": "推し活動画",
+  "title": "神宮で推し活！ユニ女子の応援あるある3カット",
+  "scene": "明治神宮野球場の観客席で、推し球団のユニフォーム姿の女子2人が笑顔で応援。タオルやうちわを高く掲げてジャンプ！グルメ片手に乾杯する瞬間も自然に映る。",
+  "caption": "野球観戦といえばやっぱり推し活！今日は神宮で仲良し女子2人で、推しユニフォーム＆グッズを全力で身につけて応援してきたよ⚾️💙うちわ振ったり、推しのタオル掲げたり、推し活ってまさに『一体感』が味わえるから最高！球場グルメで乾杯するのも楽しみのひとつ。 でも「一緒に行く友達がなかなかできない」って人も多いよね…そんなときは勇気を出してDraftで観戦仲間を探してみて！野球好きな女子同士だから、最初から話が盛り上がること間違いなし🙌🏻推し活も倍楽しくなるはず✨あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#プロ野球",
+    "#神宮球場",
+    "#ユニフォーム女子",
+    "#観戦仲間",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#応援グッズ",
+    "#ドラフトで仲間探し"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical smartphone-shot video, 10-15 seconds, natural handheld camera. At Meiji Jingu Stadium, two Japanese women in their 20s wear their favorite team’s uniforms and sit in the stands. They smile brightly, wave team towels and uchiwa fans, and cheer while standing and hopping a little. Quick cut to them sitting and clinking drinks, holding ballpark food, laughing. Realistic lighting, crowded stadium atmosphere, no text overlays, no AI artifacts.",
+    "veo": "Scene 1 (0-5s): In the stands of Meiji Jingu Stadium, two Japanese women in their 20s, both wearing team uniforms, stand side-by-side, waving colorful towels and uchiwa fans, cheering energetically. Scene 2 (5-10s): Close-up as they jump and smile, showing excitement, crowd in the background. Scene 3 (10-15s): Cut to the girls sitting, holding drinks and ballpark food, cheerfully clinking glasses and laughing together. Camera has a natural, smartphone-shot feeling; overall atmosphere is lively, warm, and friendly.",
+    "higgsfield": "Vertical 9:16, 10-15s. Start with handheld camera panning across crowded Meiji Jingu Stadium stands to two Japanese women in their 20s in team uniforms. The camera push-ins on them as they wave towels and fans, then smoothly tracks as they jump and cheer. Quick cut, handheld camera pull-back as they sit laughing, making a toast with drinks and showing their ballpark snacks. Photorealistic, natural lighting, authentic smartphone movement, no text overlays, no AI look."
+  },
+  "videoFile": "videos/2026-09-04.mp4"
+}
