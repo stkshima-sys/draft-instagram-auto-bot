@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-05",
+  "category": "観戦仲間との交流",
+  "title": "観戦仲間と神宮グルメ女子会リール",
+  "scene": "明治神宮野球場の観客席で20代女性2人が笑顔で乾杯。その後、球場グルメをシェアしながら写真を撮り合い、最後に自撮りツーショットで楽しさを共有。",
+  "caption": "『野球観戦の後って、必ず仲間とごはん行きがちじゃない？🍚💕神宮ならグルメも映えスポットもたくさん！今日は新しくできた観戦仲間と、推し活トークで盛り上がりながら定番のからあげ＆かき氷で乾杯🎶応援グッズや推しの話も写真もシェアし合うのが楽しすぎて、気づけばスマホのカメラロールがいっぱい😉球場で知り合った友達だからこそ、写真も自然体で盛れるの最高！共感してくれる人、絶対いるよね！一緒に野球女子ライフ楽しもう⚾🍦　あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#観戦仲間",
+    "#プロ野球",
+    "#球場グルメ",
+    "#推し活",
+    "#神宮球場",
+    "#観戦コーデ",
+    "#女子会",
+    "#写真好きな人と繋がりたい",
+    "#野球観戦"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s sit in the Meiji Jingu Stadium stands, smiling, holding drinks for a cheers. Camera captures them laughing and holding up classic ballpark food (karaage, kakigori), then taking selfies and snapping food photos of each other. Realistic natural lighting, energetic mood, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot, no AI look. 0-5s: Two Japanese women in their 20s in Meiji Jingu Stadium stands, smiling and clinking drinks. 5-10s: Close-up shots of their hands holding and sharing ballpark food (fried chicken, colorful kakigori), and giggling while taking photos of each other. 10-15s: The friends pose for a cheerful selfie with the field in the background, showing a natural, fun after-game vibe.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone video, handheld camera motion with slight shake. Start with a handheld pan across the stands to two Japanese women in their 20s, gently push-in as they raise drinks and smile, natural lighting. Camera follows as they exchange ballpark food and take quick photos of one another, ending with a handheld pull-back as they pose for a bright, happy selfie together."
+  },
+  "videoFile": "videos/2026-09-05.mp4"
+}
