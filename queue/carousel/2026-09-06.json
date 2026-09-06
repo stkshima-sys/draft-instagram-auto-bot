@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-06",
+  "category": "球団別特集",
+  "title": "女子必見！阪神ファンが語る甲子園の推しポイント5選",
+  "slides": [
+    {
+      "heading": "1. 聖地・甲子園の雰囲気",
+      "body": "初めて訪れると圧倒されちゃう開放感！\n歴史ある球場の“特別感”は、野球女子なら一度は味わってほしい空間だよ⚾️"
+    },
+    {
+      "heading": "2. みんなで盛り上がる応援歌",
+      "body": "阪神ファンのパワフルな応援はやっぱり名物！\n初心者でもノリやすい、定番の『六甲おろし』は絶対覚えたい🎵"
+    },
+    {
+      "heading": "3. 球場グルメも外せない",
+      "body": "甲子園カレーやレモンサワーなど、ここならではのメニューがいっぱい！\n野球もグルメも楽しみたい女子におすすめ🍛"
+    },
+    {
+      "heading": "4. 推し活映えスポットあり",
+      "body": "外野スタンドや伝説の銀傘下はSNS映え抜群！\n“推しタオル”やユニ姿でたくさん撮りたくなっちゃう📸"
+    },
+    {
+      "heading": "5. 女子トイレ＆休憩スポット充実",
+      "body": "甲子園は女子目線の設備も進化中！\nトイレの数も多いし、日陰エリアやカフェスペースも安心だよ☀️"
+    }
+  ],
+  "caption": "阪神ファン女子がリアルに推せる、甲子園の魅力を5つ厳選してまとめました！一度は聖地で応援したいけど、初めてはちょっと不安…そんな時こそ“観戦仲間”の存在が心強いんだよね。\n\n迫力の応援歌や限定グルメ、SNS映えスポットまで、野球観戦の楽しみ方って実は無限大。女子目線の設備もどんどん進化してて、快適に推し活できるのも嬉しいポイント。\n\n一緒に盛り上がれる友達がいれば、思い出も倍に。球場デビューの参考に、保存してからチェックしてみてね！\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#阪神タイガース",
+    "#甲子園球場",
+    "#球場グルメ",
+    "#推し活女子",
+    "#観戦コーデ",
+    "#野球仲間募集",
+    "#聖地巡礼",
+    "#六甲おろし"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, cheerful Japanese women in their 20s enjoying snacks and taking selfies at Koshien stadium during a baseball game, crowd in the background, summer clothes, fun and friendly atmosphere",
+  "images": [
+    "media/carousel/2026-09-06/01_cover.jpg",
+    "media/carousel/2026-09-06/02_slide.jpg",
+    "media/carousel/2026-09-06/03_slide.jpg",
+    "media/carousel/2026-09-06/04_slide.jpg",
+    "media/carousel/2026-09-06/05_slide.jpg",
+    "media/carousel/2026-09-06/06_slide.jpg",
+    "media/carousel/2026-09-06/07_cta.jpg"
+  ]
+}
