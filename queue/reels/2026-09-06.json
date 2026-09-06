@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-06",
+  "category": "球場グルメ紹介",
+  "title": "神宮女子の推し球場グルメ神3🍦🍗🥤",
+  "scene": "明治神宮野球場の観客席で20代女性2人が笑顔で冷たいソフトクリームを手に乾杯。売店前で名物唐揚げを受け取ってはしゃぐカット。観戦しながらグルメを頬張り「美味しすぎ！」とアイコンタクトするリアルなショット。",
+  "caption": "神宮といえば…やっぱり球場グルメは外せないよね🍦🍗💚推し活女子2人で、名物ソフトクリームで乾杯したり、売店の唐揚げを受け取るだけで一気にテンションUP！「どれ食べる？」って迷う時間も最高の思い出。現地だから味わえる美味しさ＆雰囲気、そして周りもみんな野球好きって思うと心強くて…ひとり観戦が不安でも、共通の趣味で繋がれる仲間がいれば大丈夫だよ✨グルメ片手に、推しの応援もしっかり全力で！もし「誰かと一緒に盛り上がりたいな」って思ったらDraftで観戦友達を探すのもアリだよ😋 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#球場グルメ",
+    "#野球女子",
+    "#プロ野球",
+    "#神宮球場",
+    "#推し活",
+    "#観戦仲間",
+    "#グルメ部",
+    "#観戦コーデ",
+    "#週末のお出かけ",
+    "#ドラフト仲間"
+  ],
+  "prompts": {
+    "kling": "Two Japanese women in their 20s sit together in the stands at Meiji Jingu Stadium, smiling as they clink soft-serve ice cream cones. The camera follows them handheld as they walk to a food stall, receive karaage fried chicken, and giggle in excitement. They return to their seats, eat the food, and exchange delighted glances, all shot in a vertical 9:16, photorealistic style with natural smartphone-like motion.",
+    "veo": "0-5s: Two Japanese women in their 20s seated in the stands of Meiji Jingu Stadium, cheerfully clinking their soft-serve ice cream cones, natural sunlight, crowds in the background. 5-10s: The friends at a food stall on the concourse, smiling as they receive a tray of karaage chicken, captured in a handheld, spontaneous style. 10-15s: Back in their seats, eating and reacting joyfully to the food, exchanging happy eye contact, the stadium background vivid, shot in vertical 9:16, photorealistic, smartphone-shot look.",
+    "higgsfield": "Handheld vertical 9:16 camera following two Japanese women in their 20s at Meiji Jingu Stadium; starts with a gentle push-in as they clink ice cream cones in their seats, then pans to follow them walking to the food stand, handheld for a sense of realism as they receive karaage, and finally a close handheld reaction shot as they eat and exchange happy glances in the stands, photorealistic, natural smartphone-shot feel, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-06.mp4"
+}
