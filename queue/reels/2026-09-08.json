@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-08",
+  "category": "球場観戦Vlog風",
+  "title": "神宮球場女子Vlog：推し活1日密着リール",
+  "scene": "明治神宮球場のゲート前でワクワク入場する20代女子。売店で大人気の球場グルメを選び、観客席で友達と乾杯＆はじける笑顔。応援グッズ片手に推し球団を全力で応援する姿がリアルに映る。",
+  "caption": "＼野球観戦はやっぱり仲間とが楽しい！／\n球場のワクワクは入場からもう始まってるよね✨売店でどれ食べるか悩んだり、友達と乾杯したり、推しタオルを振りながら本気応援！このリアルな1日があるから、もっともっと球場が好きになっちゃう。1人観戦も悪くないけど、やっぱり「野球好き！」って語り合える仲間がいる嬉しさは格別。Draftなら、同じ目線で盛り上がれる友達もきっと見つかるよ。あなたはどんな球場の楽しみ方が好き？気になるグルメや応援スタイル、コメントで教えてね！\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#観戦仲間",
+    "#プロ野球",
+    "#球場グルメ",
+    "#神宮球場",
+    "#推し活",
+    "#観戦コーデ",
+    "#応援スタイル",
+    "#球場Vlog",
+    "#週末の楽しみ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15s video that looks like it was shot on a smartphone. Three Japanese women in their 20s, smiling as they walk through the entrance gate of Meiji Jingu Stadium, holding tickets and ballpark goods. Quick cut: the same friends laughing and choosing food together at a bustling concession stand, arms full of snacks and drinks, immersed in the lively atmosphere. Final scene: sitting in the stands, they toast with drinks, show off their team towels and cheer passionately, all shot with natural handheld motion and authentic stadium lighting—no text overlays or AI artifacts.",
+    "veo": "Scene 1 (0-5s): At the entrance of Meiji Jingu Stadium, three Japanese women in their 20s walk up, exchanging excited glances, holding baseball tickets and snapping selfies. Scene 2 (5-10s): At a popular stadium food stand, they discuss and select ballpark snacks—hot dogs, fried chicken, beers—laughing and making dynamic, expressive gestures. Scene 3 (10-15s): In the stands, they sit together, toast their drinks, wave team towels, and cheer for their team with genuine joy and energy, all captured with natural smartphone-style handheld movement, no overlays or AI feel.",
+    "higgsfield": "Vertical 9:16, photorealistic smartphone look, 10-15 seconds. Start with a handheld pan as three Japanese women enter Meiji Jingu Stadium, capturing their excited faces. Follow with a handheld push-in as they browse the food concessions, laughing and selecting snacks. End with a natural shaky handheld wide shot of them in the stands, toasting drinks, waving towels, and lively cheering in real stadium lighting. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-08.mp4"
+}
