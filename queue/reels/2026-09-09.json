@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-09",
+  "category": "推し活動画",
+  "title": "推し活全開！横浜スタジアムで応援DAY",
+  "scene": "横浜スタジアムの観客席で、20代の女性2人がユニフォーム姿で推しタオルを掲げて応援。席でうちわを振りながら盛り上がる。合間に笑顔で球場グルメ（ホットドッグ）を分け合い乾杯。",
+  "caption": "野球観戦って、推しのユニフォームやグッズを全力で身につけて応援するのが本当に楽しい！☺️ 横浜スタジアムの青い空の下、友達とタオル掲げて盛り上がったり、みんなでうちわ振って声援送ったり、つい写真も撮りまくりがち📸 応援の合間の球場グルメも最高で、推しの話をしながら食べる時間も大好き🥤💙 でも「一緒に騒げる仲間がなかなか見つからない」って悩む人、意外と多いよね。そんな時こそ野球女子の輪を広げて、もっと気軽に推し活できたら最高だと思う！観戦仲間となら、球場の楽しさが倍増するよ。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#観戦仲間",
+    "#プロ野球",
+    "#推しタオル",
+    "#グルメ女子",
+    "#Draftで観戦仲間"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s at Yokohama Stadium: first, both in their team's uniforms, sitting in the audience seats and raising baseball towels while cheering with big smiles. Then, they wave fan uchiwas and laugh together. Finally, the women share and toast with stadium hotdogs and drinks, enjoying their time. No AI artifacts, no text overlays, background filled with stadium crowd and sunlight.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, no AI artifacts. Cut 0-5s: Two Japanese women in their 20s, wearing baseball uniforms, hold up colorful towels and cheer excitedly in the stands at Yokohama Stadium, with the lively crowd in the background. Cut 5-10s: The women wave fan uchiwas, smiling and laughing with each other, camera slowly pans to capture their joy. Cut 10-15s: Both enjoy stadium food, clinking hotdogs and drinks in a fun cheers, shot close-up with a handheld camera motion.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot style, no AI artifacts. Start with a natural handheld shot of two Japanese women in their 20s seated in the audience at Yokohama Stadium, wearing uniforms and raising towels while cheering. Camera pans gently as they wave uchiwas. Then, a handheld push-in to a shot of them sharing hotdogs and toasting their drinks, capturing natural laughter and excitement. No text overlays."
+  },
+  "videoFile": "videos/2026-09-09.mp4"
+}
