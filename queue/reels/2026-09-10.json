@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-10",
+  "category": "球場観戦Vlog風",
+  "title": "横浜スタジアム女子観戦1日Vlog〜推し活グルメ&乾杯編",
+  "scene": "友達同士で横浜スタジアムに到着し、笑顔で入場ゲートを通過。売店で人気の球場グルメやドリンクを選びワクワク。スタンドの席に並んで座り、乾杯しながら盛り上がり、そのまま応援が始まる。",
+  "caption": "野球女子の“球場観戦”って、何回行ってもワクワクが止まらないよね！🌈 今日は推し活仲間と横浜スタジアムで1日満喫してきたよ。ゲートをくぐった瞬間、グルメの香りと応援の音でテンションMAX！売店で迷いながら選んだ名物グルメを手に、スタンドで乾杯🍻 そして推しの応援が始まれば、隣に仲間がいる幸せを実感…✨ 実は、前は「一緒に観てくれる友達いないな…」って不安だったけど、Draftで観戦仲間ができて、こんなに楽しくなるなんて！推し活・グルメ・おしゃべり全部楽しんじゃう、これが“野球女子のとっておきの休日”だよね⚾️ みんなはどんな球場体験が好き？あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#横浜スタジアム",
+    "#球場グルメ",
+    "#観戦仲間",
+    "#推し活",
+    "#プロ野球",
+    "#女子旅",
+    "#観戦コーデ",
+    "#ベイスターズ",
+    "#休日の過ごし方"
+  ],
+  "prompts": {
+    "kling": "A group of 2-3 Japanese women in their 20s, smiling and chatting, walk through the entrance gate of Yokohama Stadium with casual, trendy outfits. The camera follows their natural movements as they stop by a bustling concession stand, laugh while choosing popular stadium food and drinks, then head up the stadium steps to their seats. They sit down, clink drinks in a cheerful toast, and start cheering, blending into the lively atmosphere of the baseball crowd. All scenes are in vertical 9:16 format, with realistic smartphone-shot, handheld camera, lively but natural motion, photorealistic look, and no text overlays or AI artifacts.",
+    "veo": "0-5s: Two to three Japanese women in their 20s arrive together at the entrance of Yokohama Stadium, waving tickets and smiling as they pass through the gate. 5-10s: The women stand in line and browse a concession stand, giggling as they point at and select popular stadium food and cold drinks. 10-15s: Seated side-by-side in the stadium stands, the friends hold up snacks and drinks for a joyful toast, then join the crowd in lively baseball cheering, capturing the excitement of the game. Camera is vertical 9:16, photorealistic, handheld smartphone style, no overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, natural handheld smartphone camera. Start with a subtle walking handheld shot following Japanese women in their 20s entering Yokohama Stadium, then switch to a side pan at the concession stand as they select food. Transition to a gentle push-in as they sit in the stands, then a brief handheld close-up for a smiling group toast and cheering. No text overlays, no AI artifacts, realistic lighting and motion."
+  },
+  "videoFile": "videos/2026-09-10.mp4"
+}
