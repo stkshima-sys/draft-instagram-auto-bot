@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-11",
+  "category": "推し活動画",
+  "title": "推し活全開！PayPayドーム女子観戦あるある3連発",
+  "scene": "PayPayドームの観客席で、ユニフォーム姿の20代女性2人が笑顔でタオルを掲げて応援。推し選手のうちわを手に盛り上がるショット。グルメ片手に自撮りしながら乾杯するシーン。",
+  "caption": "PayPayドームの観客席に集まる、野球女子たちのリアルな推し活シーンを3連発で！ユニフォームに着替えて、推しのタオルやうちわを全力で振るこの時間が、実は一番のリフレッシュだったり🤍野球仲間と「今日のグルメ何食べる？」って言いながら盛り上がる瞬間も最高なんだよね🍽️1人観戦が寂しいって思ったこともあったけど、勇気出して新しい仲間に話しかけてみたら世界広がったりするし、ほんと推し活って出会いのきっかけだと思う🥰野球観戦の楽しみ方って無限大！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#PayPayドーム",
+    "#観戦仲間募集",
+    "#うちわ応援",
+    "#タオル応援",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second photorealistic video shot with a natural smartphone feel inside PayPay Dome in Fukuoka. Two Japanese women in their 20s, wearing trendy baseball uniforms, are in the stands: first they cheer smiling with towels held up overhead, then excitedly wave handmade fans with their favorite player's name, finally laugh while clinking drinks (like lemonade or beer) and taking a selfie together with stadium food in hand. Natural handheld camera with casual movement, warm lighting, no overlays, no AI vibes.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look. 0-5s: Two Japanese women in their 20s in baseball uniforms, in PayPay Dome stands, standing together smiling, waving towels in support for their favorite team. 5-10s: The friends sit down together, holding and shaking custom fans with their baseball hero’s name, showing enthusiastic and fun expressions. 10-15s: Both toast their drinks and take a cheerful selfie, holding classic Japanese stadium food, with the outfield as colorful background. All handheld, natural body language, lively stadium atmosphere, no text overlays.",
+    "higgsfield": "Vertical 9:16, photorealistic video, smartphone style. Handheld camera starts with a slight pan across two Japanese women in their 20s in baseball uniforms, cheering and waving towels in PayPay Dome’s stands. Push-in as they wave uchiwa fans and show their excitement, then switch to a subtle dolly-in during cheers. Ends with a natural handheld pullback as they toast drinks and take a joyful selfie together, stadium and fellow fans visible in the blurry background. All motion is casual, immersive and realistic, no AI or text overlays."
+  },
+  "videoFile": "videos/2026-09-11.mp4"
+}
