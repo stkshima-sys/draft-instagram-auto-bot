@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-11",
+  "category": "球場グルメ",
+  "title": "保存必須！球場グルメ神7選🍴",
+  "slides": [
+    {
+      "heading": "東京ドームの名物ジャイアンツカレー",
+      "body": "球場に行ったら一度は食べたい定番グルメ！\nまろやかなルーとゴロゴロお肉がクセになるよ🍛\n1,100円／1F売店でも購入OK"
+    },
+    {
+      "heading": "甲子園の“甲子園カツサンド”",
+      "body": "肉厚カツがずっしり入った大人気サンド。\nボリューム満点で観戦中にパワーチャージ間違いなし！\n1,000円／アルプスデッキ横で販売"
+    },
+    {
+      "heading": "楽天モバイルパークの牛タン串",
+      "body": "仙台名物の牛タンを贅沢に串刺しで！\n分厚くてジューシー、インスタ映えも◎\n800円／バックネット裏売店"
+    },
+    {
+      "heading": "エスコンFのバターチキンカレー",
+      "body": "新球場限定！スパイス感とほろ甘さが絶妙。\n見た目も映えて女子人気高め🍗\n1,200円／内野3Fカレーショップにて"
+    },
+    {
+      "heading": "バンテリンドームのオムそばめし",
+      "body": "ふわとろ卵にそばめしが包まれた名物。\n小腹が空いた時にぴったり！\n750円／2Fグルメコーナー"
+    },
+    {
+      "heading": "神宮球場 ジャンボからあげ",
+      "body": "衣サクサク・中ジューシーな大きめサイズ。\nシェアもできて友達と盛り上がるよ！\n600円／外野コンコース"
+    }
+  ],
+  "caption": "球場って実はご飯も超楽しいんだよね🍴推しの試合を観ながら美味しい球場グルメを食べると、観戦がもっと特別になる！今回は、人気球場の“女子がリアルに選ぶ推しメニュー”をまとめてみたよ📸\n混雑しやすい売店や映えポイント、知らなかった裏メニューまで…友達や観戦仲間とシェアすれば、きっと盛り上がるはず。どれも写真に撮りたくなる美味しさ＆ボリューム感なので、保存して今度の観戦に役立ててね！\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#プロ野球",
+    "#推し活",
+    "#観戦コーデ",
+    "#東京ドーム",
+    "#エスコンフィールド",
+    "#甲子園グルメ",
+    "#観戦仲間募集中",
+    "#野球観戦"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, a realistic photo of Japanese women in their 20s enjoying gourmet food at a baseball stadium in Japan, daytime, casual clothes, happy mood, Tokyo Dome or modern stadium in background",
+  "images": [
+    "media/carousel/2026-09-11/01_cover.jpg",
+    "media/carousel/2026-09-11/02_slide.jpg",
+    "media/carousel/2026-09-11/03_slide.jpg",
+    "media/carousel/2026-09-11/04_slide.jpg",
+    "media/carousel/2026-09-11/05_slide.jpg",
+    "media/carousel/2026-09-11/06_slide.jpg",
+    "media/carousel/2026-09-11/07_slide.jpg",
+    "media/carousel/2026-09-11/08_cta.jpg"
+  ]
+}
