@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "category": "観戦仲間との交流",
+  "title": "観戦仲間とPayPayドームごはん女子会",
+  "scene": "球場観戦後、ユニ姿の女性2人がPayPayドーム内の売店でグルメを選ぶ→席で乾杯しながらスマホで写真を撮り合う→大笑いしながら「野球観戦仲間って最高！」とピースサインで締め",
+  "caption": "野球観戦の楽しみって、試合だけじゃないよね！😊PayPayドームで観戦帰りに、観戦仲間とワイワイ球場グルメをシェアしながら写真を撮ったり、推し活トークで盛り上がったり…そんな時間が最高なんだ🎶グルメ選びも「どれにする？」って悩みながら、つい盛りすぎちゃうのも女子あるある！笑　ユニフォーム姿で一緒に乾杯して「次はいつ行く？」なんて盛り上がる時間、観戦仲間がいるからこそ味わえる特別な思い出♡一人じゃ不安…って思ってたけど、気軽に仲間を作れてこんなに楽しくなるなんて！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#福岡ドーム",
+    "#Draftで仲間作り",
+    "#女子観戦",
+    "#野球観戦",
+    "#写真好き女子"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic. Two Japanese women in their 20s, wearing baseball jersey outfits, at PayPay Dome Fukuoka. Start with handheld camera following them choosing food at a stadium concession stand, laughing and chatting. Cut to them sitting at their stadium seats, holding up food, making a toast with drinks, and taking selfies of each other with natural smartphone gestures. End with both women laughing, doing peace signs to the camera, capturing the vibe of friendship and post-game euphoria. No AI artifacts, natural lighting, ambient crowd background.",
+    "veo": "Vertical 9:16, photorealistic, 10-15 seconds. Cut 0-5s: Handheld camera follows two Japanese women in baseball jerseys walking through PayPay Dome’s food concourse, choosing and ordering food, smiling and chatting. Cut 5-10s: Both seated in the stadium, exchanging their chosen ballpark foods, raising drinks for a kanpai and snapping candid photos of each other on their phones. Cut 10-15s: Both women face the smartphone camera, laughing loudly and flashing peace signs, vibrant game-day atmosphere in the background. No overlays, natural movement, no visible AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic. Handheld camera movement throughout. Start with a slow pan as two Japanese women in baseball jerseys browse stadium food stands at PayPay Dome. Transition to a push-in shot as they sit side-by-side in the spectator seats, clink their drinks, and take photos of their food and each other. End with a slight dolly out as the women laugh and pose with peace signs, capturing a lively, authentic friend group energy. No AI artifacts, natural stadium lighting."
+  },
+  "videoFile": "videos/2026-09-12.mp4"
+}
