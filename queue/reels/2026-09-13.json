@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-13",
+  "category": "球場観戦Vlog風",
+  "title": "PayPayドーム女子観戦Vlog：推し活1日密着！",
+  "scene": "友達同士でPayPayドームに到着してワクワク。売店で人気グルメを選び、座席でグッズ片手に乾杯。試合開始とともに笑顔で応援する一日をスマホでリアルに切り取る。",
+  "caption": "PayPayドームで野球観戦って、女子だけでも最高に楽しいって知ってた？入場ゲートでワクワクしながら写真撮って、推しグッズ片手に球場グルメをチョイス！『何食べる？』『やっぱドーム限定の唐揚げ！』なんて言いながら、最高の眺めの席で乾杯。試合が始まると、推しの応援歌でテンション最高潮！1人観戦もちょっと不安だけど…仲間と一緒なら新しい出会いもあって楽しいよ。『Draft』で観戦仲間を見つけるのもありかも✨ 野球好き女子の“推し活1日”Vlog、保存して友達誘う参考にしてね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#PayPayドーム",
+    "#観戦仲間募集中",
+    "#福岡グルメ",
+    "#ドラフト仲間",
+    "#球場Vlog"
+  ],
+  "prompts": {
+    "kling": "A group of 2-3 Japanese women in their 20s arrive at PayPay Dome in Fukuoka, excitedly filming each other with a smartphone as they walk through the stadium entrance. They explore the bustling concourse, laughing and pointing at food stalls. The camera follows one woman choosing stadium food, then cuts to the friends clinking drinks and smiling in their seats, cheering for the game, wearing team accessories. The footage is photorealistic, vertically framed (9:16), with natural handheld movement, lighting like a real smartphone, and no AI artifacts or text.",
+    "veo": "First 0-5s: Japanese women in their 20s, excitedly entering PayPay Dome, smiling and filming each other on their smartphones at the entrance. 5-10s: Walking through the concourse, browsing and choosing stadium food from colorful food stalls, showing friendly interactions. 10-15s: Sitting in stadium seats with great field view, holding team goods, making a toast with drinks, cheering and enjoying the game together. The entire video should look photorealistic, vertical 9:16, with a natural handheld smartphone feel, and no visible AI or text overlays.",
+    "higgsfield": "Handheld vertical 9:16 camera, following Japanese women in their 20s at PayPay Dome. Start with a push-in shot walking through the entrance, then a slow pan across the food stalls as they pick their favorite snacks. Finish with a handheld close-up of the friends in stadium seats, laughing, clinking drinks, and cheering. Photorealistic look, natural lighting, and authentic smartphone-style motion throughout, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-13.mp4"
+}
