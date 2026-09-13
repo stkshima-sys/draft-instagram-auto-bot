@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-13",
+  "category": "球場イベント",
+  "title": "絶対保存！球場イベント注目7選",
+  "slides": [
+    {
+      "heading": "花火ナイターで夏満喫🎆",
+      "body": "夏といえばやっぱり花火ナイター！\n外野席で友達と観ると盛り上がるよね✨\n推しと一緒に夜空にときめこう"
+    },
+    {
+      "heading": "レディースデー限定特典💖",
+      "body": "ユニやグッズ配布など女子だけの特典盛りだくさん✌️\n球場コーデもいつもより気合い入りがち！"
+    },
+    {
+      "heading": "コラボグッズは即チェック！",
+      "body": "人気キャラやアニメとのコラボグッズは\nすぐ売り切れるから要注意…！\nお目当ては早めにGETしてね🎀"
+    },
+    {
+      "heading": "フォトスポットで思い出映え📸",
+      "body": "期間限定ブースや推しカラーの装飾も！\nSNSにあげたくなるフォトスポット、\n試合前に探してみて◎"
+    },
+    {
+      "heading": "ご当地グルメ&限定メニュー🍧",
+      "body": "球場ごとの限定フードは絶対チェック！\n食で旅気分も味わえるから、\nグルメ目当てで球場巡りしがち♪"
+    },
+    {
+      "heading": "推し活仲間と楽しむ裏ワザ",
+      "body": "イベントはみんなと行くと倍楽しい！\n一人だと不安な人も、観戦仲間と一緒なら\n思いきり楽しめるよ🤝"
+    }
+  ],
+  "caption": "「今週どこ行こう？」って迷ったら、野球場のイベントも要チェック！花火ナイターやレディースデー、期間限定のコラボグッズなど、女子に嬉しい特典が盛りだくさんなんだよね☺️推し活も、おいしい球場グルメも、SNS映えフォトスポットも…全部まとめて楽しめるのが球場イベントの魅力！\n\n一人で行くのはちょっと不安…そんな時は、観戦仲間と一緒に盛り上がれる裏ワザも活用しちゃおう。\n\n今週の予定の参考に、ぜひ『保存』して役立ててね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#球場イベント",
+    "#観戦仲間募集",
+    "#球場グルメ",
+    "#花火ナイター",
+    "#レディースデー",
+    "#推し活女子",
+    "#球場コーデ",
+    "#フォトスポット"
+  ],
+  "coverImagePrompt": "Japanese women in their 20s enjoying a lively baseball stadium event in Japan in summer, with friends, vibrant atmosphere, photorealistic, shot on smartphone, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-13/01_cover.jpg",
+    "media/carousel/2026-09-13/02_slide.jpg",
+    "media/carousel/2026-09-13/03_slide.jpg",
+    "media/carousel/2026-09-13/04_slide.jpg",
+    "media/carousel/2026-09-13/05_slide.jpg",
+    "media/carousel/2026-09-13/06_slide.jpg",
+    "media/carousel/2026-09-13/07_slide.jpg",
+    "media/carousel/2026-09-13/08_cta.jpg"
+  ]
+}
