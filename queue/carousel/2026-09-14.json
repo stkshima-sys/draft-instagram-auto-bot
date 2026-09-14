@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-14",
+  "category": "推し活",
+  "title": "保存版！推し活女子の応援術7選",
+  "slides": [
+    {
+      "heading": "1. ユニフォームコーデ術",
+      "body": "自分の推しカラーやロゴアイテムを取り入れて\nスタジアムで映えるコーデに✨\nSNS映えも抜群でテンションUP！"
+    },
+    {
+      "heading": "2. 手作りうちわ＆ボード",
+      "body": "100均グッズやシールを使ってカスタマイズ🎀\n選手の名前や背番号を工夫して\n自分だけの応援アイテムを作るのが楽しい！"
+    },
+    {
+      "heading": "3. 推し全開ネイル・アクセ",
+      "body": "球団カラーやイメージでネイルをデザイン💅\nさりげなくブレスやピアスも推し仕様にして\n細かい推しアピールも忘れずに！"
+    },
+    {
+      "heading": "4. みんなで応援ポーズ",
+      "body": "観戦仲間とおそろコーデやグッズで\n球場で写真＆動画をたくさん撮っちゃおう📸\n一体感もUPして思い出が増えるよ♪"
+    },
+    {
+      "heading": "5. おすすめ応援グッズ紹介",
+      "body": "リストバンドやタオル・ミニフラッグなど\n持っておくと便利な応援アイテムをシェア！\n荷物も軽くなって身軽に動けるよ👍"
+    },
+    {
+      "heading": "6. かわいい球場メイク",
+      "body": "汗や涙でもヨレにくいコスメを選んで\n長時間の観戦も安心！\n球団カラーでアイメイクもアリだよ💖"
+    },
+    {
+      "heading": "7. スタジアムフォト術",
+      "body": "光の入り方や座席の位置で写真の仕上がりが激変！\n推しタオルやグッズと一緒に撮るのがおすすめ📱"
+    }
+  ],
+  "caption": "野球観戦って、実は推し活の宝庫！球場コーデやうちわ作り、かわいいネイルやメイクまで…女子ならではの楽しみ方がたくさんありますよね💖自分だけの推し応援スタイルを見つければ、現地での体験も何倍も盛り上がること間違いなし。\n\n今年はちょっとだけ工夫して、“映える”推し活デビューしてみませんか？観戦仲間とおそろコーデや写真撮影を楽しめば、SNS映えも思い出もバッチリ！Draftで仲間を見つけて、一緒に推し活を楽しむのもおすすめです。\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#推し活",
+    "#ユニフォームコーデ",
+    "#うちわ作り",
+    "#球場メイク",
+    "#観戦仲間募集中",
+    "#スタジアム写真",
+    "#球場グルメ部",
+    "#女子スポーツ応援"
+  ],
+  "coverImagePrompt": "A cheerful group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium, wearing stylish team uniforms, holding handmade fan boards and towels, taking selfies together. Outdoor scene, lively atmosphere. Photorealistic, shot on smartphone, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-14/01_cover.jpg",
+    "media/carousel/2026-09-14/02_slide.jpg",
+    "media/carousel/2026-09-14/03_slide.jpg",
+    "media/carousel/2026-09-14/04_slide.jpg",
+    "media/carousel/2026-09-14/05_slide.jpg",
+    "media/carousel/2026-09-14/06_slide.jpg",
+    "media/carousel/2026-09-14/07_slide.jpg",
+    "media/carousel/2026-09-14/08_slide.jpg",
+    "media/carousel/2026-09-14/09_cta.jpg"
+  ]
+}
