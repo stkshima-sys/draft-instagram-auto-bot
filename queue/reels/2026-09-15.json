@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-15",
+  "category": "球場デート",
+  "title": "女子3人のPayPayドーム観戦デート風景リール",
+  "scene": "球場前で笑顔で集合、みんなでチケット片手にポーズ。観客席で乾杯しながら球場グルメを楽しむ。推しタオルを持って盛り上がりながら応援する自然なシーン。",
+  "caption": "推し活って女子同士でやると、やっぱり楽しさ倍増しがち！今日はPayPayドームで観戦仲間と球場デート気分。待ち合わせでテンション上がって、席に着いたら「乾杯〜！」ってノリも最高。みんなで球場グルメをシェアしながら「これ美味しい！」って盛り上がって、推しタオル広げて全力応援…気づけばめっちゃ笑顔になってる自分がいるよね。野球好きな友達がいないと最初は不安だけど、仲間ができると観戦もグルメも推し活も全部が特別な思い出に。1人で踏み出すのが心配な人も、まずは一緒に応援できる仲間を探してみてほしいな。女子ならではの楽しみ方、まだまだ発見できそう！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#野球観戦仲間",
+    "#球場デート",
+    "#観戦あるある",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds. Photorealistic, natural handheld smartphone-shot look, no AI artifacts. Three Japanese women in their 20s gather with smiles outside PayPay Dome, show off tickets, then walk into the stadium. The girls are seated in the stands, laughing and clinking drinks, sharing popular stadium food. They wave bright team towels and cheer naturally, capturing authentic excitement. No text, just lively expressions, food, drinks, and the busy stadium crowd in the background.",
+    "veo": "Vertical 9:16, photorealistic, no AI artifacts, natural smartphone-shot look. 0-5s: Three Japanese women in their 20s meet outside PayPay Dome, take a selfie, show off tickets, and laugh as they walk toward the entrance. 5-10s: Seated in the stadium, they share popular ballpark food, cheer, and clink their drinks, capturing joyful, candid expressions. 10-15s: The friends wave team towels, join in the crowd cheering, all smiles, as the stadium atmosphere and energy are visible behind them. No overlays.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone video look. Start with handheld pan as three Japanese women in their 20s greet each other outside PayPay Dome, cut to handheld push-in as they sit in the stands, laugh, clink drinks, and share food. End with a steady handheld shot as they wave team towels and cheer, with the lively ballpark environment in the background. No overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-15.mp4"
+}
