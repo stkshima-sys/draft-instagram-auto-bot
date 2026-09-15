@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-16",
+  "category": "ホームランの盛り上がり",
+  "title": "女子だけのホームラン盛り上がり体験＠PayPayドーム",
+  "scene": "ホームランが飛んだ瞬間、20代女子グループが歓声をあげて立ち上がる。隣同士ハイタッチして笑顔＆歓喜の抱き合い。周りのスタンドも歓声に包まれ一緒に盛り上がるスマホ撮影風映像。",
+  "caption": "推しの選手がホームランを打った瞬間、思わず立ち上がって「やったー！」って叫んじゃうの、野球女子ならではだよね⚾️✨友達とハイタッチしたり、知らない人とも笑顔で目が合ったり…あのスタンドの一体感、一度味わったら忘れられない！PayPayドームの熱気、女子同士だとさらに盛り上がるから観戦仲間がいるって本当に心強い😆1人じゃ恥ずかしい応援も、仲間がいれば全力で楽しめるし、一緒に思い出が作れるのも最高！『次は誰と行こうかな？』って考える時間もわくわくするよね。Draftなら気軽に観戦仲間を探せるから、初めてさんも安心だよ🙌あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#推し活",
+    "#PayPayドーム",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#ホームラン",
+    "#野球観戦初心者",
+    "#スタジアム体験"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look with natural handheld wobble. Scene: In a lively Japanese baseball stadium (PayPay Dome), a group of 2-3 Japanese women in their twenties are in the stands wearing casual and stylish fan outfits, holding cheering goods. A home run is hit, and the group jumps up in excitement, cheering, high-fiving, and smiling widely, with authentic crowd reactions all around. The camera is handheld, closely following their joyful reactions, blending seamlessly with the surrounding energetic fans. No overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone-shot. Scene structure: 0-5s: Camera on a group of Japanese women in their twenties looking expectantly towards the field, holding snacks and cheering goods in the lively PayPay Dome stands. 5-10s: The moment of a home run—everyone jumps up, girls shout with joy, exchange high-fives and big smiles, camera slightly shakes from excitement. 10-15s: The girls laugh, hug, and look at each other gleefully while the background is filled with cheering fans. No overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-style. Handheld camera motion throughout, starting with a medium shot focused on 2-3 Japanese women in their 20s in stadium seats. As a home run is hit, use a quick handheld pan to capture the group's explosive reaction—jumping up, cheering, high-fiving, and smiling. Camera does a slight push-in as they celebrate together, capturing the authentic excitement and movement of the crowd around. Natural stadium lighting, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-16.mp4"
+}
