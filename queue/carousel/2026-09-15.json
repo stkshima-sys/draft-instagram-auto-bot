@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-15",
+  "category": "応援グッズ",
+  "title": "推し活女子必見！応援グッズ神5選",
+  "slides": [
+    {
+      "heading": "王道のユニフォーム活用術",
+      "body": "推し選手や球団のユニで気分爆上げ✨\n羽織るだけで一体感UP！中にTシャツ重ねても可愛い。\n好きな背番号アピールも仲間と盛り上がるコツ◎"
+    },
+    {
+      "heading": "定番！タオルの推し活使い方",
+      "body": "応援歌のタイミングでタオルを高く掲げれば気合MAX💪\n首にかけたり、写真小物としても映える！\n推しの名前入りならテンションさらに上がるよ🎉"
+    },
+    {
+      "heading": "ペンライトで光る一体感",
+      "body": "最近の球場はペンライト応援も増えてる！\n色を合わせて推しカラーで一緒に盛り上がろう🔦\n写真にも映えてSNS映えバツグン◎"
+    },
+    {
+      "heading": "小物アレンジで差がつくグッズ",
+      "body": "推し缶バッジやリストバンドでワンポイント🎀\n帽子やバッグに付けるだけで、さりげなく推し活アピ！\n仲間同士で交換しても楽しいよ。"
+    },
+    {
+      "heading": "大判フラッグで応援力UP！",
+      "body": "大きめの応援フラッグは目立ち度No.1🏁\nみんなでタイミング合わせて振ると、球場全体が一体に。\n初心者女子にもおすすめの熱盛グッズだよ。"
+    }
+  ],
+  "caption": "野球観戦女子の“推し活”って、応援グッズ次第で何倍も楽しくなるよね！ユニフォームやタオルはもちろん、最近はペンライトや缶バッジなど、推しを全力アピールできるアイテムがどんどん増えてるから迷っちゃう。\n\n球場で同じグッズを持ってる人に話しかけられたり、SNS用に写真を撮るのも思い出に残るし、観戦仲間との距離もグッと近づくはず。応援のタイミングや使い方を覚えると、みんなで一体感を味わえるのも推し活女子ならではの特権かも！\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#推し活",
+    "#観戦グッズ",
+    "#球場コーデ",
+    "#応援タオル",
+    "#ユニフォーム女子",
+    "#ペンライト",
+    "#観戦仲間募集",
+    "#ドラフト仲間"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, Japanese women in their 20s enjoying a baseball game at a Tokyo stadium, holding team towels and wearing jerseys, vibrant and fun, candid, real atmosphere",
+  "images": [
+    "media/carousel/2026-09-15/01_cover.jpg",
+    "media/carousel/2026-09-15/02_slide.jpg",
+    "media/carousel/2026-09-15/03_slide.jpg",
+    "media/carousel/2026-09-15/04_slide.jpg",
+    "media/carousel/2026-09-15/05_slide.jpg",
+    "media/carousel/2026-09-15/06_slide.jpg",
+    "media/carousel/2026-09-15/07_cta.jpg"
+  ]
+}
