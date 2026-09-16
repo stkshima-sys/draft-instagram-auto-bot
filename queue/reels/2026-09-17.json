@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-17",
+  "category": "球場観戦Vlog風",
+  "title": "女子の球場Vlog風！横浜スタジアム1日観戦リアル体験",
+  "scene": "横浜スタジアムに到着＆ワクワクしながら入場、売店で球場グルメを選ぶ女子たち。観客席で友達と乾杯＆盛り上がり、推しタオルで全力応援！スマホで撮り合うリアルな観戦シーンを詰め込む。",
+  "caption": "野球女子って、やっぱり球場で食べるグルメが最高だよね🍔✨今日は横浜スタジアムで推し活Vlog♡ 友達と「どれ食べる？」って売店で迷ったり、座席で乾杯したり、推しタオルを広げて一緒に盛り上がるのが楽しい！1人で球場に行くのは最初ちょっと勇気いったけど、仲間ができればこんなに心強いんだって実感中。観戦って、推しを叫んで、可愛い持ち物並べて、みんなで写真撮って…。そんな共感ポイントがいっぱい詰まった1日です⚾️💕 同じ趣味の友達と出会いたい人は、ぜひDraftものぞいてみてね☺️ あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#観戦仲間",
+    "#横浜スタジアム",
+    "#女子旅",
+    "#スタジアムVlog",
+    "#Draftで観戦友達"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second, photorealistic video captured with a smartphone, showing a group of 1-3 Japanese women in their 20s at Yokohama Stadium. The video starts with the women smiling and entering through the stadium gates with tickets in hand, then transitions to them excitedly browsing food stalls, deciding what to buy. Next, they are seated together in the stands, holding up drinks and clinking cups in a cheerful toast. The flow finishes with the friends waving their team towels and cheering in unison, capturing authentic reactions and lively atmosphere, all with natural handheld camera movements and no text overlays or AI artifacts.",
+    "veo": "Cut 0-5s: Japanese women in their 20s, smiling and walking into Yokohama Stadium, capturing ticketing and entry moments with a smartphone perspective. Cut 5-10s: The group browses lively food stalls, excitedly discussing ballpark snacks, then carries their chosen food and drinks toward their seats. Cut 10-15s: In their stadium seats, the friends cheerfully toast with drinks, wave team towels, and take fun selfies together, all filmed with a handheld, natural smartphone feel, no overlays or AI traces.",
+    "higgsfield": "Handheld vertical smartphone camera follows 1-3 Japanese women in their 20s at Yokohama Stadium; uses smooth pan as they walk into the stadium, push-in motion at the food stall while they choose snacks, then a steady handheld close-up as they toast with drinks and cheer together in the stands. Lively, natural energy throughout, no overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-09-17.mp4"
+}
