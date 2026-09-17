@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "category": "推し活動画",
+  "title": "推し活女子のリアル応援デー@PayPayドーム",
+  "scene": "PayPayドームの観客席でユニフォームを着た20代女性2人が笑顔でカメラに手を振る。タオルやうちわを持って一緒に応援、喜びの瞬間をスマホで自撮りする。試合の合間に売店グルメを乾杯しながら楽しむ姿も。",
+  "caption": "今日は推し活女子2人でPayPayドームへ！ユニ姿でおそろコーデしてタオルやうちわを掲げて全力応援💪✨やっぱり推し球団の雰囲気を一緒に味わえる仲間がいると楽しさ倍増！応援の合間には映え球場グルメをシェアして「これめっちゃ美味しい！」って盛り上がるのも最高🍔🍟1人観戦も勇気いるけど、推し活仲間がいたら“初めまして”でもすぐ盛り上がれるから不安ゼロでした！もっと早くDraft使って観戦仲間探せば良かったかも😂球場の隅々まで楽しい瞬間がいっぱい！みんなの推し活エピソードもぜひ教えてね🧢 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#観戦仲間",
+    "#球場グルメ",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#PayPayドーム",
+    "#うちわ応援",
+    "#ユニフォーム女子",
+    "#ドラフト仲間"
+  ],
+  "prompts": {
+    "kling": "A natural, photorealistic 9:16 vertical smartphone-shot video of two Japanese women in their 20s, wearing matching baseball jerseys, sitting in the stands at PayPay Dome Fukuoka. They wave and smile at the camera, raise their cheering towels and player uchiwa high, and take cheerful selfies together. In the next moment, they clink their drinks and enjoy colorful stadium food, all with lively, candid expressions. The camera handheldly follows their spontaneous excitement without text overlays or any AI artifacts.",
+    "veo": "0-5s: Two Japanese women in their 20s, wearing team uniforms, sit side by side in PayPay Dome's stands, waving and smiling at the smartphone camera with a vibrant crowd in the background. 5-10s: The women excitedly hold up their cheering towels and player uchiwa, energetically supporting their team and taking playful selfies with each other, the atmosphere full of joy. 10-15s: Cut to the pair standing near a food stall, clinking drinks and sampling stadium snacks, laughing and showing genuine excitement, all shot in natural, photorealistic style, no text or AI signs.",
+    "higgsfield": "Vertical 9:16, photorealistic scene of two Japanese women in their 20s at PayPay Dome. Start with a handheld selfie pan as they wave at the camera, then switch to a smooth handheld push-in as they raise towels and uchiwa cheering props. End with a handheld tracking shot as they toast and share ballpark food at a concourse food counter, all with natural lighting and realistic crowd ambiance, no overlays or artificial effects."
+  },
+  "videoFile": "videos/2026-09-18.mp4"
+}
