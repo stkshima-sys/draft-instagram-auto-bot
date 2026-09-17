@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-17",
+  "category": "野球好き女子あるある",
+  "title": "野球好き女子あるある7選\n観戦仲間と盛り上がろう！",
+  "slides": [
+    {
+      "heading": "観戦コーデ前夜に悩みがち👗",
+      "body": "ユニフォーム？私服？推しの色小物？\n前夜はコーデを何度も並べて悩みがち！\nせっかくならSNS映えも狙いたいよね。"
+    },
+    {
+      "heading": "応援ボード・うちわ制作に本気🎨",
+      "body": "推しが見つけてくれるかも…と、\nついつい応援グッズ作りに本気モード！\n友達とデザイン相談するのも楽しい時間。"
+    },
+    {
+      "heading": "推しが打った瞬間、大号泣😂",
+      "body": "「やったー！」って叫んで\nその場でみんなと感動の涙…\n知らない女子ともハイタッチしがち！"
+    },
+    {
+      "heading": "遠征の荷物、気づけばパンパン👜",
+      "body": "推しグッズ・着替え・カメラ・食べ物…\n気づけば荷物がカバンいっぱい！\n女子あるあるだけど、全部大事なんだよね。"
+    },
+    {
+      "heading": "帰り道も写真見返してニヤニヤ📱",
+      "body": "試合後は撮った写真や動画を\nすぐに見返して余韻にひたる♡\n仲間とシェアしてもう一度盛り上がる！"
+    },
+    {
+      "heading": "“観戦仲間ほしい”って思いがち",
+      "body": "盛り上がる瞬間、隣に語れる友達がいたら…\n「野球友達もっと増やしたいな」\nって何度も思っちゃうよね。"
+    }
+  ],
+  "caption": "野球好き女子ならではのあるある、共感ポイントはありましたか？\n観戦コーデに悩んだり、推しのグッズ作りに熱中したり、感動の瞬間に涙したり…球場でしか味わえない楽しみやドキドキがたくさんありますよね。遠征の荷物がパンパンだったり、撮った写真を何度も見返してにやけちゃうのも「野球好き女子」ならでは！でもやっぱり、一緒に盛り上がれる観戦仲間がいたらもっと楽しいはず。\nコメントであなたの「あるある」体験もぜひ教えてください！仲間探しのヒントになるかも…👀\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#観戦コーデ",
+    "#推し活女子",
+    "#球場グルメ",
+    "#野球好きさんと繋がりたい",
+    "#観戦仲間募集",
+    "#遠征あるある",
+    "#推し事",
+    "#女子野球部"
+  ],
+  "coverImagePrompt": "A photorealistic, candid smartphone photo of Japanese women in their twenties, enjoying a lively moment together at a Japanese baseball stadium. They are wearing colorful team merchandise, holding snacks and drinks, laughing. Stadium seats, bright field, and festive atmosphere in background. Natural lighting, shot on smartphone, no text.",
+  "images": [
+    "media/carousel/2026-09-17/01_cover.jpg",
+    "media/carousel/2026-09-17/02_slide.jpg",
+    "media/carousel/2026-09-17/03_slide.jpg",
+    "media/carousel/2026-09-17/04_slide.jpg",
+    "media/carousel/2026-09-17/05_slide.jpg",
+    "media/carousel/2026-09-17/06_slide.jpg",
+    "media/carousel/2026-09-17/07_slide.jpg",
+    "media/carousel/2026-09-17/08_cta.jpg"
+  ]
+}
