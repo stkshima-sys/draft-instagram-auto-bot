@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-20",
+  "category": "球場グルメ",
+  "title": "推し活女子必見！球場グルメ神7選",
+  "slides": [
+    {
+      "heading": "東京ドームは丸ごとメロンパン",
+      "body": "ふわふわ生地とジューシーなメロン果肉🍈\n映えもお腹も大満足！1個500円、1ゲート横の売店でGETできるよ。"
+    },
+    {
+      "heading": "甲子園と言えばカツサンド",
+      "body": "ボリューム満点のサクサクかつが最高！\n700円で名物グルメを味わおう。\n1塁側中央の売店で買えるよ。"
+    },
+    {
+      "heading": "神宮はチーズドッグが映え",
+      "body": "びよ〜んと伸びるチーズが楽しい！🧀\n神宮限定、600円。\nグッズ売り場横フードカーで見つかるよ。"
+    },
+    {
+      "heading": "PayPayドームの明太クリームうどん",
+      "body": "あったかうどん＋明太！福岡感満載で心までほっこり。\n700円、バックネット裏のうどん店でどうぞ。"
+    },
+    {
+      "heading": "札幌ドームは海鮮丼が豪華",
+      "body": "新鮮なサーモン・いくらがたっぷり🐟\n1,000円で北海道グルメ！内野1階中央売店にて。"
+    }
+  ],
+  "caption": "球場グルメって、推し活の楽しさを倍増させてくれるよね✨現地でしか味わえない限定メニューや、SNS映えする映像に思わず夢中になっちゃう！今回は全国の球場で絶対食べたい神グルメを女子目線でセレクトしてみました。1人観戦でも、仲間とシェアしても盛り上がること間違いなし。保存して、次の観戦の参考にしてね💡あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#球場グルメ",
+    "#推し活女子",
+    "#観戦仲間募集",
+    "#球場映え",
+    "#グルメ好きさんと繋がりたい",
+    "#観戦コーデ",
+    "#東京ドーム",
+    "#プロ野球"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, Japanese women in their 20s enjoying gourmet food at a Japanese baseball stadium, smiling, casual clothes, lively background",
+  "images": [
+    "media/carousel/2026-09-20/01_cover.jpg",
+    "media/carousel/2026-09-20/02_slide.jpg",
+    "media/carousel/2026-09-20/03_slide.jpg",
+    "media/carousel/2026-09-20/04_slide.jpg",
+    "media/carousel/2026-09-20/05_slide.jpg",
+    "media/carousel/2026-09-20/06_slide.jpg",
+    "media/carousel/2026-09-20/07_cta.jpg"
+  ]
+}
