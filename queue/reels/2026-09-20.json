@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "category": "球場グルメ紹介",
+  "title": "PayPayドーム女子の推し球場グルメ体験リール",
+  "scene": "PayPayドームの観客席で20代女性が笑顔でホークスのユニを着て、名物の『とんこつラーメン』を手に持ちピース✌️。友だちと乾杯して「美味しい！」とリアクション。カメラがグルメから顔、周囲の球場の雰囲気にふんわりと移動。",
+  "caption": "球場グルメって、観戦の楽しみのひとつだよね🍜 PayPayドームはグルメが豊富で、つい迷っちゃう…！今日は友だちと久しぶりにドームで『とんこつラーメン』をゲットして乾杯🥤観戦仲間がいれば、いろんな味に挑戦できて盛り上がるのが女子的推しポイント💡1人だと勇気いるけど、誰かと一緒だと初めてのメニューも挑戦しがち。「この味めっちゃ美味しい〜！」って言い合いながら推し活できる時間、最高だと思う。たまにはいつものメンバー以外とも一緒に観戦して、インスタ映えグルメをシェアし合うのもオススメ！かわいい野球女子仲間、Draftで探してみたら世界が広がるかも？⚾️💛\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦仲間",
+    "#推し活",
+    "#PayPayドーム",
+    "#女子会",
+    "#観戦コーデ",
+    "#ホークスファン",
+    "#グルメレポ"
+  ],
+  "prompts": {
+    "kling": "A group of 2-3 Japanese women in their 20s, wearing casual baseball fan attire (softbank hawks uniforms or hats), sitting in the audience seats at PayPay Dome. One woman holds a steaming bowl of tonkotsu ramen and makes a peace sign, smiling naturally toward the camera. They toast with drinks, chat, and react delightfully to tasting the food. The handheld smartphone camera moves from a close-up on the food to capture their happy faces and pans to show the dome atmosphere and other fans in the background. All natural light, photorealistic, no digital overlays.",
+    "veo": "0-5s: Start with a handheld close-up shot of Japanese women in their 20s in PayPay Dome seats, one smiling and holding a bowl of tonkotsu ramen, making a peace sign. 5-10s: Medium shot as another friend joins to toast with drinks, both laughing, then take a bite and react with delight. 10-15s: Camera pulls back and pans to show their faces, the stadium crowd, and the lively baseball atmosphere. Photorealistic, vertical 9:16, no text or digital effects.",
+    "higgsfield": "Handheld smartphone-style camera, starting with a medium close-up push-in on a Japanese woman in her 20s holding tonkotsu ramen at PayPay Dome, then a gentle handheld pan to include friends, a toast with drinks, and their smiling reactions. Final gentle pullback to reveal the stadium's lively crowd and ambiance. Vertical 9:16, photorealistic, natural motion, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-20.mp4"
+}
