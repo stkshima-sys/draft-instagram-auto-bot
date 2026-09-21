@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-22",
+  "category": "球場観戦Vlog風",
+  "title": "横浜スタジアム女子観戦Vlog：野球好きの1日",
+  "scene": "横浜スタジアムに女子2人で到着し、笑顔でゲートをくぐる。球場グルメを手に売店前で自撮り、その後座席で乾杯＆応援ポーズ。日常感のあるスマホ撮影風の映像で、楽しさ・仲間感を演出。",
+  "caption": "今日は横浜スタジアムで、野球好き女子の観戦Vlogを撮ってみました⚾️友達と一緒に球場に行くと、入場からワクワクが止まらないよね！売店で迷いながら球場グルメをゲットしたり、推し活のために写真を撮ったり…席に着いたらやっぱり乾杯🍹仲間と一緒だと、初めての球場でも安心して楽しめるのが嬉しいポイント。みんなで応援コールすると自然とテンション上がるし、『野球友達がいたら絶対もっと楽しい』って実感しがち！\n\n「一緒に行く人がいなくて…」と迷ってた私も、Draftを使って観戦仲間を見つけたことで球場デビューできました。あなたも仲間と一緒に最高の推し活、始めてみませんか？\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#横浜スタジアム",
+    "#観戦仲間募集",
+    "#野球観戦Vlog",
+    "#ドラフトで観戦友達",
+    "#球場デビュー"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Japanese women in their 20s at Yokohama Stadium. Start with 2 women entering the baseball stadium smiling, then cut to them choosing food at a concession stand and taking selfies with snacks, then sitting in the audience seats, clinking drinks, and doing friendly cheering gestures. Natural lighting, vibrant, casual outfits, lively crowd in background, no visible text, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. 0-5s: Two Japanese women in their 20s excitedly walk through the Yokohama Stadium entrance, capturing themselves on phone video. 5-10s: The friends stand at a concession stand, discussing and pointing at food, then taking a selfie holding their chosen snacks. 10-15s: Seated in the stands, the women toast with their drinks, laugh, and do playful cheering motions. Lively game day atmosphere, casual outfits, stadium crowd in background, no text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot, natural handheld. Camera starts with a handheld walking shot following two Japanese women (20s) as they enter Yokohama Stadium, then pans across the concession area as they pick food, pushes in for a close-up selfie holding snacks, finally handheld pans to their faces as they toast drinks and do cheering gestures in their seats. Lively, spontaneous, authentic stadium atmosphere, no visible text, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-22.mp4"
+}
