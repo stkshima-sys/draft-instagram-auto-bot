@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-23",
+  "category": "球場デート",
+  "title": "球場デート風・野球女子の観戦体験リール（Es Con Field編）",
+  "scene": "1人の20代女性が友達とEs Con Field Hokkaidoの観客席で笑顔で乾杯。コンコースで球場グルメをシェアし合い、推しのタオルを持って応援。最後に座席で試合を観ながらスマホで記念撮影＆笑顔。",
+  "caption": "野球好き女子、球場に行くたびワクワクが止まらない！今日は観戦仲間とEs Con Field Hokkaidoにおでかけ。グルメを買いにコンコースを歩いたり、推しタオルを持って応援コールしたり…『一緒だと全力で楽しめる』ってやっぱり最高だよね。\n\n球場の雰囲気、美味しそうなグルメ、映える写真スポット…全部が“推し活”にぴったり🎀1人だと不安でも、仲間と一緒なら100倍楽しい！「観戦仲間、どうやって見つけるの？」って悩んでる人にもDraftがおすすめだよ。\n\n野球の話、グルメ、コーデまで…観戦仲間と過ごした球場時間は思い出になること間違いなし。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦仲間探し",
+    "#エスコンフィールド",
+    "#休日のおでかけ",
+    "#野球観戦",
+    "#写真映えスポット"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15 seconds video shot in the style of a natural smartphone recording. Focus on a group of Japanese women in their 20s at Es Con Field Hokkaido. Start with them sitting in the stadium seats, smiling and doing a cheers with drinks. Next, they walk together through the stadium concourse, one holding a tray of ballpark food, chatting naturally. Finally, show them enthusiastically waving their team towels and taking selfies together with the field in the background. Use gentle handheld camera movement, capturing candid laughter and real reactions, no text overlays, and no AI artifacts.",
+    "veo": "Vertical video, 9:16, 15 seconds, photorealistic, smartphone-shot style. 0-5s: Japanese women in their 20s sit in Es Con Field Hokkaido's stands, smiling, raising drinks for a toast, candid close-up. 5-10s: Walking through a lively stadium concourse, they buy and share popular ballpark food with excited faces. 10-15s: At their seats, they wave team towels, cheer, then pause to take a selfie with the field in the background, laughing. No overlays, natural lighting, realistic audio atmosphere.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-style. Start with handheld camera panning across Japanese women in their 20s cheering at Es Con Field Hokkaido, then a gentle push-in as they clink drinks and laugh. Transition to a smooth pan in the concourse while they share food, and end with a handheld wobble as they take a selfie together with the stadium behind them. Keep the motion natural and spontaneous, no overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-09-23.mp4"
+}
