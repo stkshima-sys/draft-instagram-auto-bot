@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-24",
+  "category": "ホームランの盛り上がり",
+  "title": "神宮ホームラン瞬間の女子スタンド熱狂リール",
+  "scene": "神宮球場、試合中にホームランが飛び出し、20代女性たちが歓声を上げて立ち上がる。隣り合う女子同士が笑顔でハイタッチや手を取り合いながら興奮を分かち合う。最後は「また一緒に来ようね」とアイコンタクト、友情の微笑み。",
+  "caption": "ホームランの瞬間、席から思わず立ち上がって友達と歓声をあげるあのドキドキ、共感できる人多いはず…！神宮球場で推しのホームランが出た時、知らない女子とも自然にハイタッチしちゃう感じ、野球観戦の醍醐味だよね⚾\n\n「野球仲間がもっと増えたら、もっと盛り上がるのに…」って思う時ありませんか？一緒に思いっきり盛り上がれる友達がいると、応援もグルメもぜ〜んぶ楽しくなるのが球場マジック。最初は1人観戦が不安でも、こうやってDraftで仲間を見つけてる女子も本当に多いんです☺️\n\n次の観戦こそ、一緒に推しを応援できる仲間と神宮で盛り上がってみませんか？「共感した！」「分かる！」って思った人は保存・フォローしてね！\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#推し活",
+    "#神宮球場",
+    "#ホームラン",
+    "#スタンド熱狂",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#Draftで観戦仲間"
+  ],
+  "prompts": {
+    "kling": "A group of 2-3 Japanese women in their twenties are sitting in the stands at Meiji Jingu Stadium during a night professional baseball game. As a home run is hit, they all jump up from their seats, cheering and screaming with excitement. Their reactions are natural and joyful – big smiles, open arms, some throw hands up, others high-five each other and fans nearby. The camera captures these moments handheld, weaving between their ecstatic expressions and the bustling crowd, creating an intimate, photorealistic smartphone-shot mood with the stadium lights and vibrant summer night atmosphere. No visible AI or graphical artifacts.",
+    "veo": "vertical, 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, no text overlays, no AI artifacts. Scene breakdown: (0-5s) Two Japanese women in their 20s sit together in the stands at Meiji Jingu Stadium at night, casually chatting and holding drinks, camera starts with a medium-wide shot; (5-10s) Suddenly, as a home run is hit, they jump up with excitement, cheering, laughing, and exchanging high-fives, close-up on their reactions; (10-15s) The friends exchange joyful glances, one shouts happily, they share a quick hug, and the camera pans to show nearby female fans also celebrating, capturing the collective energy.",
+    "higgsfield": "Vertical 9:16, photorealistic, natural lighting, handheld camera motion throughout. Begin with a loose handheld pan across the crowd to the main group of young Japanese women, then push-in for a close-up as they leap up cheering. Include slight shakiness and dynamic movement as the group high-fives, panning quickly to catch their genuine reactions and smiles, ending with a slight zoom-out showing the group hugging and the wider crowd still buzzing with excitement in Meiji Jingu Stadium."
+  },
+  "videoFile": "videos/2026-09-24.mp4"
+}
