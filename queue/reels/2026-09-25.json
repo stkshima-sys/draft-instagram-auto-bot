@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-25",
+  "category": "球場観戦Vlog風",
+  "title": "神宮球場推し活1日Vlog（女子観戦仲間編）",
+  "scene": "神宮球場のゲートで笑顔の女子2人が「今日は楽しもう！」と入場し、売店で球場グルメやドリンクを手に取る。観客席で乾杯して「推しタオル」や応援グッズ片手に盛り上がる自然な様子をスマホで撮影した臨場感。",
+  "caption": "神宮で野球観戦！仲良し女子2人で球場に入るワクワク、売店でどれ食べるか迷っちゃう悩み、そして推しグッズ片手に席で乾杯🍻🎶やっぱり球場で飲むドリンクとグルメは最高すぎるし、推し活のテンションも爆上がりするよね！今日は友達と来たけど、「球場に一緒に行ける観戦仲間ってどうやって作るんだろ？」っていう悩み、実はずっとあったんだ…。Draftなら野球好きな仲間を気軽に見つけられて、1人観戦の不安もなくなったよ！観戦仲間がいるからこそ、応援や推しトークも何倍も楽しくなるし、写真や動画もたくさん残したくなる⸝⋆また一緒に応援しようねって約束した帰り道、ほんとに野球観戦やっててよかったな〜ってしみじみ思った日でした☺️💕あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活女子",
+    "#神宮球場",
+    "#観戦仲間募集中",
+    "#推し活日記",
+    "#ドラフトで仲間探し",
+    "#女子旅"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, photorealistic, 10-15 seconds, captured with natural smartphone handheld motion. Two Japanese women in their 20s walk through the entrance gates of Meiji Jingu Stadium, smiling and chatting as they enter. Transition to a lively scene at a stadium food stall where they choose drinks and snacks, exchanging playful glances. Final cut: seated in the stands, they hold up drinks for a 'cheers' moment, showing off their team towels and support goods, laughing and waving towards the camera. Background filled with other fans, lively but focused on authentic, candid moments. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, natural handheld motion, Japanese women in their 20s at Meiji Jingu Stadium. 0-5s: Two women enter through the stadium gate, chatting and showing tickets, excited expressions. 5-10s: At a bustling food stand, they pick out popular stadium food and drinks, make brief eye contact, and exchange smiles. 10-15s: Sitting in the stands, the friends raise their drinks in a casual toast, holding up colorful team towels and cheering together, capturing a candid moment of joy with the crowd in the background. No text, no AI artifacts.",
+    "higgsfield": "Photorealistic, vertical 9:16, natural handheld camera movements; start with a handheld tracking shot following two Japanese women in their 20s as they walk through the stadium gate. Cut to a pan left as the women browse and pick food at a stadium concession. Final push-in shot to them in seats, mid-closeup, as they laugh, toast with drinks, and wave their team towels, capturing the excitement of a real ballgame day. No text overlays; background with energetic crowd, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-25.mp4"
+}
