@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-24",
+  "category": "Draft成功体験",
+  "title": "観戦仲間ができた3つの変化",
+  "slides": [
+    {
+      "heading": "1人観戦の寂しさにサヨナラ！",
+      "body": "大学時代から野球観戦好きだったけど、\n友達がいなくて1人で球場へ…\nアウェイ感にすこし不安だったよね😅"
+    },
+    {
+      "heading": "Draftで初めて仲間ができた日",
+      "body": "勇気を出してDraftに登録！\n同じ球団推しの女性とつながれて\n初観戦は大盛り上がりだったよ⚾️✨"
+    },
+    {
+      "heading": "女子同士の推し活が最高すぎた",
+      "body": "球場グルメやコーデ相談もできて、\n観戦後は写真交換でインスタ映え🙌\n共通の“好き”がある仲間、最高！"
+    },
+    {
+      "heading": "一緒に応援する喜びは格別♡",
+      "body": "応援歌も一緒に歌えるし、\n勝った日は2人でハイタッチ！\n「推し活友達」ができて人生変わったかも🎉"
+    }
+  ],
+  "caption": "「現地で野球を観たいけど友達がいない」…そんな悩み、ありませんか？私も以前は1人でこっそり推し活していました。でもDraftで観戦仲間ができてから、観戦前のワクワクも、球場グルメも、応援も写真も2倍楽しくなりました！仲間がいるだけで、好きな球団や選手の話題で盛り上がれたり、思い出もいっぱい増えるから不思議ですよね😊\n\n1人で踏み出すのはドキドキするけど、同じ女子同士なら悩みも分かち合えて心強いはず。\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#観戦仲間募集",
+    "#推し活女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#女子あるある",
+    "#推しと繋がりたい",
+    "#はじめての球場",
+    "#Draftで推し活"
+  ],
+  "coverImagePrompt": "A group of Japanese women in their 20s enjoying a Japanese baseball stadium, smiling, holding food and cheering, realistic smartphone photo style, natural lighting, photorealistic, shot on smartphone, no text",
+  "images": [
+    "media/carousel/2026-09-24/01_cover.jpg",
+    "media/carousel/2026-09-24/02_slide.jpg",
+    "media/carousel/2026-09-24/03_slide.jpg",
+    "media/carousel/2026-09-24/04_slide.jpg",
+    "media/carousel/2026-09-24/05_slide.jpg",
+    "media/carousel/2026-09-24/06_cta.jpg"
+  ]
+}
