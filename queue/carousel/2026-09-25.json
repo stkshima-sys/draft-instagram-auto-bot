@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-25",
+  "category": "球場グルメ",
+  "title": "保存必須！球場グルメ神7選🍴",
+  "slides": [
+    {
+      "heading": "東京ドーム／ジャンボ焼き鳥",
+      "body": "ぷりっぷりで超ジューシーな名物🌟\n1本350円でコスパも◎！\n1ゲート内売店「ドームスポット」でゲットできるよ。"
+    },
+    {
+      "heading": "甲子園／甲子園カレー",
+      "body": "昔ながらの味でファン多数🍛\n700円でお腹も気持ちも満たされる！\n内野2F「カレースタンド」がおすすめ。"
+    },
+    {
+      "heading": "マリン／海鮮丼＆ロングポテト",
+      "body": "海に近いZOZOマリンならでは！\n新鮮な海鮮丼は1,000円、\nロングポテトは700円。2G付近フードコートで発見👀"
+    },
+    {
+      "heading": "バンテリンドーム／味噌カツ丼",
+      "body": "名古屋といえばコレ！濃厚ソースがやみつき🍖\n900円で地元気分も満喫。\n3階コンコース「グルメストリート」でどうぞ！"
+    },
+    {
+      "heading": "楽天モバイル／牛タン串",
+      "body": "仙台名物牛タンは絶対食べたい！\n1本600円、ジューシーで食べごたえ抜群✨\nイーグルスドーム前売店にて。"
+    },
+    {
+      "heading": "ハマスタ／ベイスターズドッグ",
+      "body": "青が映える映えグルメ💙\nオリジナルドッグは700円、\nBAY SIDEカフェでGETしよう！"
+    }
+  ],
+  "caption": "「球場グルメってどこの何が有名なの？」と悩んだこと、野球女子なら一度はあるはず！今回は首都圏＆全国の人気球場グルメ神7をまとめてご紹介🍴現地でしか食べられない限定メニューはもちろん、売店の場所や値段も載せたから保存してシェアしてね。推しチームの本拠地で推し活も、グルメ巡りの旅もぜったい楽しくなるはず！おいしいごはんを食べながら観戦仲間と盛り上がる時間って最高✨一緒に球場でいろんな味を楽しもう♪\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#球場グルメ",
+    "#推し活女子",
+    "#観戦仲間募集",
+    "#スポーツ好きと繋がりたい",
+    "#東京ドーム",
+    "#甲子園球場",
+    "#推し活",
+    "#映えグルメ"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, Japanese women in their 20s enjoying stadium food at a Japanese baseball stadium, smiling, casual fashion, hands holding food, blue sky in background",
+  "images": [
+    "media/carousel/2026-09-25/01_cover.jpg",
+    "media/carousel/2026-09-25/02_slide.jpg",
+    "media/carousel/2026-09-25/03_slide.jpg",
+    "media/carousel/2026-09-25/04_slide.jpg",
+    "media/carousel/2026-09-25/05_slide.jpg",
+    "media/carousel/2026-09-25/06_slide.jpg",
+    "media/carousel/2026-09-25/07_slide.jpg",
+    "media/carousel/2026-09-25/08_cta.jpg"
+  ]
+}
