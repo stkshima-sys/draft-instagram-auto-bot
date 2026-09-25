@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-26",
+  "category": "球場グルメ紹介",
+  "title": "Tokyo Dome女子の推し球場グルメ体験リール",
+  "scene": "20代女性2人がTokyo Domeの観客席で笑顔で球場グルメを手に取り乾杯。切り身の唐揚げやソフトクリームなどを一口ずつ食べてリアクションし合う。最後は「野球観戦仲間って最高！」とアイコンタクトで盛り上がる自然な瞬間。",
+  "caption": "Tokyo Domeの観戦といえば、やっぱり球場グルメは外せない✨今日は野球好き女子2人で、推しグルメを食べ比べてみました！定番の唐揚げや大人気のソフトクリームはもちろん、2人で「どれが一番好き？」なんて盛り上がるのも楽しさのひとつ。気軽に買えて、席でゆっくり食べられるのもTokyo Domeのいいところだよね！ひとり観戦も楽しいけど、やっぱり語り合える仲間がいるとグルメの美味しさも2倍に感じちゃう🥰近くで初めて会った観戦仲間とシェアしてみるのもアリかも？Draftなら、球場グルメも推し活も一緒に満喫できる仲間がきっと見つかるよ！🍴✨ あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#球場グルメ",
+    "#TokyoDome",
+    "#野球女子",
+    "#推し活",
+    "#観戦仲間",
+    "#プロ野球",
+    "#グルメレポ",
+    "#野球観戦",
+    "#観戦コーデ",
+    "#Draftで仲間探し"
+  ],
+  "prompts": {
+    "kling": "A natural, photorealistic vertical video, 9:16, 10-15 seconds, smartphone-shot style. Two Japanese women in their 20s sit together at the spectator seats of Tokyo Dome during a baseball game, holding popular stadium foods (karaage fried chicken in paper basket, large soft serve ice cream in hand). They smile, clink their food together in a friendly 'cheers', take a bite, and react with delight, exchanging animated eye contact and laughing. The background shows the lively stadium stands and crowd. No text overlays, no AI artifacts, natural handheld camera movement.",
+    "veo": "vertical, 9:16, photorealistic, smartphone-shot look, 10-15 seconds at Tokyo Dome. 0-5s: Two Japanese women in their 20s walk along the concourse, chatting and picking up food at a stadium kiosk. 5-10s: They sit at the spectator seats, holding karaage and soft serve ice cream, smiling and doing a friendly 'cheers' with their food. 10-15s: Both take a bite, share genuine laughter, and exchange happy glances, the lively stadium visible in the background. No overlays, no AI look.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot style at Tokyo Dome. Handheld camera follows two Japanese women in their 20s: first, a smooth handheld pan as they walk to their seats with stadium food; then a gentle push-in as they do a 'cheers' with their food and smile; finally, a handheld close-up capturing their reactions as they eat, laugh, and look at each other with excitement. No overlays, no AI look."
+  },
+  "videoFile": "videos/2026-09-26.mp4"
+}
