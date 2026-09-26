@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "category": "球場グルメ紹介",
+  "title": "球場グルメ神3選！東京ドーム女子現地レポ",
+  "scene": "東京ドームの客席で20代女性2人が笑顔で有名グルメ（唐揚げ＆ビール）を乾杯。コンコースを歩きながらグルメを選ぶ様子。座席に戻りひと口食べて「これ美味しすぎ！」と盛り上がるリアルな雰囲気。",
+  "caption": "【東京ドーム・球場グルメ神3選🍴】\n野球観戦といえばやっぱり球場グルメ！今日は女友達と推し活しながら、東京ドームの“絶対ハズさない”グルメを現地で食べ比べしてきたよ✨\n1人観戦も楽しいけど、やっぱり仲間とシェアできるとテンションUPしがち。人気No.1の唐揚げは外サク中ジューシーで永遠に食べられるやつ…！売店で悩む時間も最高だよね。ビール片手に「かんぱーい！」すれば一気に距離縮まる🍻\n球場グルメって、推し活・観戦友達との思い出にもなるし、迷いすぎて選べないのも“あるある”！Draftなら一緒に食べ歩きできる仲間も見つかるよ。\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#東京ドーム",
+    "#プロ野球観戦",
+    "#推し活",
+    "#観戦仲間",
+    "#Draftで見つけよう",
+    "#グルメ旅",
+    "#野球観戦コーデ",
+    "#週末のおでかけ"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16 photorealistic smartphone-shot style video, 10-15 seconds, showing two Japanese women in their 20s sitting in the stands at Tokyo Dome, holding and showing fried chicken and beer. They smile, clink their food and drinks, laugh and take a bite. Cut to one of them walking through the Tokyo Dome concourse, looking at food stands and deciding what to buy, then returning to the seats and excitedly sharing and tasting. Handheld camera, natural lively stadium background, no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, natural smartphone-shot look, no AI artifacts. 0-5s: Two Japanese women in their 20s cheerfully raise fried chicken and cups of beer in the stands at Tokyo Dome, smiling to the camera and to each other. 5-10s: Walking together along the bustling concourse, browsing food stalls and talking excitedly. 10-15s: Back to their seats, one takes a big bite of the fried chicken, both laugh and give a thumbs up, with the stadium action in the background.",
+    "higgsfield": "Vertical 9:16, photorealistic, natural lighting. Start with a handheld close-up of two Japanese women in their 20s sitting and smiling in the Tokyo Dome stands, camera gently push-in as they clink beer cups and fried chicken. Cut to a walking handheld shot through the concourse, following as they browse food stalls. Finish with a handheld pan back to the seats, catching a candid reaction as they taste the food and laugh together. No text overlays, no AI feel."
+  },
+  "videoFile": "videos/2026-09-27.mp4"
+}
