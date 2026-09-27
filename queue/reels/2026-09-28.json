@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-28",
+  "category": "球場デート",
+  "title": "PayPayドーム女子観戦デート風！リアル推し活バイブスリール",
+  "scene": "PayPayドームのスタンドで、20代女子二人がワクワクしながら乾杯！コンコースで推しタオル＆球場グルメを持って笑い合う。応援中はハイタッチやスマホ自撮りで盛り上がる、自然な“野球観戦仲間”の休日。",
+  "caption": "「野球観戦＝“ガチ勢”って思われがちだけど、女子同士で行くと意外とゆるくて超たのしい！PayPayドームのふわふわの座席で乾杯して、名物グルメ頬張って、推しタオルを広げるだけでテンション上がるよね🥤✨一緒に応援グッズをチェックしたり、推しの話で盛り上がったり…「観戦仲間」って友達とも違う特別な存在かも。こんな時間、もっと気軽に増やしたいならDraftで仲間探しもあり！😊一人観戦もいいけど、誰かと分かち合うリアルな“推し活”はやっぱり最高！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#観戦仲間",
+    "#球場グルメ",
+    "#推し活",
+    "#PayPayドーム",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#休日の過ごし方",
+    "#福岡グルメ",
+    "#Draft体験"
+  ],
+  "prompts": {
+    "kling": "Two Japanese women in their 20s at Fukuoka's PayPay Dome, sitting in the stands with baseball caps and towels, clinking drinks with big smiles in a relaxed, candid way. The camera follows as they walk through the bustling concourse, laughing and holding stadium food, then cuts to them cheering, doing a high-five, and taking a selfie—all shot handheld, vertical 9:16, 10–15 seconds, photorealistic, smartphone-shot look, natural lighting, crowded background, no AI artifacts or text overlays.",
+    "veo": "Opening (0-5s): Two Japanese women in their 20s sit side by side in PayPay Dome stands, laughing and toasting with drinks, stadium atmosphere visible around. Middle (5-10s): Cut to the concourse where they walk together, holding baseball-themed food and wearing team towels, exchanging excited looks and gestures. Ending (10-15s): The friends return to their seats, cheer for their team, high-five, and take a bright, joyful selfie—vertical 9:16, photorealistic, natural, lively, no AI elements.",
+    "higgsfield": "Vertical 9:16, photorealistic. Start with a handheld push-in shot as two Japanese women in their 20s toast in the stadium seats, then pan and follow them with a gentle handheld motion as they walk and laugh in the concourse, close-up on food and towels. Final handheld shot returns to the stands for a quick zoom-in as they celebrate and take a selfie, all natural movements, stadium crowd in background, no AI artifacts or overlays."
+  },
+  "videoFile": "videos/2026-09-28.mp4"
+}
