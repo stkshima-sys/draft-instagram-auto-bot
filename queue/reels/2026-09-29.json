@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "category": "女性同士の観戦",
+  "title": "横浜スタジアム女子観戦リアル体験リール",
+  "scene": "夕方の横浜スタジアム、20代女性3人が観客席で乾杯＆自撮り。売店前で球場グルメを選びながら盛り上がる。観戦しながら応援タオルを持って推し活ポーズ＆終始笑顔の雰囲気。",
+  "caption": "野球女子って憧れるけど、意外と周りに一緒に行ける友達がいなくて…って人、多いよね🥺 だから今日は、野球好き女子3人で横浜スタジアム観戦してきたリアルな雰囲気をお届けします！推しのグッズを持って乾杯したり、球場グルメ選びで迷いまくったり、推しタオルを広げて写真撮ったり…みんなで盛り上がれるから、試合だけじゃなくて思い出もいっぱいできちゃう✨ 1人で勇気が出ない時は“Draft”で観戦仲間を探すのもアリだよ！ 推し活女子の輪をもっと広げていきたい🥰 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#観戦仲間募集中",
+    "#球場グルメ",
+    "#推し活",
+    "#横浜スタジアム",
+    "#観戦コーデ",
+    "#プロ野球観戦",
+    "#女子会",
+    "#推し活女子",
+    "#ドラフト"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15s, photorealistic, naturally lit, smartphone-shot look, Japanese women in their 20s at Yokohama Stadium. The video opens with three women sitting in colorful outfits in the stands, smiling and saying 'kanpai!' as they raise drinks. Then, handheld close-up as they walk together along the stadium concourse, stopping to point and laugh in front of a food stall, debating what to eat. Ends with the group returning to their seats, holding up team towels and doing a cute cheering pose, all in a joyful, candid moment, no visible AI artifacts, no text on screen.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot with natural handheld motion. 0-5s: Three Japanese women in their 20s sitting closely in Yokohama Stadium stands, smiling and cheersing drinks, soft sunset stadium lighting. 5-10s: POV and over-shoulder shots as the friends explore the concourse, laughing and discussing which ballpark food to buy at a vendor stall. 10-15s: Back in their seats, the group shows off team merchandise and towels, posing together for a selfie and cheering, capturing the excitement and authentic friendship atmosphere, no on-screen text, no AI look.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot, natural handheld camera. Start with a gentle handheld pan across three Japanese women in the stands as they laugh and toast their drinks. Cut to a handheld walking shot following the women as they browse food stands in the bustling concourse, interacting playfully. Finish with a push-in handheld shot on the group cheering with team towels in their seats, highlighting their camaraderie and excitement, no AI artifacts, no text overlays."
+  },
+  "videoFile": "videos/2026-09-29.mp4"
+}
