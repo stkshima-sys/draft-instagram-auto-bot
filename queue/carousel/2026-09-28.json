@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-28",
+  "category": "Draft利用方法",
+  "title": "保存版！観戦仲間が見つかる4STEP",
+  "slides": [
+    {
+      "heading": "STEP1: 興味や推しを登録",
+      "body": "まずは自分の好きな球団や\n観戦スタイルを登録するだけ🎏\n「こんな人がいたらいいな〜」っていう希望もOK！"
+    },
+    {
+      "heading": "STEP2: 仲間を探す＆いいね",
+      "body": "同じチーム推しや\n気が合いそうな相手に「いいね」✨\nプロフィールで観戦スタイルも分かるから安心。"
+    },
+    {
+      "heading": "STEP3: まずはチャットでトーク",
+      "body": "いきなり球場集合は不安…\n最初はアプリ内チャットで\nユルく野球談義しながら仲良くなろう！"
+    },
+    {
+      "heading": "STEP4: 一緒に観戦デビュー！",
+      "body": "球場で思いっきり盛り上がる観戦仲間がついに✨\n推しの話やグルメも共有できて楽しさ倍増！"
+    }
+  ],
+  "caption": "野球って大好きだけど、「一緒に盛り上がれる仲間がなかなか見つからない」…そんな経験ない？🙋‍♀️実は私も、最初はひとりで球場デビューが不安すぎて…。\n\nだけどDraftを使えば、自分のペースで「野球好きな友達」が見つかっちゃうんだよね。登録→仲間探し→チャット→観戦…と流れも簡単！恋愛系じゃなくて「推し活仲間探し」だから気軽＆安心。\n\n球場で推しを全力応援したい人、女子同士でおしゃべり観戦したい人…仲間がいるだけで、野球観戦の楽しさって100倍に！\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#観戦仲間募集中",
+    "#推し活女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#趣味友達",
+    "#SNS女子",
+    "#女子会",
+    "#Draftで仲間探し"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, japanese 20s women enjoying at a pro baseball stadium in Japan, cheering, smiling, vibrant atmosphere",
+  "images": [
+    "media/carousel/2026-09-28/01_cover.jpg",
+    "media/carousel/2026-09-28/02_slide.jpg",
+    "media/carousel/2026-09-28/03_slide.jpg",
+    "media/carousel/2026-09-28/04_slide.jpg",
+    "media/carousel/2026-09-28/05_slide.jpg",
+    "media/carousel/2026-09-28/06_cta.jpg"
+  ]
+}
