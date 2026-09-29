@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "category": "球場デート",
+  "title": "横浜スタジアムで友達と推し活！球場デート風🎏",
+  "scene": "横浜スタジアムの観客席で20代女性2人が笑顔で乾杯。名物の球場グルメをシェアしながら写真を撮り合う。試合の応援タオルやグッズを持ってハイテンションに応援するラストカット。",
+  "caption": "野球好き女子なら一度は憧れる、推し活しながらの球場観戦😊横浜スタジアムで友達と乾杯したり、限定グルメをシェアしたり…カメラロールには“最高の瞬間”がいっぱい🍟📸応援グッズやタオルで盛り上がる時間、みんなはどんなふうに楽しんでる？一緒に盛り上がれる観戦仲間がいると、球場の思い出がもっと特別なものになるはず！『Draft』なら同じ趣味の友達も見つけやすいよ✨不安だった初観戦も、推しの話で大盛り上がりしがち🎶あなたはどんな瞬間が一番楽しい？球場観戦のエピソードや思い出、ぜひコメントで教えてね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#推し活",
+    "#観戦仲間",
+    "#女子旅",
+    "#Draftで友達作り",
+    "#球場デート"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15s video with natural, handheld smartphone camera motion. Two Japanese women in their 20s sit in the stands at Yokohama Stadium. They smile and toast with drinks, share popular stadium food like french fries, take photos of each other with their smartphones, and wave team towels or cheer items. The energy is friendly, lively, and fun. Natural sunlight, background of a lively Japanese baseball game crowd. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, natural smartphone style. 0-5s: Close-up of two Japanese women in their 20s sitting in Yokohama Stadium cheering, clinking their drinks with bright smiles. 5-10s: Medium shot as they share and laugh over stadium food (like fries), holding up the food and taking photos of each other. 10-15s: Pull back to show them waving team scarves or towels, cheering together, energetic and authentic. Throughout, natural handheld feel, lively baseball stadium environment. No text overlays, no AI cues.",
+    "higgsfield": "Photorealistic vertical 9:16 video, Japanese women in their 20s at Yokohama Stadium. Camera starts with a handheld close-up of two friends toasting drinks with smiles, handheld pan to reveal them sharing stadium food, then a gentle push-in as they laugh taking photos of each other, finishing with a wider shot as they cheer, wave towels, and enjoy the baseball game together. Lighting: natural daytime. No overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-30.mp4"
+}
