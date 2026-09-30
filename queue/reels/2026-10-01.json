@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-01",
+  "category": "球場観戦Vlog風",
+  "title": "Tokyo Dome女子の球場Vlog：推し活まるごと1日密着",
+  "scene": "東京ドームに到着し、友達と笑顔でゲートをくぐる。売店で球場グルメを選び合い、観客席で推しタオルを持って乾杯！最後は全員で応援ジャンプ＆ハイタッチ。",
+  "caption": "野球好き女子のリアルな1日、気になりませんか？今日は友達と東京ドームで推し活まるごとVlog！入り口での「今日も来たー！」から、売店で迷う『どれにする？』『シェアしよ！』の時間も、まさに女子会そのもの。席についたらタオルを広げて「カンパーイ🍻」！推しの登場で一気にテンションMAX、みんなで飛んで跳ねて応援コール。野球観戦って、推し仲間と一緒だともっと楽しい！でも『一緒に行ける人がいない』『初めてで不安…』って声もよく聞きます。そんな時こそ観戦仲間が見つかるDraft！気軽に仲間と繋がって、思いっきり推し活しちゃおう🙌 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#東京ドーム",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦仲間募集",
+    "#女子会",
+    "#推しタオル",
+    "#Draftで観戦"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15s photorealistic video. Natural handheld smartphone look. Three Japanese women in their 20s arrive at Tokyo Dome, walking energetically through the entrance, smiling and chatting. Cut: They browse a lively food stand, point and laugh while choosing ballpark food, one holds a curry rice, another with lemonade. Cut: At their stadium seats, they sit together, hold up colorful towels, clink drinks and laugh, capturing candid, joyful reactions. In the background, a bustling crowd and baseball field can be seen. No AI or text artifacts, only genuine, lively moments.",
+    "veo": "Vertical video (9:16), 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Cut 0-5s: Three Japanese women in their 20s walk through the Tokyo Dome entrance, chatting and visibly excited. Cut 5-10s: The group stands at a busy food stand, choosing and sharing ballpark food with playful gestures, laughing. Cut 10-15s: Sitting in their seats, they hold up team towels, raise drinks for a celebratory toast, and cheer as the game starts. Japanese baseball stadium atmosphere, candid emotions, no text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic and smartphone-shot look. Start: handheld camera follows three Japanese women in their 20s walking and talking at Tokyo Dome entrance (walk-along pan). Mid: handheld, close panning as they point and pick food at a stadium stand. End: push-in and slight handheld shake as they sit, laugh, raise drinks and towels, then cheer together. No digital overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-10-01.mp4"
+}
