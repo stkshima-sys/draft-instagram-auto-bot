@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-02",
+  "category": "球場グルメ紹介",
+  "title": "Yokohama球場グルメ女子レポ🍴3連発！",
+  "scene": "横浜スタジアムの観客席で20代女性2人がスマホで自撮りしながらグルメを紹介。売店でベイスターズ名物のシウマイ弁当を手に笑顔で乾杯。食べる瞬間に『おいしい！』と盛り上がるリアルなシーン。",
+  "caption": "横浜スタジアムで野球観戦するとき、絶対に外せないのが球場グルメ🍱🎵 今日は女友達と一緒に、推し活ついでに人気グルメを食べ比べしてきました！やっぱり定番シウマイ弁当は、どこかホッとする味。売店前で迷いがちなあの瞬間も、一緒にワクワクできる仲間がいるからさらに楽しいんだよね🥰\n\n『1人で観戦はちょっと不安…』『グルメもシェアしたい！』そんな女子なら、球場で一緒に盛り上がれる仲間探しもアリかも？推し活しながら、みんなで美味しく楽しいスタジアム時間を満喫しよ！観戦仲間ができると、同じ味ももっと思い出深くなる気がする…✨\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#プロ野球",
+    "#観戦仲間",
+    "#推し活",
+    "#観戦コーデ",
+    "#スタジアムグルメ",
+    "#シウマイ弁当",
+    "#週末の楽しみ"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15s photorealistic smartphone-shot video capturing two Japanese women in their 20s seated in the Yokohama Stadium stands. They hold and show off famous ballpark food (Shumai bento, local snacks), take a selfie together, laugh, and cheer. The scene shifts to the women at a stadium concession stand, exchanging excited smiles as they select food. Handheld camera moves naturally, focusing on food close-ups, happy faces, and casual, real reactions. No visible text overlays or AI artifacts.",
+    "veo": "0-5s: Two Japanese women in their 20s laugh and chat in the Yokohama Stadium stands, holding up and showing off a Shumai bento and other ballpark foods, casually filming themselves with a smartphone. 5-10s: Quick cut to them at the stadium concession stand, pointing and choosing food, exchanging excited glances. 10-15s: Back to their seats, one takes a big bite while the other reacts with a thumbs up, both smiling and enjoying the game day vibe. Natural, photorealistic, smartphone-shot vertical 9:16 style throughout.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic. Natural handheld camera, starting with a push-in toward two Japanese women in their 20s as they laugh and show off Shumai bento in the Yokohama Stadium stands. Gentle pan to focus on the food, then a quick handheld cut to the women at a concession stand choosing snacks. Return to the stands for a close-up as one takes a bite and both react joyfully. No text overlays or visible AI artifacts."
+  },
+  "videoFile": "videos/2026-10-02.mp4"
+}
