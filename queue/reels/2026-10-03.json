@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-03",
+  "category": "ホームランの盛り上がり",
+  "title": "PayPayドームで推しのホームラン！女子のスタンド大盛り上がりリアル体験",
+  "scene": "推し選手がホームランを放つ瞬間、20代の日本人女性グループがスタンドで大歓声。両手を上げてハイタッチ、手に持った球場グルメも一緒に喜ぶ。みんな笑顔で「やばい！」「最高！」と盛り上がるシーンをスマホで自然に撮影。",
+  "caption": "推し選手がホームランを打った瞬間って、何回見ても毎回うるっとくるよね🥹💕PayPayドームのスタンドで友達と一緒に叫んで、周りともハイタッチ…この一体感がたまらない！野球女子って、推し活もグルメも全力で楽しむから、気づいたらみんなで大はしゃぎしちゃうんだよね⚾️✨『1人は不安…』って思ってたけど、同じ気持ちの仲間と盛り上がれるDraftのおかげで、こんなに素敵な体験ができるようになった！みんなは球場でどんな瞬間が1番盛り上がる？推し活エピソードもぜひ教えてね🙌 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#推し活",
+    "#観戦仲間",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#観戦コーデ",
+    "#ホームラン",
+    "#野球観戦",
+    "#ドーム女子"
+  ],
+  "prompts": {
+    "kling": "A group of three Japanese women in their 20s, dressed in casual cute baseball fan outfits, watching a baseball game at PayPay Dome. As their favorite player's home run is hit, they jump up from their stadium seats, cheer loudly, and high-five each other with excited, genuine smiles. One holds a cup of stadium food, another waves a towel. Natural handheld smartphone-style camera, focus on their faces and reactions, lively crowd atmosphere behind, no text overlays, photorealistic, 9:16 vertical.",
+    "veo": "0-5s: The camera, in a handheld smartphone style, films three Japanese women in their 20s seated at PayPay Dome. They notice their favorite player at bat, anticipation on their faces. 5-10s: The player hits a home run—suddenly, the women stand up excitedly, cheering, raising their arms, laughing, and doing high-fives. One has a tray of stadium food, another waves a towel. 10-15s: Close-ups on their bright, happy faces; quick pans to other cheering fans, then back as the group celebrates together, blending with the loud crowd energy. All in a natural, photorealistic vertical 9:16 style.",
+    "higgsfield": "Handheld camera, vertical 9:16. Begin with a slow pan across three Japanese women in their 20s seated in the stadium stand, capturing their excitement. As the home run happens, use a quick push-in for reactions, with slight handheld shake for realism. Pull back for a wide shot as they all jump up and high-five, then gentle pan to show crowd energy before ending on their joyful expressions. Photorealistic, smartphone-shot look, no overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-10-03.mp4"
+}
