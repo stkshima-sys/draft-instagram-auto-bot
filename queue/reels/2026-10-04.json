@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-04",
+  "category": "球場グルメ紹介",
+  "title": "球場グルメ神3 in エスコンフィールド北海道",
+  "scene": "球場の観客席で20代女性2人が笑顔で限定グルメ（北海道ザンギ・エスコン限定ソフト・生ビール）を手に乾杯。ソフトクリームを1人が美味しそうにパクッと食べ、もう1人がザンギを口元に運ぶ。最後はグルメを手に「最高！」とピースしながら盛り上がる。",
+  "caption": "エスコンフィールド北海道で女子2人観戦、やっぱり外せないのは球場グルメ！🍴 今日は限定の『北海道ザンギ』『エスコン限定ソフト』『球場生ビール』をシェアしてきました。ザンギはサクサク＆ジューシーで、応援しながら食べると最高すぎる…✨ ソフトは球場でしか食べられないご当地フレーバーで、写真も映える＆暑い日にはご褒美すぎ。生ビールで乾杯した瞬間、友達と「今日来てよかった〜！」って毎回なるよね😂 こういう“推し活グルメ”って1人だと勇気いらない？実は、観戦仲間と一緒だといろんな味をシェアできて楽しさ2倍！『Draft』で新しい野球友達ができたから、初めてチャレンジしたグルメもあったり。グルメも推し活の一部、また食べたいものいっぱい！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#エスコンフィールド北海道",
+    "#プロ野球",
+    "#推し活",
+    "#観戦仲間",
+    "#グルメレポ",
+    "#北海道グルメ",
+    "#野球観戦",
+    "#仲間募集中"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their twenties are seated in the stands at ES CON Field Hokkaido during a baseball game. They smile and hold signature stadium foods—Hokkaido fried chicken (zangi), special Hokkaido soft-serve ice cream, and draft beer. They clink their drinks and food together in a celebratory cheers, laugh, one bites into soft serve while the other brings zangi to her mouth. The atmosphere is vibrant, lively, with stadium crowds in the background, no text overlays.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, Japanese women in their 20s at a Japanese baseball stadium. Scene structure: 0-5s: Two women in casual ballpark fashion sitting in ES CON Field Hokkaido stands, presenting and clinking their hands together holding Hokkaido zangi, soft serve, and beer, smiling at the camera. 5-10s: Close-up on one woman taking a bite of soft serve while her friend laughs and holds up zangi to her mouth; ambient stadium energy visible behind. 10-15s: Both women with food and drinks, making a 'peace' sign and happily gesturing 'delicious', wide shot showing stadium buzz, no text overlays.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot look, Japanese women in their 20s at ES CON Field Hokkaido, 10-15 seconds. Start with natural handheld camera in front of two women in the stands; camera pans slightly left to right as they present zangi, soft serve, and beer. Slight push-in as the girls do a 'cheers' motion, then one bites into soft serve, the other brings zangi to mouth—camera remains handheld, slightly close-up. Last, pull back to wider shot as both make a peace sign, laughing, with energetic stadium background. No motion smoothing, keep handheld vibration for realism."
+  },
+  "videoFile": "videos/2026-10-04.mp4"
+}
