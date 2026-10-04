@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-04",
+  "category": "球場グルメ",
+  "title": "保存必須！球場グルメ神7選",
+  "slides": [
+    {
+      "heading": "神宮名物！ウィンナ盛り",
+      "body": "外野スタンド横の「グルメワゴン」で大人気！\nぷりぷり食感×ジューシーで食べやすさ抜群。\nお値段は550円、SNS映えもバッチリだよ🌭"
+    },
+    {
+      "heading": "ZOZOのとろける牛タン串",
+      "body": "球場外周の「牛たん炭火焼 圭助」で発見✨\n分厚い牛タンはジューシーで満足感MAX！\n1本900円、並んでも食べる価値あり♪"
+    },
+    {
+      "heading": "PayPayドームのジャンボたこ焼き",
+      "body": "「球場横たこ焼きブース」で販売🐙\n大きめサイズ＆ふわとろ感が最高！\n5個入り700円、観戦のおともにぴったり。"
+    },
+    {
+      "heading": "エスコンのいちごパフェ",
+      "body": "球場内カフェ「SWEETS STAND」で女子に大人気🍓\nかわいさもボリュームも映え確定！\nパフェは800円、売店は一塁側コンコース。"
+    },
+    {
+      "heading": "甲子園の甲子園カレー",
+      "body": "伝統の味はスタンド売店で注文可能🍛\n何度でも食べたくなる優しい味わい。\n中盛750円、大盛900円でお腹も大満足！"
+    },
+    {
+      "heading": "マツダのカープうどん",
+      "body": "バックネット裏の「カープうどん」は広島女子の定番！\nあったかい出汁＆もちもち麺が沁みる…🍜\n550円でホッと一息つけるよ。"
+    }
+  ],
+  "caption": "球場観戦といえば、やっぱり現地グルメも楽しみのひとつ🍴推し活しながら、おいしいごはんやスイーツでテンション上がる瞬間って最高だよね！今回は、保存しておきたい全国球場の神グルメを7つピックアップ。\n\nメインどころから女子目線で映えるメニュー、売店の場所や値段までまとめました。気になるグルメはぜひ現地でチェックしてみてね。\n1人観戦でも仲間と一緒でも、グルメタイムでさらに盛り上がろう！\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦仲間募集中",
+    "#観戦コーデ",
+    "#映えグルメ",
+    "#現地レポ",
+    "#プロ野球",
+    "#カープうどん"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, Japanese baseball stadium, group of 20s Japanese women enjoying ballpark food, lively and cheerful, candid moment, modern casual outfits",
+  "images": [
+    "media/carousel/2026-10-04/01_cover.jpg",
+    "media/carousel/2026-10-04/02_slide.jpg",
+    "media/carousel/2026-10-04/03_slide.jpg",
+    "media/carousel/2026-10-04/04_slide.jpg",
+    "media/carousel/2026-10-04/05_slide.jpg",
+    "media/carousel/2026-10-04/06_slide.jpg",
+    "media/carousel/2026-10-04/07_slide.jpg",
+    "media/carousel/2026-10-04/08_cta.jpg"
+  ]
+}
