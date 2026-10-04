@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "category": "推し活動画",
+  "title": "推し活女子のリアル！PayPayドームで全力応援DAY",
+  "scene": "友達3人がPayPayドームの観客席でユニフォーム姿で乾杯&笑顔。推し選手のうちわや応援タオルを掲げて大盛り上がり。コンコースで球場グルメをシェアしながら楽しむシーンも！",
+  "caption": "「推しが打席に立つと息止まりがち」「友達とコール合わせて声枯れるまで応援」「観戦終わりのグルメが最高すぎる！」野球観戦って、女友達と全力で推し活できる特別な場所だよね⚾️🍦笑ったり、写真撮り合ったり、推しを語り尽くしたり…同じユニで並ぶと一気に仲間感UP💕でも、最初は“観戦仲間いなくて不安”って思ってた人も多いはず。実は、みんなも同じ気持ちしがちなんだよね。だからこそ、勇気を出してDraftで“野球好き女子”仲間を見つけてみて！楽しさ倍増まちがいなし☺️あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#PayPayドーム",
+    "#女子会",
+    "#野球観戦仲間",
+    "#推しユニ",
+    "#観戦あるある"
+  ],
+  "prompts": {
+    "kling": "Three Japanese women in their 20s wearing Fukuoka SoftBank Hawks jerseys, sitting together in the stands at PayPay Dome. They laugh, raise their drinks for a toast, then joyfully wave brightly colored cheering towels and player uchiwa fans. Midway, switch to them walking along the concourse, sharing buns and ice cream, all shot with a natural, handheld smartphone feel, 9:16, photorealistic, no text overlays, no AI artifacts.",
+    "veo": "0-5s: Close-up of three Japanese women in their 20s taking a selfie in their Hawks jerseys, cheering and smiling in the PayPay Dome stands, handheld. 5-10s: Medium shot as they stand, excitedly wave towels and hold up their favorite player's uchiwa, high energy. 10-15s: The group strolls the stadium concourse, sharing baseball stadium snacks and laughing, all with a smartphone-shot, natural handheld motion and real-life atmosphere.",
+    "higgsfield": "Handheld vertical camera, starting with a wide pan across three young Japanese women cheering in the stadium. Push-in as they lift and wave towels and player uchiwa. Quick pan as they clink drinks. Cut to a gentle push-in along the concourse as they share food, all in a realistic, photorealistic, smartphone-shot style at PayPay Dome."
+  },
+  "videoFile": "videos/2026-10-05.mp4"
+}
