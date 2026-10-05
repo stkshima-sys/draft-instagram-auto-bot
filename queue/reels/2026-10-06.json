@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "category": "女性同士の観戦",
+  "title": "女子観戦グルメ乾杯リール@PayPay Dome",
+  "scene": "PayPayドームの観客席で女子3人が笑顔で観戦準備。球場グルメを手に乾杯しながら盛り上がる。応援タオルを広げてハイタッチ、自然なリアクションと笑顔が印象的。",
+  "caption": "『#野球女子』の本音トーク…！女子3人でPayPayドームへ。推しのユニで集合して、まずは絶対外せない球場グルメで乾杯🍻✨「このポテト意外と大盛り」「売店めっちゃ並んでた～！」って盛り上がってる間に、あっという間に試合スタート。やっぱり仲間と一緒だと、応援もグルメも何倍も楽しいよね。推しタオル掲げて一緒に声を出したり、写真撮ったり、気付いたらみんな笑顔☺『一緒に行く友達いなくて…』と悩んでたあの頃の自分へ、「大丈夫！仲間は絶対見つかるよ」って伝えたい。観戦の楽しみ、もっと広げていきたい人、Draftで新しい仲間作ろ！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#観戦コーデ",
+    "#推し活女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#野球観戦",
+    "#グルメ部",
+    "#Draftで観戦"
+  ],
+  "prompts": {
+    "kling": "A group of three Japanese women in their 20s are sitting together in the stands at PayPay Dome, Fukuoka during a baseball game, smiling and chatting. They hold cups of beer and trays of stadium food, clinking drinks for a cheerful toast. The camera, appearing as a handheld smartphone, captures them laughing, eating, playfully showing their food, and waving colorful fan towels in support. Natural lighting, casual summer outfits, and a lively, authentic atmosphere. No text overlays or visible signs of AI generation.",
+    "veo": "0-5s: Three Japanese women in their 20s, wearing their favorite team's merchandise, gather at their stadium seats at PayPay Dome, laughing and taking out food and drinks for the game. 5-10s: Close-up of them clinking drinks and holding stadium food, lively reactions and casual conversations as they look into the camera, enjoying the moment together. 10-15s: The friends wave their team towels, exchange high-fives, take group selfies, and cheer for their team, all captured with a natural, handheld smartphone look that feels spontaneous and genuine.",
+    "higgsfield": "A vertical video in 9:16, handheld camera motion with occasional subtle pans and gentle push-ins. Three Japanese women in their 20s at PayPay Dome, enjoying stadium food, laughing, and toasting drinks. Gradual push-in on their toast moment, followed by a handheld panning shot capturing their excited cheering and natural group interactions, set against the lively crowd and baseball atmosphere."
+  },
+  "videoFile": "videos/2026-10-06.mp4"
+}
