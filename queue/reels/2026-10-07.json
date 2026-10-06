@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "category": "球場デート",
+  "title": "神宮球場で女子観戦仲間とときめく推し活デート風景",
+  "scene": "夕方の明治神宮球場、笑顔の20代女性2人が座席で乾杯しながら自撮り＆歓声。名物の球場グルメ（ウインナー盛りや焼きそば）をシェアして幸せそうに頬張る。推しグッズを手に応援コール、自然な笑顔が弾けるリアルなスマホ映像。",
+  "caption": "『球場での観戦仲間と過ごす時間って、やっぱり特別だよね🥰明治神宮球場で、推しグッズ片手に「カンパイ！」したり、一緒にグルメを食べて『美味しすぎ！』って盛り上がったり…女子同士ならではの楽しさが止まらない！\n野球を語れる友達がいなくて最初は不安だったけど、観戦仲間と一緒だと推しトークもリアクションも共有できて本当にわくわくするし、写真も100倍映える📸\n推しの打席では一緒にドキドキして、一球ごとに歓声あげて、最高の思い出に…✨\n『仲間と一緒に野球を観たい！』その気持ちがDraftで叶いました！\nあなたも観戦仲間との時間、もっと充実させてみない？\n共感したら保存＆フォローもしてね！\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#観戦仲間",
+    "#神宮球場",
+    "#プロ野球",
+    "#推し活",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#女子旅",
+    "#写真好きな人と繋がりたい",
+    "#Draftで観戦"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s enjoying a baseball game at Meiji Jingu Stadium: starting with a close-up selfie as they smile and do a 'kanpai' with their drinks, then sharing stadium food like yakisoba and sausages while laughing, finishing with both holding up team towels and joining in energetic cheers, surrounded by the lively crowd. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, no overlays, no AI artifacts. 0-5s: Two Japanese women in their 20s sitting in the stadium seats at Meiji Jingu, clinking drinks and taking selfies with bright, candid smiles. 5-10s: They open and share classic stadium foods like yakisoba and sausage platters, reacting with excitement and laughing. 10-15s: Both hold up their team towels, cheering in sync with the game, showing a natural, joyful energy with a vibrant background of fans.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, no overlays, no AI artifacts. Camera starts handheld and close on two Japanese women in their 20s in Meiji Jingu Stadium, panning as they do 'kanpai', then push-in shot as they laugh and eat stadium food, ending with a handheld pan as they cheer with towels in the air, capturing surrounding crowd energy."
+  },
+  "videoFile": "videos/2026-10-07.mp4"
+}
