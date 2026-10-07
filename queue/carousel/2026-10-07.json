@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-07",
+  "category": "Draft成功体験",
+  "title": "観戦仲間ができた私の転機5選",
+  "slides": [
+    {
+      "heading": "ひとり観戦のモヤモヤ",
+      "body": "野球が大好きなのに、\n一緒に行く友達がいなくて…😢\n推しの勝利も、思いっきり語れる人がいないのが地味につらい。"
+    },
+    {
+      "heading": "Draftを知ったきっかけ",
+      "body": "SNSで「観戦仲間探し」のサービス発見！\n恋愛じゃなくて、ただ野球トークしたい私にはぴったりかも？と登録😊"
+    },
+    {
+      "heading": "初マッチは同い年女子！",
+      "body": "プロフィールで球団愛を語ったら、\nすぐに同じ推しの子からメッセージ！\n「グルメも楽しみたいよね」って意気投合。"
+    },
+    {
+      "heading": "球場観戦の楽しさ倍増",
+      "body": "初めて2人で現地観戦⚾️\n推しの登場曲で一緒に盛り上がれたり、\n映えグルメで写真撮り合ったり…\n思ってた以上に楽しかった！"
+    },
+    {
+      "heading": "今では“推し活仲間”",
+      "body": "「次はこのユニで行こ！」とLINEで作戦会議。\nひとりじゃ味わえなかった楽しみが、どんどん増えたよ！\nドラフトで世界広がった✨"
+    }
+  ],
+  "caption": "「野球好きなのに、観戦仲間がいなくて寂しい…」って思ったこと、ありませんか？私もずっと1人で球場に行くのが不安だったけど、Draftを知ってから一気に世界が広がりました！同じ球団のファン同士、試合の合間も盛り上がるし、推し活グッズの情報交換や観戦コーデの話で毎回盛り上がりっぱなし。恋愛じゃないからこそ、気軽に友達ができて安心です。ひとり観戦のモヤモヤを感じているなら、ちょっと勇気を出して“観戦仲間”を探すのもおすすめだよ！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#野球観戦仲間",
+    "#推し活女子",
+    "#Draft体験談",
+    "#野球好きと繋がりたい",
+    "#観戦友達募集中",
+    "#スポーツ女子"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, a group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium, laughing, eating stadium food, cheering, realistic and candid",
+  "images": [
+    "media/carousel/2026-10-07/01_cover.jpg",
+    "media/carousel/2026-10-07/02_slide.jpg",
+    "media/carousel/2026-10-07/03_slide.jpg",
+    "media/carousel/2026-10-07/04_slide.jpg",
+    "media/carousel/2026-10-07/05_slide.jpg",
+    "media/carousel/2026-10-07/06_slide.jpg",
+    "media/carousel/2026-10-07/07_cta.jpg"
+  ]
+}
