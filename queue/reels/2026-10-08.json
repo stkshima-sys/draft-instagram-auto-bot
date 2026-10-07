@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-08",
+  "category": "球場デート",
+  "title": "球場デート 観戦仲間と横浜スタジアム1日体験",
+  "scene": "横浜スタジアムのスタンドで2人の20代女性が笑顔で乾杯。続いて、人気グルメをシェアし合いながらSNS用の写真を撮影。最後は応援タオルを持って一緒に盛り上がる自然な雰囲気が映る。",
+  "caption": "野球好き女子なら一度は憧れる『観戦仲間との球場デート』、一緒に体験してみたよ⚾️💙\n初めて“野球友達”と横浜スタジアムへ！推し球団Tシャツに着替えて、ドームの熱気にワクワクしっぱなし。スタンドで乾杯したり、球場グルメのからあげやレモンサワーをシェアしたり、SNS映え写真も撮り合いっこ📷✨みんなで推しの選手タオルを掲げて応援すると、ひとり観戦とは違う楽しさが味わえるよ！\n「一緒に盛り上がれる友達がいたらなあ…」と感じてた人、ほんとに景色が変わるからおすすめ。仲間がいれば初球場も安心だし、推し活が広がること間違いなし！Draftなら気軽に観戦仲間が見つかるよ👌\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#横浜スタジアム",
+    "#観戦仲間",
+    "#友達作り",
+    "#週末の過ごし方",
+    "#Draftで見つける"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16 video, 10-15 seconds, photorealistic, with a natural smartphone-shot look and handheld camera movement. Two Japanese women in their 20s sitting in Yokohama Stadium bleachers, smiling and toasting with drinks, then sharing popular stadium food and taking selfies together. In the final moments, they wave team towels and cheer, showing excitement and friendship. Daytime, crowded stadium atmosphere, realistic lighting and colors, no overlays or AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot aesthetic. 0-5s: Two Japanese women in their 20s sit in Yokohama Stadium stands, smiling, tapping their drinks together in a casual toast, handheld camera. 5-10s: The friends share and taste popular stadium food (karaage, lemon sour), taking pictures of each other for social media, natural interaction. 10-15s: They hold up their favorite team's towels and cheer together, laughing, with the lively stadium crowd in the background. No text overlay, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, handheld camera motion. Start with a slight push-in as two Japanese women in their 20s toast and laugh in Yokohama Stadium stands. Use gentle pan to follow them as one shares stadium food with the other, then switches to over-the-shoulder angle as they take selfies. End with a steady handheld shot as both stand up, wave team towels, and cheer among the crowd. Maintain natural lighting and vivid colors, avoid AI artifacts."
+  },
+  "videoFile": "videos/2026-10-08.mp4"
+}
