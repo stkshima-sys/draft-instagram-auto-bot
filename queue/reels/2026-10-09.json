@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-09",
+  "category": "球場グルメ紹介",
+  "title": "ES CON FIELD女子的！球場グルメ現地レポ🍔",
+  "scene": "20代の日本人女性2人がES CON FIELD HOKKAIDOの観客席で笑顔でグルメを手に持ち乾杯。人気のザンギバーガーや北海道限定スイーツを画面に向けて見せ合い、一口頬張って「美味しすぎ！」とリアルな表情で盛り上がる。",
+  "caption": "野球観戦といえば、やっぱり球場グルメは外せないよね🍔🤭 エスコンフィールドのザンギバーガー、ほくほくポテト、北海道ミルクの濃厚ソフト…推しと食べるとさらに最高！けど実は、球場で買う瞬間のワクワクと、友達と『どっち食べる？』って迷う時間も大好きだったりする（笑）1人だと色々迷っちゃうけど、観戦仲間がいると半分こしたり、オススメをシェアできるのも嬉しいポイント◎このワイワイ感、やみつきになるからぜひ体験してほしい！球場って、美味しいものをきっかけに友達とぐっと距離が縮まる特別な場所だよ✨みんなの“推しグルメ”もコメントで教えてね！\n\n観戦仲間を探してるなら「Draft」で一緒に野球グルメを楽しまない？まずはフォロー＆保存もお忘れなく💡\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#球場グルメ",
+    "#野球女子",
+    "#エスコンフィールド",
+    "#プロ野球",
+    "#観戦仲間",
+    "#推し活",
+    "#観戦コーデ",
+    "#北海道グルメ",
+    "#週末の過ごし方",
+    "#draftで観戦"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s are sitting in the stands at ES CON FIELD HOKKAIDO, both holding signature stadium foods (fried chicken burger and soft serve ice cream). They smile, show the food to the camera, clink burgers as a ‘cheers’, and one takes a big happy bite. The atmosphere is lively, colorful, and authentic, with real ambient stadium background and crowd. No AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot. Cut 1 (0-5s): Handheld close-up of two Japanese women in their 20s, sitting in ES CON FIELD HOKKAIDO stands, excitedly showing their stadium food (fried chicken burger, local soft serve) to the camera, with a big smile. Cut 2 (5-10s): One woman takes a bite while the other laughs, they point out the stadium scenery and cheer. Cut 3 (10-15s): The friends swap a bite, laughing authentically, holding their food up with the field in the blurry background. Natural crowd noise, no overlays.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Begin with handheld camera close to two Japanese women sitting in the stadium, pan across as they show their food, then push-in as they clink burgers for a toast. Handheld stays on the faces as one takes a bite and reacts with joy, slight drift to capture friends laughing together. Real stadium light, natural sound, no AI glitches."
+  },
+  "videoFile": "videos/2026-10-09.mp4"
+}
