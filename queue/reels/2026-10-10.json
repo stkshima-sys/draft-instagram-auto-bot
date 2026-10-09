@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "category": "観戦仲間との交流",
+  "title": "観戦仲間とTokyo Domeごはん女子会",
+  "scene": "友達3人がTokyo Domeで試合観戦後、笑顔で乾杯。名物グルメと一緒に写真を撮り合いながら盛り上がる。最後は楽しそうに席で談笑しながら友達と肩を組む。",
+  "caption": "野球観戦のあとの“定番”といえば…やっぱり観戦仲間とのごはんタイム！Tokyo Domeのグルメゾーンで、推しのユニを着て乾杯する瞬間って最高じゃない？🍻✨みんなでシェアしたジャンボ唐揚げや、SNS映え間違いなしのカラフルドリンクも外せないよね。気の合う仲間と球場グルメを味わいながら今日の推し活トークで盛り上がると、「あ〜この瞬間のために生きてる！」って毎回思っちゃう。写真もいっぱい撮り合って、推しボードやおそろいコーデでパシャリ📸さらに友達が増えるのも、こういう観戦後の交流からだったり…！ひとり観戦はちょっと不安だけど、仲間がいれば楽しさ倍増！Draftで見つけた新しい友達と今日も素敵な思い出ができました🌟あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦グルメ",
+    "#推し活",
+    "#TokyoDome",
+    "#野球観戦仲間",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#グルメ巡り",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone-shot look, handheld camera. Three Japanese women in their 20s, friendly and smiling, sitting in Tokyo Dome spectator seats after a baseball game. They clink plastic cups in a toast, laugh, and eat famous ballpark fried chicken and colorful drinks. Camera follows as they take selfies with their food, showing a cozy, fun atmosphere, no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, natural smartphone style, Tokyo Dome after a baseball game. 0-5s: Three Japanese women in their 20s sit together in stadium seats, smiling and clinking drinks in a casual toast. 5-10s: The friends take turns snapping photos of each other with their ballpark food and colorful drinks, showing off their jerseys and team items. 10-15s: Group shot with everyone laughing, arms around each other, enjoying the moment together. No overlays or AI effects.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-filmed look. Handheld camera with natural small shakes: start with a push-in shot of three Japanese women in their 20s doing a 'cheers' with drinks in Tokyo Dome seats. Slow pan as they photograph each other and their food, then a close-up handheld pull-in as they laugh and enjoy the moment together. No text or AI artifacts."
+  },
+  "videoFile": "videos/2026-10-10.mp4"
+}
