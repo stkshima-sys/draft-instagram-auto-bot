@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-11",
+  "category": "球場グルメ紹介",
+  "title": "東京ドーム球場グルメ女子会リール",
+  "scene": "東京ドームの観客席で20代女性2人が笑顔で球場グルメ（ジャンボ焼き鳥やドームプリン）を手に持ち、カメラに見せながら乾杯。1人が「いただきます」と言って大きくほおばり、隣の友達と顔を見合わせて微笑む。最後は2人が「野球観戦グルメ最高！」とアイコンタクトしながら、スマホで自撮りワンショット。",
+  "caption": "東京ドームの球場グルメって、みんな何が好き？🍔✨今日は野球女子2人で現地人気No.1と噂のジャンボ焼き鳥＆ドームプリンを食べ比べしてきたよ！グルメを片手に観戦って、やっぱり特別な時間だよね☺️1人だとちょっと勇気がいるけど、仲間と一緒なら何倍も楽しいし、推しの話で盛り上がれるのも最高！1人観戦が不安な人も、Draftで観戦仲間を見つけて、もっと球場グルメを満喫しちゃおう🍦💕みんなの推しグルメや、SNS映えする食べ方もぜひコメントで教えてね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#東京ドーム",
+    "#プロ野球",
+    "#観戦仲間",
+    "#推し活",
+    "#観戦コーデ",
+    "#グルメ女子",
+    "#野球観戦",
+    "#Draftで仲間探し"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, looks like a smartphone video shot by a friend. Two Japanese women in their 20s sit together in the Tokyo Dome baseball stadium stands during a game, holding jumbo yakitori skewers and Dome puddings. They smile, show the food to the camera, say 'cheers' with their snacks, and happily take big bites, then laugh and look at each other, ending by taking a quick selfie together. Natural handheld camera movement, no text overlays, authentic atmosphere, no obvious AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone style. Scene breakdown: (0-5s) Two Japanese women in their 20s sit in the Tokyo Dome stands, smiling and holding up jumbo yakitori and Dome pudding to show the camera, (5-10s) One woman says 'itadakimasu' and takes a big bite, they exchange happy glances and giggle, (10-15s) They bring their faces close and snap a quick selfie with their snacks, still surrounded by the lively stadium atmosphere. Handheld, energetic, authentic, no text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, 10-15 seconds. Handheld camera moves gently from a slight pan showing two Japanese women in their 20s sitting in Tokyo Dome stands, they hold up stadium food (yakitori and pudding), smiling to the camera. Quick push-in as one takes a big bite and laughs with her friend, then natural shake as both lean together for a selfie. Ambient stadium energy, real-life smartphone feel, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-11.mp4"
+}
