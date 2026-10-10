@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-10",
+  "category": "球団別特集",
+  "title": "保存必須！阪神甲子園球場の推しポイント5選",
+  "slides": [
+    {
+      "heading": "①名物・甲子園カレー🍛",
+      "body": "球場グルメといえばこれ！\nスパイシーでクセになる味は、観戦中の必須アイテム。\n試合前に買って席で食べるのが、甲子園女子の定番だよ。"
+    },
+    {
+      "heading": "②大迫力！六甲おろし合唱🎵",
+      "body": "阪神戦の醍醐味はやっぱりこれ！\n勝利の瞬間、ファンみんなで歌う「六甲おろし」は最高。\n一体感に包まれて、自然と笑顔に。"
+    },
+    {
+      "heading": "③球場限定の推し活グッズ🧢",
+      "body": "ユニやタオルだけじゃない！\n甲子園ならではのかわいい限定グッズがたくさん。\n球場でしか出会えないお宝、ぜひチェックしてみて♪"
+    },
+    {
+      "heading": "④映え確定！ツタのグリーン映え💚",
+      "body": "甲子園といえば歴史あるツタの外壁！\n球場外周を歩きながら、友達と写真を撮るのもおすすめ。\nSNS映え間違いなしのスポットだよ📸"
+    },
+    {
+      "heading": "⑤仲間と楽しむ風船上げ🎈",
+      "body": "7回表の恒例イベント「ジェット風船上げ」！\n一緒に風船を飛ばす瞬間、自然と距離が縮まるよ。\n観戦仲間と盛り上がれる最高の思い出に◎"
+    }
+  ],
+  "caption": "「甲子園って憧れるけど、ひとりで行くのはちょっと不安…」そんな女子も多いはず。でも実は、グルメ、応援、一体感…阪神甲子園球場には“女子目線”で楽しめるポイントがいっぱい！名物グルメのカレーや、みんなで歌う六甲おろし。限定グッズ選びやツタの外壁での写真タイム、仲間と盛り上がる風船上げまで、どれも推し活がもっと楽しくなる魅力です。同じ球団を応援する友達を見つけて、一緒に思い出を作ってみませんか？「野球観戦仲間、ほしいな…」と思ったら、ぜひDraftも活用してみてくださいね。\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#阪神タイガース",
+    "#甲子園球場",
+    "#球場グルメ",
+    "#推し活女子",
+    "#観戦コーデ",
+    "#カメラ女子と繋がりたい",
+    "#観戦仲間募集中",
+    "#プロ野球観戦"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, Japanese women in their 20s enjoying at Hanshin Koshien Stadium, eating stadium curry, holding fan goods, taking photos near ivy-covered walls, bright and lively atmosphere",
+  "images": [
+    "media/carousel/2026-10-10/01_cover.jpg",
+    "media/carousel/2026-10-10/02_slide.jpg",
+    "media/carousel/2026-10-10/03_slide.jpg",
+    "media/carousel/2026-10-10/04_slide.jpg",
+    "media/carousel/2026-10-10/05_slide.jpg",
+    "media/carousel/2026-10-10/06_slide.jpg",
+    "media/carousel/2026-10-10/07_cta.jpg"
+  ]
+}
