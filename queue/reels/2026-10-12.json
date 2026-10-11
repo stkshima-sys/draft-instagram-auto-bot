@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "category": "球場観戦Vlog風",
+  "title": "横浜スタジアム・女子観戦Vlog1日体験",
+  "scene": "女友達2人が横浜スタジアム入場ゲートで自撮りからスタート。売店で球場グルメを選んだあと、観客席で乾杯しながら盛り上がり、応援するシーンで締めくくる。",
+  "caption": "横浜スタジアムで女子観戦Vlogしてきたよ！🎥✨ 友達と入場ゲートで「やっと来たね〜」って盛り上がったり、売店でどれ食べるか悩みがちなのも推し活あるある。結局、名物のベイスターズ焼きをゲット！🍴座席で乾杯して、「今日こそ勝とう！」って言い合いながら応援してると、本当に心も距離もグッと近づく感じ。普段は一人観戦が多い人も、気の合う仲間がいればもっと思い出深くなるし、推しの話やグルメ情報もシェアできて楽しさ倍増なんだよね🥰 ちなみに、野球観戦仲間って意外と周りにいなくて寂しい…って人、実は多いんだよ。そんな時はDraftで一緒に盛り上がれる友達探しもアリだし、観戦Vlogで仲間の楽しさイメージしてみて！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#女子旅スポット",
+    "#推し活",
+    "#観戦仲間募集中",
+    "#野球観戦Vlog",
+    "#ベイスターズ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical video (9:16, 10-15s) captured with a smartphone, following two Japanese women in their 20s at Yokohama Stadium. The video starts with both women smiling and taking a cheerful selfie at the stadium entrance, then walking through a busy concourse, pointing and laughing as they choose ballpark food at a vibrant concession stand. Next, they carry food back to their seats, clink their drinks together for a toast, and energetically cheer for their team from the stands. Natural handheld camera movement, lively crowd, authentic atmosphere, no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. 0-5s: Two Japanese women in their 20s enter Yokohama Stadium, excitedly taking a selfie and laughing at the entrance. 5-10s: Both walk through the concourse, choosing food at a colorful concession stand. 10-15s: Returning to their seats, they do a cheerful toast with drinks and then passionately cheer for their team, surrounded by the vibrant stadium crowd. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical video 9:16, 10-15s, photorealistic, Japanese women in their 20s at Yokohama Stadium, shot to appear natural and smartphone-like. Begin with a handheld selfie shot at the entrance (shake, close-up), then pan through the concourse to follow them picking food at a concession stand. Switch to a push-in shot as they sit and toast in the stands, ending with a handheld shot as they stand and cheer, capturing the energetic stadium crowd. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-12.mp4"
+}
