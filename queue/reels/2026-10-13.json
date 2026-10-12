@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "category": "球場観戦Vlog風",
+  "title": "横浜スタジアム女子観戦Vlog｜推し活＆球場グルメの1日",
+  "scene": "友達同士で横浜スタジアムに到着し、ワクワクしながら入場。売店で人気の球場グルメを選びつつ、座席で乾杯＆自撮り！試合が始まり、推しタオルを持って笑顔で一緒に応援。",
+  "caption": "野球好き女子の『推し活観戦』って、最高すぎる！今日は仲良しの友達と横浜スタジアムでドキドキの1日を楽しんできました⚾️まずは駅からワイワイ歩きながら、球場のゲートでテンションMAX！売店で迷いながら選んだ、名物グルメをゲットしたら…みんなで乾杯🍻この瞬間って本当に幸せ。推しタオルやユニフォームで気分がさらにアガるよね！試合中は応援歌にノリノリ、得点が入れば全員でハイタッチ👐「一緒に盛り上がれる仲間がいるから、観戦が100倍楽しい！」って実感しちゃった。Draftで観戦仲間を見つけてから、もっと野球が好きになったし、SNSの友達も増えたよ。1人だと勇気が出ない人も、仲間がいれば安心！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#横浜スタジアム",
+    "#観戦仲間",
+    "#週末の過ごし方",
+    "#応援スタイル",
+    "#Draftで仲間探し"
+  ],
+  "prompts": {
+    "kling": "A group of 2-3 Japanese women in their 20s arriving at Yokohama Stadium, laughing and chatting as they walk through the entrance gates. The camera follows them handheld as they explore the bustling stadium concourse, smiling and choosing food at a colorful concession stand. They find their seats, clink drinks in a cheerful toast, and take a selfie together, then hold team towels and cheer, surrounded by the energetic atmosphere of a live baseball game. Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, lively, no text overlays, no AI artifacts.",
+    "veo": "0-5s: Japanese women in their 20s walk together into Yokohama Stadium, filming themselves with a phone in a handheld, vertical orientation, capturing their excited expressions and stadium entry. 5-10s: The friends browse a busy concession stand, point at popular ballpark foods, and select snacks while chatting and laughing. 10-15s: Seated in the stands, they raise drinks for a toast, take a group selfie, wave team towels, and cheer for their favorite team, all in a smartphone-shot, photorealistic, handheld style, vertical 9:16, no text overlays, no AI artifacts.",
+    "higgsfield": "Handheld camera follows 2-3 Japanese women in their 20s as they enter Yokohama Stadium, with a slight pan as they talk and laugh. Natural push-in at the concession stand as they select food, then a smooth handheld motion as they walk to their seats. At their seats, camera holds steady as they cheer, toast with drinks, and take smiling selfies. Vertical 9:16 format, photorealistic, natural smartphone style, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-13.mp4"
+}
