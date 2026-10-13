@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "category": "ホームランの盛り上がり",
+  "title": "ホームランで女子がひとつになる瞬間｜ES CON FIELD",
+  "scene": "ES CON FIELDの客席で、20代の女性2人が推しタオルを掲げて観戦中。ホームランが飛び出し、2人が歓声とともに立ち上がりハイタッチ＆歓喜の笑顔。周りのお客さんとも自然にハイタッチする温かい雰囲気でラストは笑顔で乾杯。",
+  "caption": "ホームランの瞬間って、なんであんなに周りと一体感が生まれるんだろう…🥹✨ 初対面の人とも、自然と「イエーイ！」ってハイタッチしちゃうこの感じ、球場ならではだよね！普段は人見知りでも、野球の力ってすごいな～って思っちゃう。友達とでも、ひとり観戦でも、知らない人とも盛り上がれるから、また行きたいってなるんだよなぁ。そんな球場体験をもっと気軽に楽しみたい人、Draftなら観戦仲間も見つけやすいよ！あなたのホームラン歓声エピソードも、ぜひコメントで教えてね⚾️💕 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#球場グルメ",
+    "#ホームラン",
+    "#推し活女子",
+    "#観戦コーデ",
+    "#esconfield",
+    "#野球観戦あるある",
+    "#ドラフト仲間"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second photorealistic handheld smartphone-shot video showing two Japanese women in their 20s in casual, sporty outfits in the stands of Es Con Field Hokkaido. They cheer, wave towels, and react excitedly as a home run occurs. The women spontaneously jump up, high-five with each other and with nearby fans—capturing real smiles, natural body language, and the energetic crowd around. The final seconds show them clinking drinks, still glowing with excitement. No text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, natural smartphone-shot look. Scene breakdown: 0-5s: Two Japanese women in their 20s sit in the lively stands at Es Con Field Hokkaido, holding team towels, chatting, and snacking on stadium food. 5-10s: As a home run is hit, both women leap up, shout with joy, and high-five each other and several nearby fans, capturing authentic excitement and a communal vibe. 10-15s: The two women, still standing, raise their drinks for a cheerful toast, surrounded by other smiling fans in the stadium. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Start with a handheld pan across the stands at Es Con Field Hokkaido, focusing on two Japanese women in their 20s. As the home run happens, use a push-in on the women's excited reactions, capturing their jump and spontaneous high-fives (both between them and with surrounding fans). Then, a smooth handheld close-up as they raise their drinks for a celebratory toast, background filled with cheering crowd. Natural lighting, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-14.mp4"
+}
