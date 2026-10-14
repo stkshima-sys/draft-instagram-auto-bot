@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "category": "女性同士の観戦",
+  "title": "女友達で楽しむ！エスコンフィールド観戦女子会リール",
+  "scene": "エスコンフィールドの客席で20代女性2人が笑顔で乾杯。グルメ片手に推しタオルを持ってはしゃぎ、最後は試合中の応援や自撮りを楽しむ自然な流れ。",
+  "caption": "野球＝男子のイメージ、まだまだあるけど...実は女友達同士で行くプロ野球観戦、ハマる人続出してるんです！今日はエスコンフィールドで観戦女子会してきました🥰席に着いたら乾杯して、球場グルメにテンション上がりつつ、推し活トークも止まらない🎶試合が始まればみんなで応援団気分！一緒にユニフォーム着て、推しの活躍を叫べば知らないうちに距離もぐっと縮まるんだよね。最初は「女子だけで球場、大丈夫かな？」って不安だったけど、行ってみたら楽しさしかなかった！Draftで観戦仲間を見つけて、次の試合も約束しちゃいました⚾️あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#エスコンフィールド",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦コーデ",
+    "#野球観戦",
+    "#女子会",
+    "#北海道グルメ"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, two Japanese women in their 20s at Es Con Field Hokkaido, sitting in stadium seats, laughing and clinking drinks, eating local ballpark food, holding colorful fan towels, taking cheerful selfies, spontaneous and lively atmosphere, no AI artifacts, no text overlays.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s at a modern baseball stadium in Hokkaido. 0-5s: Two friends sit in the stands, smile, and do a casual 'kanpai' cheers with drinks. 5-10s: They enjoy classic ballpark food, take fun selfies together, and show their support with merch (towels, mini flags). 10-15s: Energetically cheering for the team, waving towels, and laughing, fully enjoying the atmosphere. Natural, lively, no text overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, handheld camera with subtle shake, starting with a medium push-in on two Japanese women in their 20s clinking drinks in stadium seats, gentle panning to show food, natural reframing for selfie moments, ending with a dynamic handheld pull-back as they cheer and wave towels at the game. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-15.mp4"
+}
