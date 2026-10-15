@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-16",
+  "category": "球場グルメ紹介",
+  "title": "PayPayドーム神グルメを味わう！リアル観戦女子リール",
+  "scene": "20代女性2人がPayPayドームの客席で、話題の『鷹の祭典カレー』と『ホークス勝つバーガー』を手に盛り上がる。グルメをカメラに見せながらリアクション。大きな一口で食べて満面の笑顔、球場のにぎやかな雰囲気と一体感を伝える。",
+  "caption": "野球観戦で外せないのが、やっぱり球場グルメ🍔✨PayPayドームで人気の『鷹の祭典カレー』と『ホークス勝つバーガー』を女子2人で現地レポ！『どっちもボリューム満点でびっくり』『今日はこのグルメのために早めに来ちゃった』。目の前で野球見ながらがぶっと食べるの、特別感があって最高だよね！ひとり観戦も楽しいけど、グルメのシェアとか美味しい瞬間を誰かと分かち合える仲間がいるともっと楽しくなる…🥺💛野球女子ならではの推し活＆グルメ事情、みんなのイチオシも教えて！『観戦仲間とこんなグルメシェアしたい〜』『今日はこれが楽しみ！』って盛り上がれる瞬間、たまらないんだよなぁ🥰あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#PayPayドーム",
+    "#球場グルメ",
+    "#観戦仲間",
+    "#推し活",
+    "#ホークス女子",
+    "#観戦コーデ",
+    "#野球観戦",
+    "#グルメ旅"
+  ],
+  "prompts": {
+    "kling": "Two Japanese women in their 20s sitting in the stands at PayPay Dome, Fukuoka, holding and showing off signature ballpark foods like 'Hawks win burger' and a curry dish, laughing, talking, taking big bites, with close-up handheld shots of their hands and happy faces, energetic and natural crowd in background, photorealistic, vertical 9:16, 10-15s, authentic smartphone-shot look, no overlays, no AI artifacts.",
+    "veo": "0-5s: Close handheld shot as two Japanese women in their 20s sit side-by-side in PayPay Dome stands, excitedly holding up and presenting fresh 'Hawks win burger' and 'festival curry' to the camera, stadium vibe all around. 5-10s: Natural movement as one woman takes a big bite while the other reacts with a happy cheer, capturing the spontaneous energy of enjoying food at the game. 10-15s: Both laugh, look to each other and the camera, share a playful toast with their food, with background crowd and field subtly visible, maintaining handheld realism, photorealistic, 9:16 vertical, no AI artifacts.",
+    "higgsfield": "Handheld camera, starts close-up on two Japanese women in their 20s in PayPay Dome stands, slow pan as they show their ballpark food to the lens, push-in as one takes a bite and reacts joyfully, then gentle out zoom to capture both sharing a laugh and the lively crowd atmosphere; natural smartphone-style motion, vertical 9:16, photorealistic, no overlays or AI cues."
+  },
+  "videoFile": "videos/2026-10-16.mp4"
+}
