@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-17",
+  "category": "Draft利用シーン",
+  "title": "Draftで観戦仲間と初合流！エスコンで推し活Day",
+  "scene": "1人でドキドキ球場到着、Draft仲間と笑顔で合流＆乾杯！仲良く一緒に外野席へ向かう様子。明るく自然なスマホ目線、球場の臨場感満載。",
+  "caption": "『一緒に観戦してくれる友達ほしい…！』そんな声から生まれたDraft。今日は実際にDraftで知り合った仲間と、エスコンフィールド北海道で初合流！初めはドキドキしたけど、会ったらすぐ意気投合。好きな選手や推しコーデの話で盛り上がったり、美味しいグルメで一緒に乾杯したり。1人だと緊張しがちな球場も、仲間がいれば安心して楽しめるよね⚾️💛1人観戦デビューを迷ってる方や、新しい野球仲間を作りたい方には本当におすすめ。野球好き女子同士の共感トーク、推し活の幅も広がるし、思い出も増える！あなたはどれに共感しましたか？ #野球女子で繋がろう コメント欄で観戦エピソード教えてね！",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#エスコンフィールド北海道",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#野球観戦",
+    "#週末の過ごし方",
+    "#観戦友達募集"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16 video, 10-15 seconds, shot with a natural smartphone handheld look. Scene: A Japanese baseball stadium (Es Con Field Hokkaido). Start: A Japanese woman in her 20s stands near the stadium gate, looking at her phone nervously. Action: She spots two other women, also in their 20s, wearing casual baseball fan outfits, waving and approaching. The three meet, smile, and do a cheerful ‘cheers' with their drinks. They then walk together toward the stands, chatting and laughing. No text overlays, natural lighting, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot style, 10-15s total at a Japanese baseball stadium (Es Con Field Hokkaido). 0-5s: A Japanese woman in her 20s arrives outside the stadium, glancing at her phone and looking a bit nervous. 5-10s: Two other Japanese women in their 20s, in team apparel, greet her with a smile. They all smile and do a quick ‘cheers’ with soft drinks or beer. 10-15s: The three, now friends, walk together through the stadium concourse toward their seats, happy and chatting. No text overlays, natural handheld motion, no AI artifacts.",
+    "higgsfield": "vertical 9:16, photorealistic, natural smartphone handheld camera. Start with a subtle push-in as the main woman stands by the gate, holding her phone; slight pan as she spots her friends; then handheld tracking as the three do a casual ‘cheers’ and walk together, camera following from side or behind, capturing smiles and lively stadium atmosphere. No text overlays, natural sound implied, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-17.mp4"
+}
