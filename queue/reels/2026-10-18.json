@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-18",
+  "category": "球場グルメ紹介",
+  "title": "Tokyo Dome定番グルメ神3🍴リアル現地食レポ",
+  "scene": "1. 東京ドームの観客席で20代女性2人が笑顔でホットドッグを手に乾杯。2. 片方が唐揚げを大きく頬張って「おいしい！」とリアクション。3. ビールを持って嬉しそうにカメラに向かって一言、友達とグルメをシェアしながら観戦を楽しむ瞬間。",
+  "caption": "東京ドームで野球観戦女子の必須ミッションといえば…やっぱり球場グルメ🍔🍟友達と「どれ食べる？」「これシェアしよ！」って相談しながら並ぶのも楽しい時間だよね。今回は観戦女子に人気の定番グルメ3つを現地レポ！ホットドッグを片手に乾杯、揚げたての唐揚げをほおばってニコニコ…席に戻るときはついテンション上がっちゃう💓こういう“推し活グルメ”があるから球場は何回来ても飽きないし、仲間と一緒だとさらに美味しく感じる！「誰かとシェアしたい…」「次は何食べよう？」って思ってるなら、一緒に盛り上がれる観戦仲間をDraftで探すのもありかも😉（登録はプロフィールから！）\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#プロ野球",
+    "#推し活",
+    "#東京ドーム",
+    "#観戦仲間募集中",
+    "#観戦コーデ",
+    "#週末のお楽しみ",
+    "#グルメレポ",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15s photorealistic video shot with a smartphone, showing two Japanese women in their 20s seated in the stands at Tokyo Dome. They smile and toast each other with hot dogs, then one eats a piece of fried chicken with an excited reaction. Natural, handheld camera movement, bright baseball stadium background, casual outfits, real food details, lively atmosphere, lots of candid laughter, no visible AI artifacts or text overlays.",
+    "veo": "0-5s: In the stands at Tokyo Dome, two Japanese women in their 20s hold up hot dogs, smiling and toasting each other; close-up of their hands and faces, lively baseball background. 5-10s: One woman takes a big bite of karaage (fried chicken) and reacts joyfully; her friend laughs and cheers her on. 10-15s: The two hold beer cups, look into the camera, and share a happy moment, surrounded by other fans; everything is photorealistic, shot as if on a smartphone, with soft, natural light.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, handheld camera throughout. Start with a slight push-in as two Japanese women toast with hot dogs in the stadium seats. Subtle pan to follow one woman eating fried chicken, capturing her joyful reaction. Pull back to a wider shot as both laugh, hold beer cups, and look at the camera, with the Tokyo Dome crowd in the background. All movements are natural and spontaneous; no AI artifacts or overlays."
+  },
+  "videoFile": "videos/2026-10-18.mp4"
+}
