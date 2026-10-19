@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-20",
+  "category": "ホームランの盛り上がり",
+  "title": "ホームランの瞬間！女子だけのスタンド応援盛り上がりリアル体験",
+  "scene": "エスコンフィールドのスタンドで、20代の日本人女性2人が熱心に観戦。推し選手のホームランと同時に歓声を上げ、思わず立ち上がってハイタッチ！喜びを共有しながら笑顔でスマホで自撮りする様子。",
+  "caption": "推しの一発でスタンドが一瞬にしてひとつになる、あのホームランの瞬間って何回味わっても最高だよね⚾️🔥周りの女子とも自然にハイタッチしちゃって、気づいたら知らない人とも笑い合ってる不思議な一体感…！ひとり観戦だと「仲間ほしいな」って思うけど、こんな熱い時間をリアルに共有できる Draft は本当に心強い存在。球場グルメ片手に盛り上がるのも野球女子ならではの特権だし、今日も思い出がまたひとつ増えた💙同じ気持ちを分かち合える仲間がいると、応援が何倍も楽しくなるよ！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#エスコンフィールド",
+    "#観戦仲間",
+    "#球場グルメ",
+    "#推し活",
+    "#ハイタッチ",
+    "#観戦コーデ",
+    "#Draftで見つけよう",
+    "#スポーツ観戦"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone-shot look. In a crowded section of ES CON Field Hokkaido during a night game, two Japanese women in their 20s are in the stands; first, they watch a tense moment, then suddenly stand up cheering with excitement as a home run occurs. They enthusiastically high-five, hugging briefly, and one pulls out her phone to snap a joyful selfie together, all with candid smiles and authentic crowd energy around. No text overlays, seamless handheld camera movement, authentic lighting, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone video look. 0-5s: Two Japanese women in their 20s are sitting together in the stands at ES CON Field Hokkaido, watching the game intensely, surrounded by other excited fans. 5-10s: The women suddenly leap to their feet, shouting with joy as a home run is hit, clapping and exchanging a high-five, visibly ecstatic. 10-15s: One woman takes out her phone and they quickly pose for a cheerful selfie, laughing with a backdrop of celebrating fans. No overlays, handheld camera, authentic lighting.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look. Handheld camera starts with a medium shot of two Japanese women in their 20s in the stands at ES CON Field Hokkaido. As the home run is hit, camera follows their movement, panning up as they stand and high-five, then pushes in slightly as they take a selfie together. Natural handheld shake and authentic stadium lighting throughout. No overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-20.mp4"
+}
