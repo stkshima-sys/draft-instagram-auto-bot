@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-21",
+  "category": "球場観戦Vlog風",
+  "title": "明治神宮で過ごす！野球女子の観戦Vlog",
+  "scene": "友達と明治神宮球場に入場し、ワクワクしながら球場限定グルメを購入。座席で乾杯しながら応援グッズを持って盛り上がる1日をリアルなスマホ目線で切り取る。",
+  "caption": "今日は明治神宮球場で、野球好き女子の観戦Vlogをお届け！駅からワクワクしながら球場に向かうと、すでに周りもお祭り気分。入場してすぐ売店で人気グルメ＆ドリンクをゲットして、推し活グッズと一緒にいざ座席へ。乾杯しながら『今日は絶対勝つぞ！』って盛り上がる時間が最高なんだよね。推しタオルやユニ着て応援する姿、SNS用にちょっとだけ写真タイムも欠かせない！ひとり観戦も楽しいけど、やっぱり仲間がいると楽しさ2倍💛野球友達ってなかなか出来ないけど、Draftなら同じ気持ちの仲間と出会えるかも。みんなのお気に入りの観戦ルーティンや球場の思い出もぜひ教えてね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#明治神宮球場",
+    "#プロ野球観戦",
+    "#推し活",
+    "#観戦仲間募集",
+    "#スタジアムVlog",
+    "#女子の推し活",
+    "#Draftで繋がろう"
+  ],
+  "prompts": {
+    "kling": "Photorealistic, vertical 9:16 video, 10-15 seconds, natural handheld smartphone-shot style. Three Japanese women in their 20s walk together into Meiji Jingu Stadium excitedly, laughing and chatting. The camera follows them as they stop at a food stand, buying colorful stadium snacks and drinks, then moves with them to seats in the outfield stands. The friends sit down, raise their drinks for a cheerful group 'kanpai' (cheers), smile, and hold up their team towels and cheering goods. The video ends with the girls enthusiastically waving and clapping as the crowd cheers, capturing the vibrant baseball stadium energy. No text overlays, no AI artifacts.",
+    "veo": "Vertical, 9:16, photorealistic, 10-15s, smartphone-shot, natural handheld. 0-5s: Three Japanese women in their 20s approach and enter Meiji Jingu Stadium, looking excited, camera moves with them through the entrance. 5-10s: The group queues and buys unique stadium snacks and drinks at a lively food stand, laughing and chatting, then heads to their seats. 10-15s: They sit together in the stands, clink their drinks for a 'kanpai,' show off their cheering goods, and cheer joyfully at the game, surrounded by other fans. No text or AI artifacts.",
+    "higgsfield": "Vertical video, 9:16, photorealistic, 10-15 seconds. Handheld smartphone-style camera: Start with a following shot as three Japanese women in their 20s walk into Meiji Jingu Stadium, then casual pan as they buy food at a snack stand, push-in as they get to their seats. The camera holds on their faces as they smile, toast with drinks, and wave team towels while cheering. Handheld, slightly energetic movement to mimic real phone shooting in a busy stadium. No visible text, no AI glitches."
+  },
+  "videoFile": "videos/2026-10-21.mp4"
+}
