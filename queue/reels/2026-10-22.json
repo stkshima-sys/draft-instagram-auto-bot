@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "category": "推し活動画",
+  "title": "明治神宮球場で推し活！ユニ姿で盛り上がるリアル観戦DAY",
+  "scene": "明治神宮球場の観客席で、20代の日本人女性2人がユニフォーム＆タオル姿で笑顔で応援。推し選手のうちわを振りながらスマホで自撮り、時折ハイタッチしたり、売店で選んだ球場グルメを一緒に食べて盛り上がるシーン。",
+  "caption": "今日は推し活女子のリアル観戦レポ✨明治神宮球場で、憧れのユニフォームを着て大好きな選手のタオル＆うちわを手に応援！現地の空気感ってやっぱり最高だよね〜。席で「推し！」って叫ぶ瞬間、周りの女友達と目が合ってニヤッとしちゃうのも、現地観戦ならでは！球場グルメ片手に写真を撮るのも推し活の醍醐味🍦「一緒に盛り上がれる仲間がいてよかった」と毎回思うけど、最初は1人で不安だったから、今の仲間ができて本当に嬉しい！今度はどのグッズ持って行こうかな？あなたはどれに共感しましたか？\n\n観戦仲間を見つけたいなら、プロフィールのDraftもチェックしてみてね！ #野球女子 #推し活 #プロ野球 #観戦仲間 #明治神宮球場 #球場グルメ #推しコーデ #観戦コーデ #女子会 #撮影スポット",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#プロ野球",
+    "#観戦仲間",
+    "#明治神宮球場",
+    "#球場グルメ",
+    "#推しコーデ",
+    "#観戦コーデ",
+    "#女子会",
+    "#撮影スポット"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s wearing baseball uniforms and holding towels and fan fans (uchiwa) sitting in the stands at Meiji Jingu Stadium, Tokyo. They are smiling, cheering, waving towels and fans, taking selfies together, sharing ballpark food like fried chicken and ice cream, and making friendly gestures such as high-fives. No visible text overlays, stadium background with other cheerful fans, soft evening lighting, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, natural hand-held motion, Japanese women in their 20s at Meiji Jingu Stadium. 0-5s: Close-up on two women in baseball uniforms sitting in stadium seats, holding up towels, laughing, and waving uchiwa fans for their favorite player. 5-10s: The women take selfies together, then pan to them enjoying ballpark food like fried chicken or ice cream, capturing genuine reactions. 10-15s: High-five each other, wide shot shows them cheering among other joyful fans, with the stadium atmosphere in the background. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Camera starts with a handheld close-up (slight shake) of two Japanese women in their 20s in uniforms cheering in the stands of Meiji Jingu Stadium, then pans gently as they take selfies, then pushes in on them eating ballpark food and laughing together, finishing with a wider handheld shot showing their surroundings and cheering movements. No overlays, natural stadium lighting, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-22.mp4"
+}
