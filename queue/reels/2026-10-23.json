@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "category": "球場デート",
+  "title": "球場デート気分♡横浜スタジアム観戦あるある3連発",
+  "scene": "横浜スタジアムの外でチケットとグッズ片手に笑顔で写真を撮る女子2人。観客席で乾杯しながらグルメをシェア、推しのタオルで応援する姿。試合の盛り上がりに揃ってリアクション＆ハイタッチ！",
+  "caption": "＼野球観戦仲間とだからこそ楽しい、横浜スタジアムでの観戦あるあるをまとめてみたよ⚾️🍻／\n\n① 球場着いた瞬間、推しグッズで写真大会しがち！友達と「どの角度が盛れる？」って撮りあいタイムは外せない💕\n② 人気の球場グルメはシェアが基本。2人以上なら「それも一口ちょうだい！」でいろいろ食べ比べできるのが嬉しい😋\n③ 応援タイムは全力スタンバイ！推しタオルで「一緒に叫ぶとテンション爆上がり」だよね～！打席のたびに無言で目合ってハイタッチ（笑）\n\n「観戦仲間がいなくて迷ってたけど、やっぱり友達と行くと盛り上がり方が違う！」って実感しがち。Draftなら同じ推しの友達や観戦仲間が見つかるから、次こそは一緒に球場へ行こう！気になる人はプロフィールからチェックしてみてね🌟\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#推し活",
+    "#観戦仲間",
+    "#Draftで観戦仲間",
+    "#野球観戦あるある",
+    "#友達と野球"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, natural smartphone-shot style 9:16 video, 10-15 seconds, of two Japanese women in their 20s at Yokohama Stadium. First, they stand outside the stadium entrance holding tickets and baseball towels, posing for a selfie with bright smiles. Next, sitting together in the stands, they toast with drinks and share stadium food, laughing and talking. The camera catches them waving team towels, cheering, and giving each other a high-five as the game gets exciting. Handheld, slightly shaky motion, energetic, with crowds and stadium atmosphere visible.",
+    "veo": "Vertical 9:16, photorealistic, smartphone style. 0-5s: Two Japanese women in their 20s stand in front of Yokohama Stadium, holding entry tickets and team towels, posing for a fun selfie. 5-10s: Cut to them sitting side by side in the stands, making a toast with drinks and sharing stadium snacks, laughing together. 10-15s: They wave their team towels, cheer enthusiastically, and high-five as the game heats up, with the lively crowd around them. Maintain a natural, handheld camera movement throughout.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone style. Two Japanese women in their 20s at Yokohama Stadium: start with a handheld, slightly shaky pan around as they pose and take selfies at the entrance; push-in as they sit and toast in their stadium seats, casually sharing food; finish with a quick pan and zoom-in on their excited faces as they cheer, wave towels, and high-five in sync with the game’s action. Keep camera motion natural and immersive, as if shot by a friend."
+  },
+  "videoFile": "videos/2026-10-23.mp4"
+}
