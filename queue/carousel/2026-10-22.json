@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-22",
+  "category": "観戦初心者向け",
+  "title": "保存版！観戦初心者さん向け5つのコツ",
+  "slides": [
+    {
+      "heading": "チケットってどう買う？",
+      "body": "公式サイトやアプリで簡単にゲットできるよ✨初心者さんは内野席がオススメ。\n座席位置によって雰囲気も全然違うから、調べてから選ぶと安心！"
+    },
+    {
+      "heading": "座席の選び方は？",
+      "body": "初めてなら「3塁側内野席」や「バックネット裏」が見やすいし安心❤\n外野席は応援が盛り上がるけど初心者にはちょっとハードル高めかも？"
+    },
+    {
+      "heading": "ルールがわからない時は…",
+      "body": "気になるプレーや用語はスマホですぐ検索！\nまずは「三振」「ホームラン」など基本用語を覚えると、もっと楽しめるよ😉"
+    },
+    {
+      "heading": "持ち物リストをチェック！",
+      "body": "日焼け止め、帽子、タオルはマスト🌞飲み物や双眼鏡も便利！\n推しグッズがあるとさらに気分UPしがち♪"
+    },
+    {
+      "heading": "1人だと不安…そんな時は",
+      "body": "最初は友達や観戦仲間を見つけて一緒に行くのがオススメ。\n「Draft」で近くの野球好き女子とつながれるよ！"
+    }
+  ],
+  "caption": "球場デビューしたいけど「まず何から？」って悩むよね。チケットの買い方や座席の選び方、ルールがわからないまま現地に行っちゃってソワソワ…なんて経験、私もありました😂\n\n今回は、初心者さんが安心して観戦に行ける5つのコツをまとめました！座席のタイプや持ち物、ルールの覚え方…知ってるだけで不安がグッと減るし、現地での推し活ももっと楽しくなるよ。\n\n1人だとドキドキするけど、観戦仲間がいれば初めてでも楽しさ倍増！同じ球団推しの友達を探すなら「Draft」もぜひチェックしてみてね。\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#観戦初心者",
+    "#野球仲間",
+    "#球場デビュー",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#ひとり観戦",
+    "#Draftでつながろう"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, young Japanese women enjoying professional baseball at a Japanese stadium, casual summer fashion, friendly atmosphere, stadium crowd in the background",
+  "images": [
+    "media/carousel/2026-10-22/01_cover.jpg",
+    "media/carousel/2026-10-22/02_slide.jpg",
+    "media/carousel/2026-10-22/03_slide.jpg",
+    "media/carousel/2026-10-22/04_slide.jpg",
+    "media/carousel/2026-10-22/05_slide.jpg",
+    "media/carousel/2026-10-22/06_slide.jpg",
+    "media/carousel/2026-10-22/07_cta.jpg"
+  ]
+}
