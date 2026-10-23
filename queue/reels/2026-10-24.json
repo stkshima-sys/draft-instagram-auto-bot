@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "category": "球場グルメ紹介",
+  "title": "PayPayドーム神グルメ3選！友達と盛り上がるリアル観戦レポ",
+  "scene": "PayPayドームの観客席で2人の20代女性が名物グルメを手に笑顔で見せ合う。ひとくち食べてリアクションしながら『美味しい！』と盛り上がる。球場の雰囲気と友達同士の自然な会話、グルメをシェアする様子で締める。",
+  "caption": "PayPayドームといえば、野球だけじゃなくてグルメも本気🍗✨観戦しながら片手で食べられるグルメって、みんなでシェアするのも楽しいよね！わたしは友達と行くと絶対『博多とりかわ』をチェックしがち。あと、球場限定の明太ポテトとか、デザートのふわふわかき氷も外せない！1人で初めて来た時はちょっと緊張したけど、今は仲間ができて一緒に推し活できるのが本当に幸せ😊💕野球観戦って、実は友達づくりにも最高の場所だったりするんだよね。みんなの“推しグルメ”もぜひコメントで教えて！保存して次の観戦の参考にもしてね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#推し活",
+    "#グルメ好きと繋がりたい",
+    "#福岡グルメ",
+    "#観戦仲間募集中",
+    "#ドラフトで観戦友達"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s sitting in the stands at PayPay Dome Fukuoka during a baseball game, wearing casual and stylish stadium outfits. One holds a tray of Hakata torikawa skewers, the other has a cup of mentaiko potato fries; they smile, laugh, show their food to the camera, and take a bite in turn, reacting happily and chatting. Background shows the lively stadium crowd. No text overlays, no AI artifacts.",
+    "veo": "Cut 1 (0-5s): In PayPay Dome's spectator seats, two Japanese women in their 20s excitedly unwrap and present their ballpark gourmet food—one with Hakata torikawa skewers, the other with mentaiko potato fries. Cut 2 (5-10s): Close-up as each woman tastes her food, smiling and sharing lively reactions, chatting and giggling. Cut 3 (10-15s): Wider handheld shot as they offer a bite to each other and cheer with their snacks, with the vibrant stadium crowd in the background. Photorealistic, vertical 9:16, smartphone-shot look, no text overlays.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Two Japanese women in their 20s at PayPay Dome stands, holding and tasting ballpark gourmet food. Start with a handheld pan from the food up to their faces. As they eat, use a gentle push-in and natural sway to capture their reactions. Finish with a handheld wide shot showing both women laughing, sharing, surrounded by the stadium crowd. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-24.mp4"
+}
