@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-25",
+  "category": "観戦仲間との交流",
+  "title": "観戦仲間でシェア！球場ごはん&写真タイム",
+  "scene": "東京ドーム観戦後、20代女性2人がコンコースのテーブルで球場グルメをシェアしながら笑顔で乾杯。お互いの推しグッズやユニフォームでセルフィー大会。最後は「今日も最高だったね！」と盛り上がる様子で締め。",
+  "caption": "野球観戦後って、やっぱり仲間とごはんしながら今日の試合を語り合うのが最高だよね🍻✨東京ドームの球場グルメをシェアして「これ美味しすぎ！」って盛り上がったり、推しグッズを並べて写真撮りっこしたり…いつもの観戦がもっと特別になる瞬間。1人観戦も楽しいけど、やっぱり共感できる友達と「今日の神プレー！」「あの応援盛り上がったね〜」って思い出を共有できるのが幸せすぎる🧡Draftなら、同じ趣味の仲間に出会えるから、もっと観戦が楽しくなるよ！保存して次の観戦の参考にしてね♪あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#東京ドーム",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦コーデ",
+    "#写真撮り合い",
+    "#野球観戦",
+    "#Draftで友達作り"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s wearing baseball jerseys at Tokyo Dome sit at a concourse table, laughing, clinking drinks, and sharing Japanese ballpark food. One takes a selfie with both holding their favorite team goods. The background is lively with fans, creating a fun after-game mood. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. 0-5s: Two Japanese women in their 20s, wearing team jerseys, smile and talk at a concourse table in Tokyo Dome, with trays of ballpark food. 5-10s: They toast with drinks, laugh, and share food, showing their team goods. 10-15s: One holds up her smartphone for a selfie as both pose happily, background full of other fans. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s at Tokyo Dome after a game, sitting at a concourse table. Handheld camera starts with a pan across food, then push-in to the women as they toast and laugh, finally tilting slightly as one holds up her phone for a selfie. Lively stadium background. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-25.mp4"
+}
