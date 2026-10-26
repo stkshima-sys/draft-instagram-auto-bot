@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-27",
+  "category": "球場グルメ紹介",
+  "title": "Es Con Field女子が推す♡絶対食べたい球場グルメ3選",
+  "scene": "友達同士の20代女性がEs Con Field Hokkaidoの観客席で並んで座り、人気球場グルメを笑顔で見せ合う。グルメをカメラに近づけてドアップで見せたあと、「いただきます！」の掛け声で頬張る。美味しさに感激しながら乾杯やハイタッチをして盛り上がる。",
+  "caption": "【神グルメ争奪戦🥤🍔🍜】球場グルメって気になりすぎて、つい毎回迷っちゃうよね😂 Es Con Field Hokkaidoで女子に大人気のアレ、全部制覇したくなる🍟💙 今回は“観戦仲間”とわいわいしながらグルメを堪能してきたよ！（1人観戦もいいけど、やっぱり誰かとシェアしたい…しがち！）目の前で選手応援しながらグルメをぱくり、推し活にも最高すぎた✨『観戦仲間ほしいけど勇気が…』『1人は不安💦』て人はDraftで仲間探してみて！保存も忘れず、あとでグルメ制覇リストにしちゃおう⛱️ あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#エスコンフィールド",
+    "#観戦仲間",
+    "#推し活",
+    "#北海道グルメ",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#わいわい観戦",
+    "#グルメ女子"
+  ],
+  "prompts": {
+    "kling": "A group of 2-3 Japanese women in their 20s are sitting together in the stands of Es Con Field Hokkaido baseball stadium during daytime, smiling and laughing. One woman holds up a colorful ballpark food item (such as a burger, parfait, or noodle bowl) to show it to the camera with a playful close-up, then they all happily eat together, cheer, and do a friendly toast with soft drinks, capturing authentic joy. Natural handheld smartphone camera style, photorealistic lighting, crowd ambience, stadium details visible in the background, no text overlays, no AI visual artifacts.",
+    "veo": "Vertical video, 9:16, 10-15 seconds. 0-5s: Japanese women in their 20s walk with excitement through Es Con Field Hokkaido concourse carrying ballpark food, selfie-style. 5-10s: Sitting together in the stands, they show their food up close to the camera for a detail shot, laughing and chatting naturally. 10-15s: They eat, react with happy expressions, and do a lively toast with drinks, stadium field and crowd visible in the background, all in a natural smartphone-shot look with handheld movement.",
+    "higgsfield": "Natural handheld vertical camera in a Japanese baseball stadium. Start with a slight push-in as three Japanese women in their 20s sit in the stands, showing their ballpark food to the camera. Camera pans to capture each girl's food reaction, then gently dollies in as they clink drinks and share happy, genuine smiles. Realistic crowd and field in background, daytime lighting, photorealistic, no overlays or AI look."
+  },
+  "videoFile": "videos/2026-10-27.mp4"
+}
