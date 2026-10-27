@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28",
+  "category": "推し活動画",
+  "title": "野球女子の推し活あるある！東京ドーム応援リール",
+  "scene": "20代女性2人が東京ドームの観客席でお揃いのユニとタオルで笑顔で応援。うちわを振って盛り上がりながらスマホで自撮り、ホームランに思わずハイタッチ！最後に仲間で乾杯して楽しさをシェア。",
+  "caption": "推しのユニフォームを着て、大きなタオルを掲げて…野球女子の“推し活”って本っ当に楽しいよね！球場で同じ推しを応援できる仲間がいれば、応援のテンションも2倍以上⤴️うちわを作ったり一緒に写真を撮ったり、応援歌を熱唱したり…気づけば思い出がどんどん増えてく。『推し友がいない…』『一人参戦はちょっと不安…』そんな時こそ、思い切ってDraftで仲間探ししてみて！観戦の楽しさも、分かち合う相手がいるだけで変わるから😊球場で盛り上がる推し活の瞬間、あなたも体験してみてね💙保存して、次の観戦前の参考や共感ポイントを見返してね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#推し活",
+    "#東京ドーム",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#観戦仲間",
+    "#Draftで友達作り",
+    "#推し友",
+    "#現地レポ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical video (9:16, 10-15s) shot with a smartphone, showing two Japanese women in their 20s wearing matching baseball uniforms and holding team towels, sitting in the Tokyo Dome stadium stands. They cheer excitedly, wave decorated fans, take fun selfies together, and high-five after a home run. The camera captures emotional, natural handheld shots focusing on their joy and bonding, with the vibrant game atmosphere in the background. End with the friends smiling and clinking drinks in celebration. No text overlays or AI artifacts.",
+    "veo": "Scene 1 (0-5s): Two Japanese women in their 20s, dressed in matching baseball uniforms, sit side by side at the Tokyo Dome stands, energetically cheering and waving team towels. Scene 2 (5-10s): They take quick selfies and wave homemade uchiwa fans, laughing and capturing the moment. Scene 3 (10-15s): After a big play, the women high-five, then turn to the camera, smile, and clink drinks together. Throughout, the camera is handheld with a natural, lively motion, capturing authentic excitement and camaraderie. No overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-style footage set at Tokyo Dome. Camera uses handheld and gentle pan movements to follow two Japanese women in their 20s cheering with team towels and uchiwa fans, taking selfies in the stands, and reacting to a big play with a joyful high-five. End with a slight push-in shot of them clinking drinks with smiles. Natural lighting, no text, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-28.mp4"
+}
