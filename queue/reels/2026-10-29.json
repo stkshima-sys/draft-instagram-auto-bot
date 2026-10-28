@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "category": "球場観戦Vlog風",
+  "title": "PayPayドーム女子観戦Vlog！推し活1日密着",
+  "scene": "友達2人でPayPayドームに到着し、テンション高く入場。売店で人気の球場グルメを選び、ワクワクしながら座席へ。乾杯して笑顔で応援、スマホで写真を撮り合う、リアルな女子目線の1日。",
+  "caption": "推し活するならやっぱり現地が最高！野球好き女子2人でPayPayドーム観戦Vlogしてみたよ⚾️ 入口で「やっと来た〜！」って高まって、売店グルメ選びも迷いまくるのあるある😂。座席で推しグッズ並べて、乾杯して、スマホでパシャパシャ📸。『一緒に来てくれる観戦仲間なかなか見つからない…』そんな時こそ、同じテンションで野球楽しめる友達が最高！1人じゃ不安だった球場体験も、仲間となら全然違う。推しのホームランでハイタッチもできちゃうし、観戦終わりの写真も映えまくり👍。Draftで観戦仲間を見つけて、もっと野球女子ライフ楽しもう！みんなは誰と観戦に行きたい？あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#PayPayドーム",
+    "#観戦仲間",
+    "#女子旅",
+    "#推し活友達",
+    "#球場Vlog"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural and lively smartphone-shot look with handheld camera shake. Two Japanese women in their 20s arriving at a busy Japanese baseball stadium (PayPay Dome), smiling and chatting as they enter, walking through the bustling concourse, selecting colorful stadium food at a food stand, then sitting at their seats, clinking drinks and laughing, cheering with towels and taking cheerful selfies with their phones. Bright, energetic, authentic live-action mood. No overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot natural look, Japanese women in their 20s, PayPay Dome baseball stadium. 0-5s: Two friends walk into the stadium entrance, excitedly chatting, handheld motion, crowds in background. 5-10s: In the food concourse, they pick up popular stadium snacks and drinks, exchanging laughs in a casual way. 10-15s: Seated in the stands, they toast with drinks, cheer for their team, take selfies with push-in closeup on their happy faces. No text overlays, no AI feel.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look. Camera follows handheld as two Japanese women in their 20s approach and enter PayPay Dome, then panning through the lively concourse as they choose food. Push-in as they find seats, do a cheerful kanpai, and wave towels while taking selfies. Emphasize natural, spontaneous moments, realistic lighting, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-29.mp4"
+}
