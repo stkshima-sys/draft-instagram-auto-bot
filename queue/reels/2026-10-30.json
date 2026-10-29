@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-30",
+  "category": "Draft利用シーン",
+  "title": "Draftで初対面の観戦仲間とPayPayドームで合流！リアル女子あるあるリール",
+  "scene": "福岡PayPayドームのコンコースで、20代の女性2人がワクワクした表情でスマホを見ながら待ち合わせ。声をかけ合って笑顔で合流、手を振って挨拶。そのまま一緒に観客席でグルメ片手に乾杯＆応援を楽しむ。",
+  "caption": "「野球観戦行きたいけど、一緒に行ける友達がいない…」そんな悩み、実はめっちゃ多いんです！この前Draftで出会った子とPayPayドームで初めて合流したんだけど、最初はちょっとドキドキ😳でも、ユニ着て会った瞬間すぐに意気投合！推し選手の話で盛り上がるし、名物のもつ鍋うどんやタカガールグルメ食べ歩きも最高だった🍴💕1人観戦だと不安だった球場も、仲間がいるとこんなに楽しいんだって実感しました。推しタオルで乾杯したり、写真撮り合ったり、SNS映えもバッチリ📸！野球観戦の楽しさ、もっと広げたい。Draftで新しい観戦仲間と出会って、推し活の幅を広げてみませんか？保存して友達にもシェアしてね✨あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#PayPayドーム",
+    "#福岡旅行",
+    "#女子旅",
+    "#ドラフトで観戦"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16 video, 10-15 seconds, of two Japanese women in their 20s meeting for the first time at a Japanese baseball stadium (PayPay Dome Fukuoka). First, they check their smartphones and look around excitedly at the concourse, then spot each other, wave, and smile. The scene transitions to the friends in the stadium seats, happily holding iconic stadium food and toasting, then cheering with enthusiasm. Camera movement is natural and handheld, capturing authentic emotions, no text or AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot style. 0-5s: Two Japanese women in their 20s standing in PayPay Dome’s concourse, each holding their smartphones, looking excited and searching for each other. 5-10s: They spot each other, wave, and greet with bright smiles. 10-15s: The women sit side by side in the stadium seats, holding Fukuoka stadium food, toasting, and cheering while enjoying the baseball game. No text overlays, natural handheld motion.",
+    "higgsfield": "Vertical 9:16, photorealistic, handheld style. Start with a slight pan showing two Japanese women in their 20s at PayPay Dome’s concourse, holding smartphones. Subtle handheld push-in as they make eye contact, wave, and smile. Quick cut to seated close-up, slight pan as they clink food or drinks, cheer, and laugh together. Focus on natural lighting, lively expressions, no artificial effects or overlays."
+  },
+  "videoFile": "videos/2026-10-30.mp4"
+}
