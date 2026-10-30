@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-31",
+  "category": "推し活動画",
+  "title": "推し活女子の野球観戦リアル体験リール（ES CON FIELD編）",
+  "scene": "観客席でユニフォーム姿の女の子たちが推し選手のタオルやうちわを掲げて笑顔で応援。おしゃべりしながら球場グルメをシェアして乾杯。最後は3人で「一緒に観戦できて良かった！」とハイタッチ＆大満足の表情。",
+  "caption": "1人だとちょっと勇気がいる野球観戦も、仲間がいれば楽しさ倍増！ES CON FIELD HOKKAIDOで、推し選手のユニやタオルで全力応援して、みんなでグルメもシェア。推しのホームランで自然にハイタッチしちゃう瞬間とか、些細なことで盛り上がれるのが仲間観戦の醍醐味だよね⚾✨「一緒に応援してくれる友達がほしい…」って思ってたけど、同じ熱量で盛り上がれる仲間と出会えると、球場の思い出が特別なものに変わる。推し活仲間と観戦、まだ体験したことない人はぜひ一歩踏み出してみて！あなたはどれに共感しましたか？\n\n保存して後から見返してね💡フォローで最新の推し活情報もチェックして、Draftで観戦仲間も探してみよう！",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#EsConField",
+    "#観戦仲間募集中",
+    "#推し活女子",
+    "#北海道ボールパーク",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "Photorealistic vertical 9:16 video, 10-15 seconds. Three Japanese women in their 20s, wearing their favorite baseball jerseys, sitting together in stadium seats at ES CON FIELD Hokkaido. They enthusiastically wave towels and uchiwas, cheer with bright smiles, and share stadium food like fried potatoes and drinks, clinking cans in a carefree way. The camera is handheld, moving naturally, capturing their laughter and an energetic high-five at the end. No text overlays or visible AI artifacts.",
+    "veo": "0-5s: Three Japanese women in their 20s in stylish baseball jerseys, raising towels and uchiwa fans while sitting in ES CON FIELD Hokkaido’s stands, smiling and chatting. 5-10s: The women sharing stadium food, clinking canned drinks, laughing together, and reacting happily to an exciting play. 10-15s: The friends exchange a cheerful high-five, looking satisfied and excited. All shots are vertical 9:16, photorealistic, handheld, and have a natural, smartphone-shot feeling. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s. Handheld camera with gentle sway, capturing three Japanese women in their 20s at ES CON FIELD Hokkaido, wearing team jerseys, naturally cheering and waving towels. Camera slightly pans to follow their movements as they clink drinks and share food, then does a subtle push-in as they laugh and high-five at the end. Photorealistic, natural lighting, no overlays, no AI look."
+  },
+  "videoFile": "videos/2026-10-31.mp4"
+}
