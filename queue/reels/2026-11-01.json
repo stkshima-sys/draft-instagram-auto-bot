@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-01",
+  "category": "球場観戦Vlog風",
+  "title": "球場観戦Vlog風リール：Es Con Field Hokkaidoで1日満喫！",
+  "scene": "友達と一緒にEs Con Field Hokkaidoに到着しワクワク入場。人気の球場グルメを手に売店からコンコースを笑顔で歩く。座席で乾杯、応援で盛り上がる1日をスマホでリアルに撮影した風景。",
+  "caption": "野球観戦って、やっぱり友達とワイワイ盛り上がるのが最高だよね！今日はEs Con Field Hokkaidoで、朝から入場→グルメ探し→乾杯→応援まで、1日をぜーんぶ楽しんできたよ⚾️✨売店で迷いすぎて「どれ食べる？」って相談したり、推しタオル片手にハイテンションで写真撮ったり…。野球観戦は初めてって子でも、球場グルメやおしゃコーデで思いっきり楽しめるし、応援中もみんなで盛り上がれるから心配ないよ！「観戦仲間がほしい…」って迷ってる人も、一歩踏み出せば絶対楽しい世界が広がるから、自分らしく楽しんでみてね。保存して、次の観戦の参考にしてみて！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#仲間と観戦",
+    "#エスコンフィールド",
+    "#野球観戦Vlog",
+    "#観戦仲間募集中",
+    "#北海道旅行"
+  ],
+  "prompts": {
+    "kling": "A vertical, 9:16, 10-15 second photorealistic video, shot with natural handheld smartphone motion, featuring two to three Japanese women in their 20s at Es Con Field Hokkaido. The video begins with the women smiling and entering the stadium, transitions to them browsing and choosing food at a lively concession stand, then captures them walking through the bright, bustling concourse with snacks in hand. Cut to them laughing, making a kanpai (cheers) gesture with drinks at their seats with the baseball field visible in the background, and finally enthusiastically cheering for their team together. No text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, 10-15s, smartphone-shot look, Japanese women in their 20s at a Japanese baseball stadium. 0-5s: Entry gate scene—two friends smile and show excitement as they walk into Es Con Field Hokkaido; crowd atmosphere, banners, and ticket checks. 5-10s: At bustling concession—close-up of food displays, women choosing and laughing, taking food and drinks, walking through the well-lit concourse. 10-15s: In stadium seating—group makes a kanpai (cheers) with drinks and snacks, then erupts into energetic cheering with baseball field and crowd visible behind. No text overlays, no AI artifacts.",
+    "higgsfield": "photorealistic, vertical 9:16, 10-15s, natural handheld smartphone cam, starts with a gentle pan as Japanese women in their 20s enter Es Con Field Hokkaido. Slow walking motion through the concourse, then a push-in shot as the group does a cheers gesture at their seats with the field in the background. Ends with expressive handheld shots of them cheering and reacting to the game with lively, authentic movement. No text overlays, no AI look."
+  },
+  "videoFile": "videos/2026-11-01.mp4"
+}
