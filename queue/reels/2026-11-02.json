@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "category": "ホームランの盛り上がり",
+  "title": "ホームラン瞬間の熱狂を現地体験！女子目線リール",
+  "scene": "横浜スタジアムのスタンドで、3人の20代女性が応援うちわやタオルを持って盛り上がる。推し選手のホームランが飛び出し、歓声とともに立ち上がってハイタッチ！自然なスマホ撮影風で、笑顔＆リアルな臨場感を演出。",
+  "caption": "ホームランの瞬間って、なんであんなに叫んじゃうんだろう…！気づいたら隣の友達と「やばい！やったー！」ってハイタッチしがち😂推しの応援うちわを振って、ちょっと涙目になるのもリアルあるある。1人で観戦も楽しいけど、やっぱりこの一体感は仲間と一緒じゃないと味わえない！推し活トークにグルメに応援…全部シェアできる観戦仲間、もっと増やしたいなって思う瞬間です⚾💙もし「一緒に盛り上がる友達いないかも…」って悩んでたら、Draftで仲間探ししてみてね！現地の空気、友達と味わった思い出は一生モノ✌️あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#推し活",
+    "#現地レポ",
+    "#観戦仲間",
+    "#ホームラン",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, looks like a smartphone video. Three Japanese women in their 20s are sitting in the stands at Yokohama Stadium, holding fans and towels, watching a baseball game. Suddenly, a home run is hit—the crowd erupts. The women stand up, cheer loudly, wave their towels, and enthusiastically high-five each other, huge smiles. Camera follows their reactions in natural handheld motion, capturing their excitement and energy, with the vibrant stadium background. No text overlays, no AI artifacts.",
+    "veo": "Vertical aspect ratio 9:16, photorealistic, smartphone-shot look, natural handheld movement. 0-5s: Three Japanese women in their 20s chat and cheer in the stands at Yokohama Stadium, holding team towels and snacks, glancing at the field expectantly. 5-10s: The home run moment—crowd suddenly erupts, women leap up, scream in joy, wave their towels and high-five each other energetically. 10-15s: Close-up on their smiling, excited faces, still cheering, with the bustling stadium and waving fans in the background. No overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-captured look. Handheld camera starts with a medium shot of three Japanese women in their 20s in Yokohama Stadium stands, gently panning to follow their reactions as a home run is hit. Push-in for a close-up as they stand, cheer, and high-five, capturing raw excitement and emotion. Camera moves naturally among the group, with a slight shake for realism. No text overlays, no AI feeling."
+  },
+  "videoFile": "videos/2026-11-02.mp4"
+}
