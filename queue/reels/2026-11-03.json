@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-03",
+  "category": "推し活動画",
+  "title": "ユニ姿で全力推し活！野球女子の観戦あるある@エスコンフィールド",
+  "scene": "観客席で20代女性2人が日ハムのユニフォーム姿でタオルを掲げて推し選手を応援。うちわやグッズを持ってスマホで自撮りしながら盛り上がる。最後はコンコースで球場グルメを片手に乾杯し笑顔。",
+  "caption": "エスコンフィールドで推し活全開！ユニフォーム着てタオル掲げて、うちわ振って推し選手を全力応援📣✨この瞬間って本当に最高だよね♡友達とグッズ交換したり、推し選手の打席で全員でジャンプしたり…みんなの一体感がたまらない！観戦仲間がいると、SNS映えな写真や動画も撮れるし、帰り道まで笑いが止まらない😂でも「野球観戦行きたいけど、誰と行こう…？」って思ったことない？そんな時は、同じ野球女子とつながれるDraftが本当に心強いよ🧢💕次はどの試合で推し活しようか、一緒に語ろう！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#日ハムファン",
+    "#エスコンフィールド北海道",
+    "#観戦仲間募集中",
+    "#野球好きな人と繋がりたい",
+    "#ドラフト観戦仲間"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s wearing Hokkaido Nippon-Ham Fighters uniforms, sitting in Es Con Field Hokkaido spectator seats, smiling and waving towels and cheering for their favorite player. One holds a fan with a player's name, they take selfies together, then cut to them standing in the stadium concourse, holding stadium food and toasting cups, laughing. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, Japanese women in their 20s. 0-5s: Two women in Nippon-Ham Fighters uniforms seated in the stadium, raising towels and chanting. 5-10s: They use a smartphone to take cheerful selfies, showing off fans and small cheering goods. 10-15s: Both women at a lively concourse, holding stadium food, clinking cups, enjoying and smiling. Natural handheld camera, no text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Start with handheld pan across two Japanese women in 20s wearing baseball uniforms in stadium seats, cheering and waving towels, then a push-in as they take a selfie smiling, and end with a tracking handheld shot as they walk to the concourse, holding food and toasting drinks, laughing. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-03.mp4"
+}
