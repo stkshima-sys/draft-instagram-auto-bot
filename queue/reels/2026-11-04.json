@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-04",
+  "category": "観戦仲間との交流",
+  "title": "観戦仲間と東京ドームでワイワイ女子会リール",
+  "scene": "東京ドームの観客席で20代女性2人が笑顔で乾杯。試合後、球場内の売店でグルメをシェアしながら自撮り。最後は仲間同士でお互いの写真を撮り合う姿。",
+  "caption": "野球観戦、行きたいけど「誰か一緒に行く友達いない…」って思ったことない？今日はDraftで出会った観戦仲間と東京ドームで女子会してきたよ⚾️💓最初はちょっと緊張するけど、球場グルメ片手に乾杯したら一気に打ち解ける！推し選手の話も盛り上がって、夢中で語っちゃう🤣📸観戦の後はみんなで写真撮り合いして、グルメのお店もシェアし合い！ただの野球観戦じゃなくて、女子ならではの楽しみ方がいっぱいなんだよね。1人で行こうか迷ってるなら、仲間作りから始めてみるのもアリかも！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#東京ドーム",
+    "#推し活",
+    "#野球観戦",
+    "#カメラ女子",
+    "#女子会",
+    "#観戦仲間募集中"
+  ],
+  "prompts": {
+    "kling": "Two Japanese women in their 20s, casual baseball fan fashion, laugh and clink drinks in Tokyo Dome spectator seats, then walk to a food stall sharing stadium snacks, finishing with cheerful photo-taking of each other with their smartphones. Vertical 9:16, photorealistic, handheld smartphone shot, natural stadium background, vibrant atmosphere, no overlays, no AI artifacts.",
+    "veo": "0-5s: Two Japanese women in their 20s sitting in Tokyo Dome stands, smiling and making a toast with drinks. 5-10s: The same friends at a stadium food stall, one holds takoyaki while the other snaps a candid photo, both in lively conversation. 10-15s: Outside the stands, they take turns photographing each other with their phones, laughing, surrounded by other fans enjoying the stadium exit. Vertical 9:16, photorealistic, smartphone-handheld look, no text overlays.",
+    "higgsfield": "Handheld vertical camera follows two Japanese women in their 20s at Tokyo Dome: starts with a gentle push-in during their drink toast, pans as they walk together to a food stall, and finishes with a playful handheld spin as they take photos of each other. Natural color, lively atmosphere, authentic stadium background, no overlays."
+  },
+  "videoFile": "videos/2026-11-04.mp4"
+}
