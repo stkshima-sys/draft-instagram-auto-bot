@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "category": "推し活動画",
+  "title": "推し活女子のYokohamaスタ応援DAY！",
+  "scene": "横浜スタジアムの観客席で、20代女性2人がユニフォームとタオルを掲げて盛り上がる。間近で球場グルメを分け合いながら笑顔で乾杯。うちわを振って推し選手コール、楽しさが溢れる臨場感たっぷりの推し活シーン。",
+  "caption": "📣推し活って、やっぱり仲間がいると100倍楽しいよね！今日は友達とYokohamaスタジアムで推しユニ着て全力応援🧢💕推しの名前入りタオルを掲げて、みんなで『ここで打って！』って叫んだり、かわいうちわを振って盛り上がったり✨球場グルメで乾杯する瞬間も最高…！周りも女子グループ多くて、気軽に写真撮り合って仲良くなれるのも球場ならでは🥰一緒に行く友達がいない…って悩んでたけど、こんなに盛り上がれるならもっと早くDraftで観戦仲間つくればよかったなって思った！今度はみんなで違う球場も行きたいな～⚾️\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#横浜スタジアム",
+    "#観戦仲間",
+    "#みんなで応援",
+    "#女子会",
+    "#推しグッズ"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s wearing baseball team uniforms and holding towels, sitting in the stands at Yokohama Stadium. They smile, wave towels, and raise their hands while cheering. They share stadium food, clink drinks together, and take selfies. In the background, other spectators enjoy the game, blending into a lively but authentic atmosphere. No overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone style. \n0-5s: Two Japanese women in their 20s, smiling in baseball uniforms, raise team towels and cheer in the stands at Yokohama Stadium, handheld camera, close-up on their faces and towels.\n5-10s: The friends share stadium food and drinks, making a toast and laughing, camera sweeps from their hands to their smiling faces, capturing the fun moment.\n10-15s: Both wave cute uchiwa fans and chant player cheers, taking a selfie together with the lively stadium and crowd in the background. Natural handheld motion throughout, no overlays, no artificial look.",
+    "higgsfield": "Vertical 9:16, photorealistic. Start with handheld camera, minor shake as if filmed by a friend. Slow pan left across two Japanese women in their 20s in baseball uniforms cheering and holding up towels. Push-in as they share stadium food and do a friendly toast. Slight tilt up as they wave uchiwa fans and chant, then pull back as they take a selfie with the stadium crowd behind them. Natural light, lively but unfiltered look, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-05.mp4"
+}
