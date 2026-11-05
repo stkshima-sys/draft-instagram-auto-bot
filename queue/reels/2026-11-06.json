@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-06",
+  "category": "女性同士の観戦",
+  "title": "福岡ドーム女子観戦Day！友達と楽しむリアルな推し活",
+  "scene": "PayPayドームの客席で20代女子3人が笑顔で乾杯＆観戦開始。コンコースで球場グルメ（からあげ&ドリンク）を手にワイワイ盛り上がる。試合中、スマホで自撮りや推しタオルを掲げて応援する自然な様子を映す。",
+  "caption": "「一緒に野球観戦できる女友達ってなかなか見つからないよね…🧢でも、仲良し女子同士で行くと、グルメも写真も全力で楽しめちゃう！今日は福岡PayPayドームで観戦day♡推し選手語ったり、名物グルメ片手に乾杯したり…試合の合間は写真大会で盛り上がったりしがち（笑）野球わからなくても『盛り上がれればOK』な空気が最高すぎる🙌1人じゃちょっと不安…って子も、仲間がいれば初めての球場も絶対楽しい！そんな仲間が見つかるDraftも便利だよ（こっそり）😉\n\nみんなは誰と野球観戦したい？あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#女子会",
+    "#福岡ドーム",
+    "#観戦仲間募集中",
+    "#Draftで観戦仲間",
+    "#ベースボール女子"
+  ],
+  "prompts": {
+    "kling": "A group of three Japanese women in their 20s, cheerful and smiling, filmed from a handheld smartphone camera in PayPay Dome Fukuoka. First, they sit together in the stadium seats, clinking cold drinks, lively and natural. Next, they walk along the bustling concourse, laughing and showing their food (karaage, drinks). In the final moments, the friends hold up team towels, take selfies, and cheer, with the background full of authentic baseball fans. Daytime setting, photorealistic, no text overlays.",
+    "veo": "vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, Japanese women in their 20s at PayPay Dome Fukuoka, natural handheld look. 0-5s: Friends sitting in stadium seats, laughing and toasting with drinks, camera close and capturing candid reactions. 5-10s: Walking together through the concourse, holding fried chicken and drinks, chatting and sharing food. 10-15s: Cheering in the stands, waving team towels, taking selfie videos, excitement and joy clearly visible. No overlays, no visible AI artifacts.",
+    "higgsfield": "vertical 9:16, photorealistic, three Japanese women in their 20s at a baseball stadium. Camera: handheld, starts with a slow pan across their smiling faces as they toast with drinks in the seats; brief push-in as they share food in the concourse; then a gentle handheld pullback while they wave towels and take group selfies in the stands. Natural stadium background, lively crowd, no text or AI elements."
+  },
+  "videoFile": "videos/2026-11-06.mp4"
+}
