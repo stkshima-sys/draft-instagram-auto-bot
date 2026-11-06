@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "category": "推し活動画",
+  "title": "PayPayドームで推し活！ユニ姿女子のリアル観戦DAY",
+  "scene": "推し球団ユニフォームを着た2人組がPayPayドームの観客席でタオルを掲げて笑顔で応援。試合の盛り上がりに合わせてうちわを振りながらジャンプ。コンコースで人気の球場グルメを手に乾杯するシーンで締める。",
+  "caption": "野球女子の推し活、やっぱ最高！今日は友達とPayPayドームで全力応援DAY⚾️✨ ユニフォームでばっちり決めて、推しの応援タオル掲げて…この一体感、毎回テンション爆上がりしちゃうよね🎶 周りの知らない野球女子とも自然と目が合って「仲間だ…！」って感じる瞬間も好き！ しかも、球場グルメはつまみ食いしがち（笑）推し友と語り合いながら食べるの最高だし、写真も盛れる🍟📱“野球好きな友達欲しい…”って思ったことある人、意外と多いからDraftで一緒に盛り上がれる仲間も探してみてね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#PayPayドーム",
+    "#応援メンバー募集",
+    "#観戦仲間",
+    "#女子の推し活",
+    "#ドラフト友達"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15 seconds, photorealistic, natural handheld smartphone camera look, two Japanese women in their 20s wearing baseball team uniforms at a lively Japanese baseball stadium (PayPay Dome), sitting close together in the stands, smiling and waving team towels above their heads, then energetically shaking fans and jumping in place, then walking along the stadium concourse holding stadium food and making a toast with drinks, casual fun friend mood, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot Japanese baseball stadium at PayPay Dome, Cut 1 (0-5s): Two Japanese women in their 20s wearing vibrant team uniforms sitting in the stands, laughing and energetically waving team towels over their heads; Cut 2 (5-10s): The women stand up, jump in place, and vigorously shake fans (uchiwa), showing their excitement together; Cut 3 (10-15s): In the stadium concourse, both women hold up stadium food (like karaage/fried potatoes) and make a cheerful toast with drinks, with the lively crowd in the background, no text overlays or AI artifacts.",
+    "higgsfield": "vertical 9:16, photorealistic, natural smartphone handheld camera style, opening with a slight handheld push-in on two Japanese women wearing baseball team uniforms in the stadium stands as they raise towels and smile, then a loose handheld pan as they jump and wave fans together, ending with a casual handheld tracking shot following them to the concourse where they hold up food and drinks for a toast, lively and fun atmosphere, no text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-07.mp4"
+}
