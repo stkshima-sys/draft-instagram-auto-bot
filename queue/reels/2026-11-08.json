@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "category": "球場グルメ紹介",
+  "title": "球場グルメ神3選🍴Es Con Field女子目線レポ",
+  "scene": "北海道のEs Con Fieldで、20代女子2人が観客席で名物グルメを手に持ち撮影し合う。グルメをアップで見せたり、一口食べてリアクションしながら笑顔で乾杯。最後は『一緒に観戦する仲間ほしいね』とアイコンタクトし友達感たっぷりに映る。",
+  "caption": "プロ野球観戦に行ったら絶対外せないのが“球場グルメ”！今日はEs Con Field Hokkaidoで、女子2人でグルメを手にわちゃわちゃしてきたよ🍟🧋やっぱり、北海道ならではのジンギスカン丼は外せないし、球場限定スイーツもテンションあがる！写真撮ったり、友達と食べ比べたり、同じものに盛り上がれる瞬間って最高…🥰\n\n一人で行くのはちょっと寂しいけど、推し活仲間がいたら何倍も楽しくなるよね。「野球好きな友達いない…」って思ってる人も大丈夫！Draftで観戦仲間、見つけて一緒に盛り上がろう💙観戦グルメ、みんなは何がマスト？\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#球場グルメ",
+    "#野球女子",
+    "#EsConField",
+    "#プロ野球",
+    "#観戦仲間募集",
+    "#北海道旅行",
+    "#推し活女子",
+    "#観戦コーデ",
+    "#女子旅",
+    "#観戦初心者"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s at Es Con Field Hokkaido, in casual but stylish baseball game outfits, sitting in the stands. They hold up local stadium food (like jingisukan bowl and specialty sweets), laughing, recording each other on mobile phones, taking photos, and having fun. The camera moves between close-ups of the food, their smiling faces while taking a bite, and the wide stadium background. No text overlays or AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot, natural handheld style at a Japanese baseball stadium. 0-5s: Two Japanese women in their 20s sitting together in the stands at Es Con Field, laughing and showing their stadium food to the camera. 5-10s: Close-up shots of them taking a bite of food, making happy faces, and tapping their drinks together in a gentle cheers. 10-15s: Pull back to show them smiling together, looking at each other like good friends, the stadium atmosphere in the background. No text overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look. Japanese women in their 20s at Es Con Field Hokkaido, sitting in the stadium stands, casual and cheerful. Camera starts with handheld medium shot, panning between the women as they hold up local stadium food and laugh. Push-in for a close-up of the food, then back to both women clinking drinks and taking bites. Ends with a handheld pan out showing their smiles and the lively stadium. No overlays, no AI look."
+  },
+  "videoFile": "videos/2026-11-08.mp4"
+}
