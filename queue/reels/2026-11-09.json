@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "category": "ホームランの盛り上がり",
+  "title": "神宮のホームラン、女子の本音リアクション",
+  "scene": "神宮球場スタンドで、20代女性2人が推し選手のホームランを目撃。大歓声の中、思わず手を取り合いジャンプしてハイタッチ。周囲のファンや友達とも自然に笑顔で盛り上がる。",
+  "caption": "神宮球場でホームランが飛び出す瞬間、つい友達と目を合わせて『ヤバい！』って叫んじゃうのは野球女子あるあるだよね⚾️💙一人じゃちょっと勇気が出ない応援も、仲間がいると楽しさが何倍にもなる！みんなでハイタッチしたり、知らない人とも一体感を感じられるのが現地観戦の最高ポイント🙌夜空に響く歓声も、推しの活躍でテンション最高潮な自分も、ぜんぶ思い出に残るよ。『一緒に盛り上がる友達がいたらな…』って思ったことある人、意外と多いはず！Draftなら野球好き女子の仲間が見つかるから、今度は一緒にハイタッチしよ✨あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#神宮球場",
+    "#観戦仲間",
+    "#推し活",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一体感",
+    "#Draftで仲間探し",
+    "#ホームラン"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds. Photorealistic, natural smartphone-shot look. In Meiji Jingu Stadium’s outfield stands during a night game, two Japanese women in their 20s (casual, stylish outfits) react to a dramatic home run: they jump up from their seats, scream with joy, make eye contact, and give each other big high-fives. The camera captures them with handheld, slightly shaky movement, panning to show the surrounding cheering fans waving towels and clapping, then quickly returns to their joyful expressions. No text overlays. No noticeable AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 seconds total. Scene 0-5s: Two Japanese women in their 20s sitting in the outfield stands at Meiji Jingu Stadium, watching a baseball game, chatting, holding drinks and snacks. Scene 5-10s: They suddenly witness a home run—the women jump up, faces light up with surprise and joy, they scream excitedly and high-five each other. Scene 10-15s: The camera pans around to show fans nearby also celebrating, then returns to close-up shots of the friends laughing, hugging, and soaking up the stadium’s energetic atmosphere. No overlays, natural lighting, clear expressions, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, handheld camera motion with slight shake. Start with a hand-held push-in toward two Japanese women in their 20s reacting to a home run in the outfield stands at Meiji Jingu Stadium. The camera pans quickly between the women’s faces as they jump up and high-five. Brief whip-pan to show excited crowd around them, then push-in again for a tight close-up of both friends smiling and catching their breath. Natural stadium lighting and ambience, no overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-11-09.mp4"
+}
