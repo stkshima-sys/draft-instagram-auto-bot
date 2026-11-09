@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-10",
+  "category": "推し活動画",
+  "title": "推し活女子のリアル応援DAY in Es Con Field",
+  "scene": "球場の観客席で20代女性2人がユニフォーム姿で自撮りしながら笑顔で推しタオルを掲げる。売店前でうちわを持ってポーズ。最後は乾杯しながら「一緒に観戦したい仲間ほしい〜！」と盛り上がる。",
+  "caption": "野球観戦って、やっぱり推しのユニフォーム着て応援するとテンション上がるよね⚾️💕今日はEs Con Field Hokkaidoで推し活女子たちのリアルな1日を撮ってきたよ！みんなでタオル掲げて、うちわ振って、売店グルメも欠かせない🍟✨「一緒に応援できる友達ほしいな」「推し活仲間ができたら、もっと楽しそう！」って思ってる人も多いはず。1人参戦でも、推しのためなら全力で楽しむのが女子の本音！笑　でも実は、観戦仲間がいると楽しさが何倍にもなるって知ってた？Draftなら、野球好き女子同士でつながれるから、推し活ももっと盛り上がるよ。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#北海道ボールパーク",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#観戦仲間募集",
+    "#友達作り",
+    "#ファイターズ女子",
+    "#ドラフト"
+  ],
+  "prompts": {
+    "kling": "Two Japanese women in their 20s wearing Hokkaido Fighters uniforms, sitting in the stands at Es Con Field Hokkaido, smiling and holding a towel with their favorite player's name for a selfie. Then, at a stadium food stand, they hold up decorative fans (uchiwa) with playful poses. End with the friends toasting with drinks, lively and laughing, as if wishing for new companions to watch baseball together. Photorealistic, handheld smartphone camera feel, vertical 9:16, natural lighting, ambient crowd in background, 10-15 seconds in total.",
+    "veo": "0-5s: Japanese women in their 20s in Fighters uniforms at their stadium seat, holding up a fan towel and taking a cheerful selfie, natural smiles. 5-10s: Same friends at an Es Con Field food stand, enthusiastically posing with uchiwa fans and showing a snack, lively atmosphere. 10-15s: Back at the seats, the women clink plastic cups for a toast, laugh, and gesture as if saying 'Let's find more baseball friends!' Vertical 9:16, photorealistic, smartphone-shot style, no overlays.",
+    "higgsfield": "Handheld vertical 9:16 camera, smooth pan from towel-holding selfie at the stands to a brief push-in at the food stall as friends pose with uchiwa, then pull back to capture them toasting and laughing in their seats. Keep all movements natural and spontaneous, mimicking a friend filming on their phone. No visible AI artifacts."
+  },
+  "videoFile": "videos/2026-11-10.mp4"
+}
