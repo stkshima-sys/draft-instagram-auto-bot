@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-11",
+  "category": "球場観戦Vlog風",
+  "title": "横浜スタジアムで観戦1日Vlog｜野球女子の推し活Day",
+  "scene": "横浜スタジアムのゲート前で友達とワクワク入場→売店で人気グルメを笑顔で選ぶ→席に着いて乾杯＆ハイタッチ、そのまま応援しながら盛り上がる。臨場感あるスマホ手撮り風映像で、リアルな野球女子の日常を切り取る。",
+  "caption": "今日は横浜スタジアムで、野球好き女子同士の観戦Vlogをお届け！🎥✨\n\n推し球団のユニ着て、ゲート前でテンション上がって、売店で球場限定グルメを友達と選びながら「あれもこれも食べたい！」って盛り上がるの、超楽しいよね🍟🍺\n\n座席に歩きながら景色をシェアして、いざ乾杯！試合中は声出して応援しちゃうし、推しが活躍した瞬間は思わずハイタッチしがち。やっぱり現地の空気って特別だし、同じ熱量で盛り上がれる仲間がいると何倍も楽しい！\n\nDraftなら、野球が好きな観戦仲間もすぐ見つかるから「1人じゃ不安…」って人にもおすすめ。\n\nあなたはどれに共感しましたか？コメントで教えてね！",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#球場グルメ",
+    "#推し活",
+    "#横浜スタジアム",
+    "#観戦コーデ",
+    "#友達募集",
+    "#スポーツ観戦",
+    "#仲間と観戦"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 9:16 vertical video, 10-15 seconds, natural handheld smartphone style. Start with two Japanese women in their 20s entering the Yokohama Stadium excitedly, laughing. Transition to them at a lively stadium food stall, deciding and choosing popular stadium snacks and drinks. Quickly cut to the women sitting at their seats, raising drinks and cheering, then high-fiving and enjoying the game, surrounded by other happy fans. No text overlays, no AI artifacts, realistic lighting, vibrant colors, energetic and friendly atmosphere.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, 10-15s. 0-5s: Two Japanese women in their 20s walk through the entrance of Yokohama Stadium, smiling and chatting excitedly, with other fans visible in the background. 5-10s: At a busy food stall, the friends enthusiastically point at snacks and drinks, order, and laugh together, capturing the vibrant fan energy. 10-15s: In the stands, they clink drinks and cheer for their team, making a quick high-five, the stadium crowd and field in the background; natural, unstaged, happy moments. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot video, 10-15 seconds. Start with a handheld, slightly shaky walk-in shot as two Japanese women in their 20s enter Yokohama Stadium. Pan handheld across a busy food stall as they choose snacks. Push-in handheld toward the friends as they sit at their seats, do a quick cheers with drinks, then pan to their faces as they smile, high-five, and cheer for their team. No text overlays, no AI artifacts, vibrant and friendly atmosphere."
+  },
+  "videoFile": "videos/2026-11-11.mp4"
+}
