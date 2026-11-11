@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-12",
+  "category": "Draft利用シーン",
+  "title": "Draftで出会った観戦仲間と東京ドーム合流リール",
+  "scene": "東京ドームの前で、20代女性2人が「やっと会えたね！」とハグして笑顔。観客席で球場グルメを持って乾杯＆自撮り。最後は応援グッズを見せ合いながら盛り上がる。",
+  "caption": "「野球観戦一緒に行く友達がいない…」そんな悩み、わたしもずっとあった！でもDraftで観戦仲間を見つけて、ついに東京ドームで初合流できたよ⚾️✨待ち合わせはちょっとドキドキしたけど、推しの話で秒で意気投合☺️球場グルメ食べて、応援して、写真もいっぱい撮って…やっぱり仲間がいると楽しさ倍増だった！推し活したいけど最初の一歩が不安な野球女子、絶対一回試してほしい！あなたの「一緒に盛り上がれる友達ほしい」って気持ち、Draftで叶うかも。友達できると推しがますます好きになるって本当なんだよね💙 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活女子",
+    "#東京ドーム",
+    "#観戦仲間",
+    "#Draft体験談",
+    "#野球観戦",
+    "#休日の過ごし方"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, shot on smartphone, natural handheld motion. Opening: two Japanese women in their 20s meet in front of Tokyo Dome, smiling, hugging lightly and greeting. Cut to: both holding stadium food and drinks, clinking and laughing in their seats with Tokyo Dome's field visible behind them. Final: the friends show off their team cheering goods and pose for selfies, full of excitement and energy. Stadium crowds in the background, no AI artifacts, no text overlays.",
+    "veo": "Vertical 9:16, photorealistic, natural smartphone look. 0-5s: Two Japanese women in their 20s meet in front of Tokyo Dome, greet with happy smiles, and do a friendly hug. 5-10s: Cut to them sitting together in the stadium seats, holding ballpark food and drinks, toasting and taking cheerful selfies with the field in the background. 10-15s: Close shot of both showing their favorite team's cheering goods and laughing together, basking in the lively stadium atmosphere. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look, no AI artifacts, no text overlays. Handheld camera: starts with a pan as two Japanese women in their 20s meet outside Tokyo Dome, hugging. Cuts to a handheld push-in as they toast with food and drinks in the seats. Finishes with a handheld circular move around the friends as they show cheering goods and laugh together in the energetic stadium setting."
+  },
+  "videoFile": "videos/2026-11-12.mp4"
+}
