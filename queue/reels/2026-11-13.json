@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "category": "Draft利用シーン",
+  "title": "Draftで観戦仲間と合流！PayPayドーム女子トリオのワクワク球場DAY",
+  "scene": "PayPayドームの入り口付近で、スマホを見ながら笑顔で手を振って合流する20代女子たち。観客席に移動してお互いの推しグッズを見せ合いながら盛り上がる。球場グルメ（唐揚げやドリンク）を手に乾杯、応援しながら楽しむ様子。",
+  "caption": "野球好きなのに、一緒に観戦できる女子友がなかなか見つからない…そんな悩み、ないですか？\n\n今日はDraftでマッチした仲間と、PayPayドームに集合！初対面でも、好きなチームや推し選手の話ですぐに打ち解けちゃうのが野球女子あるある。球場限定のグルメをシェアしたり、応援グッズを見せ合ったりして、あっという間に仲良しに🥰\n\n「1人だと緊張する」「誰かと一緒に盛り上がりたい」という気持ち、私たちも同じです。Draftをきっかけに、きっとあなたにも最高の観戦仲間ができるはず！\n\n球場で過ごす時間がもっと楽しくなるDraft、活用してみない？一緒に応援する仲間がいると、推し活も10倍楽しくなります⚾️💕\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#PayPayドーム",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦コーデ",
+    "#女子会スポット",
+    "#仲間募集",
+    "#Draft体験"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, natural handheld smartphone-shot video. Three Japanese women in their 20s, casual baseball fan fashion, meet at the main entrance of PayPay Dome, Fukuoka. They wave, smile, and greet each other excitedly. The group walks to the stadium seats, showing each other their baseball merch and taking selfies. In the stands, they toast with karaage and drinks, laughing, then cheer for their team together. No text overlays, no visible AI artifacts.",
+    "veo": "vertical 9:16, 10-15 seconds, photorealistic, natural smartphone-shot look at PayPay Dome, Fukuoka. \n0-5s: Three Japanese women in their 20s, casual baseball fan style, meet at the PayPay Dome entrance, smile, wave, and greet.\n5-10s: The group walks through the concourse to the seats, holding baseball goods, showing each other their items, taking a quick selfie together.\n10-15s: The women in their stadium seats, holding karaage and drinks, cheer and toast while laughing and enjoying the baseball game. No text overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, no AI artifacts. Handheld camera follows three Japanese women in their 20s as they approach and meet at PayPay Dome entrance, casual and natural greeting. Handheld and slight pan as they walk through the concourse towards their seats, passing by food stands. Push-in to the women sitting in stadium seats cheering, laughing, and doing a toast with ballpark food and drinks. No text overlays."
+  },
+  "videoFile": "videos/2026-11-13.mp4"
+}
