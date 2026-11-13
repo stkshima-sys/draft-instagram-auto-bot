@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-14",
+  "category": "Draft利用シーン",
+  "title": "Draftで初めて観戦仲間とPayPayドーム合流！リアルな出会いの瞬間",
+  "scene": "PayPay Domeのコンコースで20代女性がワクワクしながらスマホを見て仲間を探す。お互いを見つけて笑顔で手を振りながら近づき、球場グルメを片手に乾杯。観客席で一緒にユニフォーム姿で応援し、自然な会話と笑顔が光るシーンで締めくくり。",
+  "caption": "野球一緒に観に行きたいけど「友達がいない…」「誘いづらい…」って思ったこと、あるあるだよね😢Draftなら、同じ野球好きの観戦仲間が見つかるから、ドキドキの“初合流”もぜんぜん心配いらないよ！今日はPayPayドームで、Draftで知り合った女の子同士が集合→一緒にグルメ買って乾杯→ユニ姿で推し選手を全力応援！✨リアルな野球好き女子の輪がどんどん広がってるんだって実感した日。推し活もグルメも友達と一緒だと何倍も楽しいし、インスタ映えな写真も増える♡ひとり観戦に不安感じてる子、勇気出してDraftで新しい仲間作ってみて！気になることはコメントで気軽に聞いてね。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間募集",
+    "#球場グルメ",
+    "#推し活",
+    "#PayPayドーム",
+    "#観戦コーデ",
+    "#福岡女子",
+    "#友達作り",
+    "#週末の過ごし方"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15s handheld smartphone-style video inside PayPay Dome Fukuoka. A group of one to three Japanese women in their 20s are looking around excitedly, one checking her phone to spot her friends. They wave and approach each other with big smiles, then buy stadium food and do a cheerful 'kanpai' (cheers) gesture. In the stands, they sit together in team uniforms, eating and laughing while watching the game. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, handheld smartphone look of Japanese women in their 20s at PayPay Dome, natural lighting, no overlays. 0-5s: A woman in casual and sporty outfit navigates the stadium concourse, looking around and checking her smartphone, searching for her friend. 5-10s: They spot each other, wave with big smiles, and walk together towards a nearby food stall, buying popular ballpark snacks. 10-15s: Sitting together in the stands with team uniforms, they clink their drinks, laugh, and cheer on their team. No AI artifacts.",
+    "higgsfield": "Photorealistic vertical video (9:16), 10-15s, handheld camera follows Japanese women in their 20s as they wander the concourse of PayPay Dome, natural lighting. Begin with a subtle pan as one checks her phone and searches, then a gentle push-in as she waves to her friends. The camera moves with them to the food stall. In the stands, handheld camera captures authentic, candid moments: clinking drinks, sharing food, and cheering, all with lively, natural motion. No overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-14.mp4"
+}
