@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-15",
+  "category": "観戦仲間との交流",
+  "title": "観戦仲間と横浜スタジアムでグルメ乾杯リール",
+  "scene": "試合後、横浜スタジアムの客席で20代女性2人が笑顔で乾杯。人気球場グルメ（みかん氷＆唐揚げ）を見せ合いながら写真を撮り合う様子。最後に仲良く楽しそうに話しながらコンコースを歩く場面へ。",
+  "caption": "試合の余韻にひたりながら、観戦仲間と球場グルメで乾杯するのって最高だよね🍻推しの話で盛り上がった後は、みんなで写真を撮り合ってSNS用の“映え”も忘れずに📸 1人観戦もいいけど、気の合う仲間と一緒だと楽しさ倍増！新しい観戦友達ができると、次の試合もまたワクワクするし、応援の熱も自然と上がっちゃうんだよね🥰「野球好きだけど友達がいない…」なんて寂しさも、ちょっとした勇気で変わるかも。観戦後のごはんやグルメ巡り、推し活トーク…女子同士だからこそ共感できる楽しみもたくさん！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦仲間",
+    "#横浜スタジアム",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦コーデ",
+    "#女子会",
+    "#野球観戦",
+    "#Draftで友達"
+  ],
+  "prompts": {
+    "kling": "Two Japanese women in their 20s, sitting in Yokohama Stadium stands after a baseball game, smile and cheer as they clink drinks and show off their ballpark snacks (mikan shaved ice and fried chicken). One takes a candid smartphone photo of the other, both looking relaxed and happy. Natural handheld camera movement, soft evening light, subtle crowd in background, seamless transition as they stand up and walk together chatting through the concourse, maintaining a lively and authentic atmosphere. No visible text overlay or AI artifacts. Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look.",
+    "veo": "0-5s: Two Japanese women in their 20s, seated in the stands at Yokohama Stadium, smiling and clinking their drinks while holding up ballpark food (mikan shaved ice and fried chicken), close-up on their hands and faces, natural reactions. 5-10s: They take playful photos of each other with their smartphones, laughing and adjusting their hair, with a lively stadium ambiance in the background. 10-15s: The friends walk together down the bright stadium concourse, snacks in hand, chatting and sharing friendly glances, handheld camera following them, all in a photorealistic, natural smartphone-shot style, no overlays or AI artifacts.",
+    "higgsfield": "Handheld vertical camera, starting with a medium close-up of two Japanese women in their 20s in Yokohama Stadium stands, slight push-in as they cheer and clink drinks, then pan to one taking a candid photo of the other with food in hand. Quick whip transition to a follow shot as they walk side by side through the stadium concourse, chatting and laughing, capturing the authentic energy of post-game camaraderie. No text overlay or AI look."
+  },
+  "videoFile": "videos/2026-11-15.mp4"
+}
