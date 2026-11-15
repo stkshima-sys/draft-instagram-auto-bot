@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-16",
+  "category": "球場デート",
+  "title": "神宮球場デート風！野球女子のリアルな観戦1日",
+  "scene": "青空の神宮球場、20代女性2人が観客席で笑顔＆乾杯。売店で焼きそばやアイスを選びながら盛り上がる。観戦しながら推し選手の応援タオルやグッズを見せ合い、楽しく盛り上がる自然な姿。",
+  "caption": "友達とわいわい神宮球場デートしてきたよ⚾️✨ 実は「野球一緒に行く友達いない…」とか「1人観戦ちょっと不安」って感じてる子、めっちゃ多いよね。今日は野球女子2人の自然すぎる観戦スタイルをリールでお届け！\n\nまずは観客席で乾杯→球場グルメ（焼きそばとアイスは絶対はずせない🍧）→推し選手の応援で全力盛り上がり！カジュアルコーデでも推しグッズあれば気分マシマシだし、写真も超映え。友達がいるだけで、球場の楽しみ方って何倍にもなるな〜ってしみじみ思う。\n\n気負わず楽しめる仲間が欲しいなら、「Draft」で観戦友達探してみてもアリかも🌸野球観戦の思い出、あなたは誰と分かち合いたい？\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#神宮球場",
+    "#球場グルメ",
+    "#観戦仲間",
+    "#推し活",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#女子会",
+    "#球場デート",
+    "#野球観戦"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s sit together in the Meiji Jingu Stadium stands, smiling and laughing while clinking drinks. Cut to them at a ballpark food stand selecting yakisoba and ice cream. Return to their seats, waving team towels and showing off player merchandise with excitement. Camera follows their natural reactions; no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone video style, natural handheld, no AI artifacts. 0-5s: Two Japanese women in their 20s open the video with a cheerful toast (plastic cups) while seated at Meiji Jingu Stadium, smiling with the field in the background. 5-10s: The pair are seen at the concourse food stall, chatting and excitedly picking up yakisoba and ice cream. 10-15s: Back in their seats, showing off their player towels and cheering naturally, one snaps a quick selfie as the crowd roars.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone look, Japanese women in their 20s at Meiji Jingu Stadium. Begin with handheld close-up as they toast in the stands (slight natural camera shake). Pan to the food stall as they select yakisoba and ice cream. Push-in handheld as they return to their seats, laughing and waving team towels, capturing spontaneous reactions. No overlays, authentic live-action atmosphere."
+  },
+  "videoFile": "videos/2026-11-16.mp4"
+}
