@@ -30,8 +30,13 @@ const SYSTEM = `あなたは日本のプロ野球好き女性(18〜30歳)向けI
 恋愛マッチングではなく「観戦仲間探し」が主軸です。宣伝臭は最小限に、読者の役に立つ内容を優先します。
 必ずJSONのみで回答してください。`;
 
-export async function generateCarousel(): Promise<CarouselPlan> {
+export async function generateCarousel(): Promise<CarouselPlan | null> {
   const date = todayJST();
+  // 今日すでに投稿済みなら何もしない（手動実行と定時実行の二重投稿防止）
+  if (existsSync(`posted/carousel/${date}.json`)) {
+    console.log(`⏭ 今日は投稿済みのため生成をスキップ: posted/carousel/${date}.json`);
+    return null;
+  }
   // 既に今日のキューがある場合（手動セットや再実行）は生成をスキップして上書きを防ぐ
   const existing = `queue/carousel/${date}.json`;
   if (existsSync(existing)) {
