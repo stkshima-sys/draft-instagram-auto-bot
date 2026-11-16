@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-16",
+  "category": "球場デート",
+  "title": "球場デートが100倍楽しくなる5つのコツ",
+  "slides": [
+    {
+      "heading": "1. おすすめ服装コーデ",
+      "body": "動きやすさ＋可愛さ重視が鉄則！\n球団グッズやカラーを入れるとテンションUP🎽\nスニーカーや帽子も忘れずに◎"
+    },
+    {
+      "heading": "2. 座席選びのポイント",
+      "body": "推し選手を近くで見たいならベンチ裏、全体を楽しむなら外野が人気！\n応援の雰囲気も座席で全然変わるよ⚾️"
+    },
+    {
+      "heading": "3. 持ち物リスト保存版",
+      "body": "双眼鏡、うちわ、充電器、タオルは鉄板アイテム。\n突然の雨や寒さ対策で\nカーディガンやポンチョもおすすめ！"
+    },
+    {
+      "heading": "4. 球場グルメも忘れずに",
+      "body": "シェアして楽しい限定グルメは必食🍔\n事前に売店チェックすると時間を有効に使えるよ！"
+    },
+    {
+      "heading": "5. 撮影＆SNS映えのコツ",
+      "body": "球場の光や開放感を生かして写真を撮るとSNS映えバッチリ📸\nたまには友達同士のオフショットも◎"
+    }
+  ],
+  "caption": "球場観戦ってワクワクするけど、コーデや持ち物、座席選び、何かと悩んじゃうよね！今回は、野球好き女子が「球場デート」をもっと楽しむための5つのコツをまとめてみました。服装は動きやすさ＋推しカラーで気分UP、席の雰囲気で盛り上がりも全然違うから要チェック。持ち物や球場グルメ、写真の撮り方まで、これだけ押さえれば初心者さんも安心！観戦仲間と一緒なら楽しさ倍増間違いなし♪ あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活女子",
+    "#女子旅スポット",
+    "#球場デート",
+    "#スポーツ観戦仲間",
+    "#球場写真部",
+    "#野球観戦初心者"
+  ],
+  "coverImagePrompt": "A group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium, smiling and holding snacks, photorealistic, shot on smartphone, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-11-16/01_cover.jpg",
+    "media/carousel/2026-11-16/02_slide.jpg",
+    "media/carousel/2026-11-16/03_slide.jpg",
+    "media/carousel/2026-11-16/04_slide.jpg",
+    "media/carousel/2026-11-16/05_slide.jpg",
+    "media/carousel/2026-11-16/06_slide.jpg",
+    "media/carousel/2026-11-16/07_cta.jpg"
+  ]
+}
