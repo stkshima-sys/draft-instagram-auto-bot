@@ -15,9 +15,14 @@ const H = 1350;
 const FONT = "Noto Sans CJK JP, Noto Sans JP, sans-serif";
 
 // Draftブランドカラー（女性向けに柔らかいトーン）
-const NAVY = "#1b2a4a";
-const PINK = "#f2668b";
-const CREAM = "#fff8f2";
+// Draftアプリアイコンの配色（シアン#22e0f0〜ブルー#21b5e7〜ミント#76d6c4）に合わせたブランドカラー
+const BRAND_BLUE = "#1ba6dc";
+const BRAND_CYAN = "#22d6ec";
+const BRAND_MINT = "#4fd8c4";
+const DARK = "#0d4c63"; // 文字・パネル用の濃いブルーグリーン
+const NAVY = DARK;
+const PINK = BRAND_BLUE;
+const CREAM = "#f5fcfe";
 
 function esc(s: string): string {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
@@ -82,7 +87,7 @@ export async function renderCover(bgPath: string, title: string, outPath: string
     <text font-family="${FONT}" font-size="88" font-weight="bold" fill="#ffffff" text-anchor="middle">
       ${tspans(titleLines, W / 2, panelY + 150, 110)}
     </text>
-    <text x="${W / 2}" y="${panelY + panelH - 36}" font-family="${FONT}" font-size="40" fill="${PINK}" text-anchor="middle">保存して球場で見返してね ▶</text>
+    <text x="${W / 2}" y="${panelY + panelH - 36}" font-family="${FONT}" font-size="40" fill="${BRAND_CYAN}" text-anchor="middle">保存して球場で見返してね ▶</text>
   </svg>`;
 
   const base = existsSync(bgPath)
@@ -108,7 +113,7 @@ export async function renderContent(
     <defs>
       <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
         <stop offset="0" stop-color="${CREAM}"/>
-        <stop offset="1" stop-color="#ffe9ee"/>
+        <stop offset="1" stop-color="#e2f5fb"/>
       </linearGradient>
     </defs>
     <rect width="${W}" height="${H}" fill="url(#bg)"/>
@@ -120,7 +125,7 @@ export async function renderContent(
     <text font-family="${FONT}" font-size="52" fill="#3a3a3a">
       ${tspans(bodyLines, 90, bodyY, 84)}
     </text>
-    <text x="${W / 2}" y="${H - 80}" font-family="${FONT}" font-size="36" fill="#b0a8a2" text-anchor="middle">Draft ｜ 野球観戦仲間マッチング</text>
+    <text x="${W / 2}" y="${H - 80}" font-family="${FONT}" font-size="36" fill="#8fb5c2" text-anchor="middle">Draft ｜ 野球観戦仲間マッチング</text>
   </svg>`;
   await sharp(Buffer.from(svg)).jpeg({ quality: 90 }).toFile(outPath);
 }
@@ -130,17 +135,18 @@ export async function renderCTA(outPath: string): Promise<void> {
   const svg = `<svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0" stop-color="${NAVY}"/>
-        <stop offset="1" stop-color="#2e4370"/>
+        <stop offset="0" stop-color="${BRAND_CYAN}"/>
+        <stop offset="0.55" stop-color="${BRAND_BLUE}"/>
+        <stop offset="1" stop-color="${BRAND_MINT}"/>
       </linearGradient>
     </defs>
     <rect width="${W}" height="${H}" fill="url(#bg)"/>
     <text x="${W / 2}" y="430" font-family="${FONT}" font-size="64" fill="#ffffff" text-anchor="middle">観戦仲間を探すなら</text>
-    <text x="${W / 2}" y="620" font-family="${FONT}" font-size="150" font-weight="bold" fill="${PINK}" text-anchor="middle">Draft</text>
-    <rect x="${W / 2 - 330}" y="740" width="660" height="120" rx="60" fill="${PINK}"/>
-    <text x="${W / 2}" y="820" font-family="${FONT}" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">プロフィールリンクから</text>
-    <text x="${W / 2}" y="1000" font-family="${FONT}" font-size="44" fill="#c9d4ea" text-anchor="middle">一緒に野球を楽しむ仲間が</text>
-    <text x="${W / 2}" y="1070" font-family="${FONT}" font-size="44" fill="#c9d4ea" text-anchor="middle">きっと見つかる</text>
+    <text x="${W / 2}" y="620" font-family="${FONT}" font-size="150" font-weight="bold" fill="#ffffff" text-anchor="middle">Draft</text>
+    <rect x="${W / 2 - 330}" y="740" width="660" height="120" rx="60" fill="#ffffff"/>
+    <text x="${W / 2}" y="820" font-family="${FONT}" font-size="52" font-weight="bold" fill="${BRAND_BLUE}" text-anchor="middle">プロフィールリンクから</text>
+    <text x="${W / 2}" y="1000" font-family="${FONT}" font-size="44" fill="#eafcff" text-anchor="middle">一緒に野球を楽しむ仲間が</text>
+    <text x="${W / 2}" y="1070" font-family="${FONT}" font-size="44" fill="#eafcff" text-anchor="middle">きっと見つかる</text>
   </svg>`;
   await sharp(Buffer.from(svg)).jpeg({ quality: 90 }).toFile(outPath);
 }
