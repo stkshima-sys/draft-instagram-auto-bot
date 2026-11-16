@@ -1,10 +1,23 @@
 import { mkdirSync, writeFileSync, readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { todayJST } from "../config/env.js";
-import { readRows, ensureSheet, appendRow, POSTS_SHEET, ACCOUNT_SHEET } from "../lib/sheets.js";
+import { readRows, ensureSheet, appendRow, appendRows, POSTS_SHEET, ACCOUNT_SHEET } from "../lib/sheets.js";
 
 const HEALTH_SHEET = "Weekly_Health";
 const HEALTH_HEADER = ["Week End", "Carousel Posted", "Reel Posted", "Expected", "稼働率"] as const;
+
+const REPORTS_SHEET = "Weekly_Reports";
+const REPORTS_HEADER = ["Date", "Report"] as const;
+
+/** 週次分析レポート(Markdown)をWeekly_Reportsシートへ1行＝1行で追記する */
+export async function appendReportToSheet(date: string, markdown: string): Promise<void> {
+  await ensureSheet(REPORTS_SHEET, REPORTS_HEADER);
+  const lines = markdown.split("\n").map((l) => l.trimEnd()).filter((l, i, arr) => l !== "" || arr[i - 1] !== "");
+  const rows: (string | number)[][] = [[date, `━━━━━ 週次分析レポート ${date} ━━━━━`]];
+  for (const line of lines) rows.push(["", line]);
+  rows.push(["", ""]);
+  await appendRows(REPORTS_SHEET, rows);
+}
 import { chatText } from "../lib/openai.js";
 
 interface PostStat {
@@ -141,6 +154,9 @@ ${currentPolicy}
   const reportPath = join("reports", `週次分析_${date}.md`);
   writeFileSync(reportPath, report, "utf-8");
   console.log(`✅ 分析レポート保存: ${reportPath}`);
+
+  await appendReportToSheet(date, report);
+  console.log("✅ Weekly_Reportsシートへ追記しました");
 
   // 改善方針.md を更新（投稿生成プロンプトに自動で入る）
   const policy = await chatText(

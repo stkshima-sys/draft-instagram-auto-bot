@@ -54,12 +54,17 @@ export async function ensureSheet(title: string, header: readonly string[]): Pro
 }
 
 export async function appendRow(sheet: string, row: (string | number)[]): Promise<void> {
+  await appendRows(sheet, [row]);
+}
+
+/** 複数行を1回のAPI呼び出しで追記する */
+export async function appendRows(sheet: string, rows: (string | number)[][]): Promise<void> {
   await api().spreadsheets.values.append({
     spreadsheetId: env.sheetsId,
     range: `${sheet}!A1`,
     valueInputOption: "RAW",
     insertDataOption: "INSERT_ROWS",
-    requestBody: { values: [row] },
+    requestBody: { values: rows },
   });
 }
 
