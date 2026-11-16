@@ -64,7 +64,10 @@ ${strategy}
 - hashtags: 10個。#野球女子 #プロ野球観戦 など日本語中心、大中小の規模を混ぜる
 - cover_image_prompt: 表紙背景用の英語プロンプト。
   日本の球場で楽しむ20代日本人女性のリアルなスマホ写真風。文字は入れない。
-  "photorealistic, shot on smartphone, natural lighting, no text" を含める
+  "photorealistic, shot on smartphone, natural lighting, no text" を含める。
+  さらに必ず "no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere,
+  no team logos or player names on clothing" を含める
+  （AIが架空の選手名や文字を描き込むのを防ぐため。うちわ・ボード・ロゴ入りユニフォームは登場させない）
 
 JSON形式:
 {"title": "...", "slides": [{"heading": "...", "body": "..."}], "caption": "...", "hashtags": ["#..."], "cover_image_prompt": "..."}`;
