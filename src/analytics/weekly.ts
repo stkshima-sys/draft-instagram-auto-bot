@@ -1,7 +1,10 @@
 import { mkdirSync, writeFileSync, readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { todayJST } from "../config/env.js";
-import { readRows, POSTS_SHEET, ACCOUNT_SHEET } from "../lib/sheets.js";
+import { readRows, ensureSheet, appendRow, POSTS_SHEET, ACCOUNT_SHEET } from "../lib/sheets.js";
+
+const HEALTH_SHEET = "Weekly_Health";
+const HEALTH_HEADER = ["Week End", "Carousel Posted", "Reel Posted", "Expected", "稼働率"] as const;
 import { chatText } from "../lib/openai.js";
 
 interface PostStat {
@@ -77,6 +80,15 @@ export async function weeklyAnalysis(): Promise<void> {
     }));
   };
 
+  // 投稿稼働状況（毎日カルーセル1＋リール1が期待値）: Weekly_Healthシートに記録
+  const carouselPosted = week.filter((s) => s.type === "carousel").length;
+  const reelPosted = week.filter((s) => s.type === "reel").length;
+  const uptime = `${Math.round(((carouselPosted + reelPosted) / 14) * 100)}%`;
+  const healthLine = `カルーセル ${carouselPosted}/7件、リール ${reelPosted}/7件（稼働率 ${uptime}）`;
+  await ensureSheet(HEALTH_SHEET, HEALTH_HEADER);
+  await appendRow(HEALTH_SHEET, [todayJST(), carouselPosted, reelPosted, 14, uptime]);
+  console.log(`📈 今週の投稿稼働: ${healthLine}`);
+
   let followerTrend = "";
   try {
     const acct = await readRows(ACCOUNT_SHEET);
@@ -84,6 +96,7 @@ export async function weeklyAnalysis(): Promise<void> {
   } catch { /* Account_Daily未作成でも続行 */ }
 
   const summary = {
+    今週の投稿稼働状況: healthLine,
     集計期間: `直近28日（${recent.length}投稿）/ 今週（${week.length}投稿）`,
     リーチ上位10: top(recent, "reach").map((s) => `${s.date} [${s.type}/${s.category}] ${s.title} reach=${s.reach}`),
     保存率上位10: top(recent, "saveRate").map((s) => `${s.date} [${s.type}/${s.category}] ${s.title} 保存率=${s.saveRate}%`),
@@ -110,6 +123,7 @@ ${JSON.stringify(summary, null, 2)}
 ${currentPolicy}
 
 # レポート構成（この順で）
+0. 投稿稼働状況（冒頭に必ず記載。予定より投稿が少ない週は「⚠ システム異常の可能性」と目立つ警告を書く）
 1. 今週のサマリー（数字ベース）
 2. リーチ上位投稿の分析（伸びた要因）
 3. 保存率上位投稿の分析

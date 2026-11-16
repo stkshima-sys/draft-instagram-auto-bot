@@ -1,0 +1,50 @@
+name: ヘルスチェック（毎日13:00 JST）
+
+on:
+  schedule:
+    # JST 13:00 = UTC 04:00（12:00のカルーセル投稿の後に確認する）
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  actions: read
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REPO: ${{ github.repository }}
+    steps:
+      - name: 直近2回連続失敗のワークフローを検出してIssueで緊急通知
+        run: |
+          set -eu
+          FAILING=""
+          for wf in carousel.yml reel.yml insights.yml; do
+            runs=$(gh api "repos/$REPO/actions/workflows/$wf/runs?per_page=2&status=completed" \
+              --jq '[.workflow_runs[].conclusion] | join(",")')
+            echo "$wf: $runs"
+            if [ "$runs" = "failure,failure" ]; then
+              name=$(gh api "repos/$REPO/actions/workflows/$wf" --jq '.name')
+              FAILING="${FAILING}- ${name}（${wf}）\n"
+            fi
+          done
+
+          if [ -z "$FAILING" ]; then
+            echo "✅ 2日連続失敗なし。正常です"
+            exit 0
+          fi
+
+          # 既に未解決の緊急Issueがある場合は重複作成しない
+          open=$(gh issue list --repo "$REPO" --state open --search "【緊急】 in:title" --json number --jq 'length')
+          if [ "$open" != "0" ]; then
+            echo "⏭ 既存の緊急Issueが未解決のためスキップ"
+            exit 0
+          fi
+
+          printf "Instagram自動運用のワークフローが2日連続で失敗しています。\n\n%b\n@stkshima-sys\n\n**対応方法**: このメールの件名（またはこのIssueのタイトル）をClaudeに伝えてください。ログの確認から修正まで対応します。\n復旧を確認したらこのIssueをCloseしてください（Closeしないと次の通知が作られません）。\n" "$FAILING" > body.md
+          gh issue create --repo "$REPO" \
+            --title "【緊急】Instagram自動投稿が2日連続で失敗しています" \
+            --body-file body.md
