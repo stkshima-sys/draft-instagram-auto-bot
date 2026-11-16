@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-17",
+  "category": "球場デート",
+  "title": "女子向け・PayPayドーム観戦デート風景リール",
+  "scene": "PayPayドームの観客席で仲良く乾杯する20代女性たち。みんなで笑顔で球場グルメをシェアしながら、推し活アイテムで応援も楽しむ。スマホで写真を撮り合い、自然な雰囲気で盛り上がる。",
+  "caption": "【女子向け・保存版】野球観戦デートって、やっぱり特別なワクワク感があるよね！PayPayドームで友達と一緒に観戦しながら、球場グルメをシェアしたり、推し活グッズでわいわい応援したり…そんな時間が最高の思い出になるんだよね☺️ 野球好き同士だと「この選手やばくない!?」とか「またここ来たいね！」って自然に話が弾むし、写真も映えるからついSNSにあげたくなっちゃう📷🍟 でも、行きたいけど一緒に行く友達がなかなか見つからない…って悩みも、めっちゃわかる！Draftなら観戦仲間もできるし、野球がもっと楽しくなるよ。みんなはどんな風に球場で推し活楽しんでる？あなたはどれに共感しましたか？\n\n保存して次の観戦計画の参考にしてね！Draftのリンクから観戦仲間もチェック👭",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#PayPayドーム",
+    "#観戦仲間",
+    "#女子会",
+    "#現地レポ",
+    "#保存版"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, photorealistic, 10-15 seconds, smartphone-shot, natural handheld camera. Three Japanese women in their 20s sitting in the stands at a Japanese baseball stadium, smiling and raising drinks for a toast. They share stadium food like fried chicken and french fries, laugh, and enjoy themselves. Occasionally they cheer with penlights and wear casual summer outfits. The camera captures their natural, candid interactions, sometimes panning to show the bustling stadium background. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look. 0-5s: Three Japanese women in their 20s sit together in stadium seats, close-up as they smile and clink their drinks in a celebratory toast. 5-10s: The group shares and eats stadium food, chatting and feeding each other fries while giggling. 10-15s: They wave small cheering items and excitedly take selfies, with the busy stadium concourse visible in the background. Natural lighting, no text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look, 10-15 seconds. Start with a handheld shot as the camera gently pushes in on three Japanese women in their 20s seated at a Japanese baseball stadium, capturing a candid moment as they toast with drinks. Camera pans to follow them as they laugh, share food, and cheer together, with lively crowd sounds in the background. Emphasize handheld, natural movement for an authentic feel. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-17.mp4"
+}
