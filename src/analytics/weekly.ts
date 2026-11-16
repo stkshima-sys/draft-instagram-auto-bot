@@ -6,16 +6,43 @@ import { readRows, ensureSheet, appendRow, appendRows, POSTS_SHEET, ACCOUNT_SHEE
 const HEALTH_SHEET = "Weekly_Health";
 const HEALTH_HEADER = ["Week End", "Carousel Posted", "Reel Posted", "Expected", "稼働率"] as const;
 
-const REPORTS_SHEET = "Weekly_Reports";
-const REPORTS_HEADER = ["Date", "Report"] as const;
+export const REPORTS_SHEET = "Weekly_Reports";
+export const REPORTS_HEADER = ["日付", "セクション", "内容"] as const;
 
-/** 週次分析レポート(Markdown)をWeekly_Reportsシートへ1行＝1行で追記する */
+/** Markdown記号を取り除いて読みやすいプレーンテキストにする */
+function cleanLine(line: string): string {
+  return line
+    .replace(/\*\*/g, "")
+    .replace(/^#{1,4}\s*/, "")
+    .replace(/^[-*]\s+/, "• ")
+    .replace(/^```.*$/, "")
+    .trimEnd();
+}
+
+/**
+ * 週次分析レポート(Markdown)をWeekly_Reportsシートへ追記する。
+ * 見出し(## など)ごとに1行にまとめ、[日付, セクション名, 内容]の3列で書き込む。
+ */
 export async function appendReportToSheet(date: string, markdown: string): Promise<void> {
   await ensureSheet(REPORTS_SHEET, REPORTS_HEADER);
-  const lines = markdown.split("\n").map((l) => l.trimEnd()).filter((l, i, arr) => l !== "" || arr[i - 1] !== "");
-  const rows: (string | number)[][] = [[date, `━━━━━ 週次分析レポート ${date} ━━━━━`]];
-  for (const line of lines) rows.push(["", line]);
-  rows.push(["", ""]);
+
+  const sections: { title: string; lines: string[] }[] = [];
+  let current = { title: "概要", lines: [] as string[] };
+  for (const raw of markdown.split("\n")) {
+    if (/^#{1,4}\s/.test(raw)) {
+      if (current.lines.some((l) => l.trim() !== "")) sections.push(current);
+      current = { title: cleanLine(raw), lines: [] };
+    } else {
+      current.lines.push(cleanLine(raw));
+    }
+  }
+  if (current.lines.some((l) => l.trim() !== "")) sections.push(current);
+
+  const rows: (string | number)[][] = sections.map((s, i) => [
+    i === 0 ? date : "",
+    s.title,
+    s.lines.join("\n").replace(/\n{3,}/g, "\n\n").trim(),
+  ]);
   await appendRows(REPORTS_SHEET, rows);
 }
 import { chatText } from "../lib/openai.js";
