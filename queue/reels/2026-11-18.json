@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-18",
+  "category": "推し活動画",
+  "title": "推し活女子のPayPayドーム応援Day",
+  "scene": "PayPayドームの観客席で、20代の日本人女性2人がユニフォーム姿で大盛り上がり。推しタオルを掲げて笑顔で応援したり、うちわを振って仲良くはしゃぐ様子。売店で球場グルメを手に乾杯、推し活の楽しさが伝わる一日。",
+  "caption": "友達と一緒に推しのユニフォームを着て、PayPayドームで観戦✨タオルを掲げて全力応援したり、うちわを振ったり、思いっきり推し活を楽しんできたよ！やっぱり仲間がいると球場の楽しさ倍増だよね。推しの活躍に大盛り上がりして、つい写真もいっぱい撮っちゃう📸 そして外せないのが球場グルメ！今日は名物の○○（※推しグルメは一般表現）を片手に乾杯もして、最高の休日推し活になったよ。『野球好きな友達が周りに少なくて寂しい…』って悩んでる人も、観戦仲間を見つければ楽しさ倍増！Draftで新しい出会いも広がるから、ぜひ一歩踏み出してみて🙌 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#推しタオル",
+    "#応援女子",
+    "#観戦仲間募集中",
+    "#保存版"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 10-15 second vertical (9:16) video, smartphone-shot look, of two Japanese women in their 20s sitting together at a packed Japanese baseball stadium, both wearing generic team-colored jerseys (no logos/text), smiling, waving fans and holding up towels with excitement, cheering for their favorite players. Show them clinking drinks with stadium food in the concourse, panning between the girls and the lively crowd. Natural handheld motion, energetic, joyful, daytime.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot. 0-5s: Two Japanese women in their 20s sit in stadium seats at a busy Japanese baseball ballpark, wearing team-colored (logo-free) jerseys, smiling, waving fans and raising towels, cheering vibrantly. 5-10s: Camera pans to them standing in the concourse, holding food and drinks, laughing and clinking drinks for a toast, showing off their snacks. 10-15s: Close-up shots of the friends posing for selfies and reacting to a play, ending with a wide shot of them waving at the field and the crowded stands.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot style. Two Japanese women in their 20s at a Japanese baseball stadium, wearing generic team-colored jerseys (no logos/text). Start with handheld camera in the stands, capturing them cheering, waving towels and fans. Pan towards their happy faces and the cheering crowd. Then push-in shot as they stand in the concourse, smiling, holding food and drinks. End with a handheld tilt up as they toast and laugh together, with the stadium atmosphere in the background."
+  },
+  "videoFile": "videos/2026-11-18.mp4"
+}
