@@ -66,7 +66,13 @@ ${strategy}
   - body: 60〜90文字。改行(\\n)で2〜3行に分ける。絵文字1〜2個OK
   - image_prompt: そのスライドの内容に合った背景写真用の英語プロンプト。
     cover_image_promptと同じ制約（photorealistic/smartphone/no text/no fan signs/no logos等）を必ず含め、
-    見出しの内容（グルメなら食べ物、コーデなら服装など）が伝わる構図にする
+    見出しの内容が伝わる構図にする。内容タイプ別の構図ルール:
+    ・コーデ/服装の話 → 全身コーデが分かる構図（full-body outfit shot, casual stadium outfit,
+      cap and sneakers visible, plain clothing without logos）。本文にもアイテム名を具体的に列挙する
+    ・持ち物/グッズの話 → アイテムを並べた俯瞰の置き画（flat lay, top-down view of items neatly
+      arranged: towel, sunscreen, portable battery, poncho etc.）。本文のアイテムと写真を一致させる
+    ・グルメの話 → 食べ物が主役のクローズアップ
+    ・その他 → 見出しのシーンが伝わる観戦風景
 - title: 表紙タイトル。15〜22文字。数字や「〇選」で保存したくなる表現。
   絵文字・特殊記号は使わない（画像描画で文字化けするため。「！」「？」などの全角記号はOK）
 - caption: 300〜600文字。共感→内容の要約→コメント誘導。自然な日本語、絵文字適度。
