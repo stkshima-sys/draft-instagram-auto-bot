@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-18",
+  "category": "球場グルメ",
+  "title": "保存版 球場グルメ神7選",
+  "slides": [
+    {
+      "heading": "東京ドームの定番！ジャンボ焼き鳥",
+      "body": "東京ドーム名物のジャンボ焼き鳥は、ジューシーでボリューム満点！1本500円前後で、売店「東京ドーム名物屋台」などスタンド周辺でゲットできるよ。熱々を片手に観戦するのが至福の時間✨",
+      "image_prompt": "close-up photo of a hands holding a large grilled chicken skewer, photorealistic, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "阪神甲子園・甲子園カレーに注目",
+      "body": "甲子園球場の「甲子園カレー」はスパイシーでお肉ゴロゴロ！一塁・三塁側の売店やスタンド下で買えて、1,000円程。カレー好き女子はぜひ試してみて🍛野球観戦の合間にぴったり！",
+      "image_prompt": "close-up photo of a bowl of Japanese curry rice, served in a takeout tray, photorealistic, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "PayPayドームのホークス弁当",
+      "body": "福岡PayPayドームの「ホークス弁当」はボリューム満点＆映えると話題！唐揚げや明太子入りで1,200〜1,500円。コンコース内のご飯売店で販売、推し活と同時にお腹も満たされる🍱",
+      "image_prompt": "close-up photo of a colorful Japanese bento box with rice, fried chicken, and side dishes, photorealistic, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "横浜スタジアムのベイスターズドッグ",
+      "body": "横浜スタジアムで人気の「ベイスターズドッグ」はロングソーセージ×ふわふわパン！700円程で、メインコンコースの売店で販売。片手で食べやすいから、写真映えもバッチリ🌭",
+      "image_prompt": "close-up photo of a long hot dog with sausage and soft bread bun, photorealistic, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "神宮球場・青空ビール×唐揚げ",
+      "body": "明治神宮野球場といえば、外野席の「青空ビール」と揚げたて唐揚げ！1,000円弱で気軽に楽しめて、夏の観戦には最高。売店は外野スタンド周辺に点在してるので要チェック🍺🍗",
+      "image_prompt": "close-up photo of a cup of draft beer and fried chicken in a paper tray, photorealistic, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "エスコンフィールド北海道・海鮮丼",
+      "body": "エスコンフィールドの新名物「海鮮丼」は北海道らしい新鮮ネタがたっぷり！1,500円程度で、場内飲食エリアで販売。贅沢グルメを球場で味わえるのは嬉しいポイント🐟",
+      "image_prompt": "close-up photo of a Japanese seafood rice bowl with fresh sashimi, photorealistic, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    }
+  ],
+  "caption": "球場グルメって、推し活の楽しみのひとつだよね！各球場には女子もテンション上がる名物がたくさん。東京ドームのジャンボ焼き鳥、甲子園のカレー、PayPayドームのホークス弁当、横浜スタジアムのベイスターズドッグ、神宮球場の青空ビール＆唐揚げ、エスコンフィールド北海道の海鮮丼…どれも現地でしか味わえない魅力が詰まってるよ🍱🍺球場グルメは一緒に観戦する仲間がいると会話も弾むし、シェアして楽しむのもおすすめ！この投稿を保存してグルメ制覇を目指すのもアリ◎あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#プロ野球観戦",
+    "#スタジアム飯",
+    "#推し活",
+    "#グルメ好きな人と繋がりたい",
+    "#観戦仲間募集",
+    "#女子旅グルメ",
+    "#神7",
+    "#保存版"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing, Japanese 20s women enjoying food at a stadium seat, focus on hands holding stadium food, with a blurred baseball field in the background",
+  "images": [
+    "media/carousel/2026-11-18/01_cover.jpg",
+    "media/carousel/2026-11-18/02_slide.jpg",
+    "media/carousel/2026-11-18/03_slide.jpg",
+    "media/carousel/2026-11-18/04_slide.jpg",
+    "media/carousel/2026-11-18/05_slide.jpg",
+    "media/carousel/2026-11-18/06_slide.jpg",
+    "media/carousel/2026-11-18/07_slide.jpg",
+    "media/carousel/2026-11-18/08_cta.jpg"
+  ]
+}
