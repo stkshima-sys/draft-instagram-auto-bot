@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { REEL_CATEGORIES, STADIUMS } from "../config/categories.js";
 import { todayJST } from "../config/env.js";
-import { chatJSON } from "../lib/openai.js";
+import { chatJSON, factCheckJSON } from "../lib/openai.js";
 import { selectCategory, loadStrategy } from "../planner/select.js";
 
 export interface ReelPlan {
@@ -84,6 +84,24 @@ JSON形式:
     ai.caption = ai.caption.trimEnd() + "\n\nあなたはどれに共感しましたか？";
   }
   ai.hashtags = (ai.hashtags ?? []).slice(0, 10).map((h) => (h.startsWith("#") ? h : `#${h}`));
+
+  // Web検索によるファクトチェック（キャプションの固有名詞を公式サイトと照合）
+  const checked = await factCheckJSON<{ caption: string; verified_notes?: string }>(
+    `あなたは日本のプロ野球に詳しいファクトチェッカーです。Web検索を使い、
+与えられたInstagramリールのキャプションに含まれる固有名詞（グルメ名・イベント名・施設名・球場名）が
+実在するかを球団・球場の公式サイトを最優先に確認してください。
+確認できなかった固有名詞は「ご当地グルメ」等の一般表現に書き換え、
+新しい事実・価格・売店名は追加せず、文体と絵文字はそのまま保ってください。
+JSONのみで出力: {"caption":"...","verified_notes":"確認結果の要約1行"}`,
+    JSON.stringify({ caption: ai.caption }),
+  );
+  if (checked?.caption) {
+    ai.caption = checked.caption;
+    console.log(`✅ 事実確認完了: ${checked.verified_notes ?? "OK"}`);
+    if (!ai.caption.includes("あなたはどれに共感しましたか")) {
+      ai.caption = ai.caption.trimEnd() + "\n\nあなたはどれに共感しましたか？";
+    }
+  }
 
   const plan: ReelPlan = {
     date,

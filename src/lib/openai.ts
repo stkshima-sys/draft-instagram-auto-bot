@@ -47,6 +47,28 @@ export async function chatText(system: string, user: string): Promise<string> {
 }
 
 /**
+ * Web検索付きモデルでファクトチェックを行い、修正済みJSONを返す。
+ * 検索APIが使えない・失敗した場合はnullを返し、呼び出し側は元の内容で続行する（投稿を止めない）。
+ */
+export async function factCheckJSON<T>(system: string, user: string): Promise<T | null> {
+  try {
+    const res = await (client as unknown as {
+      responses: { create: (p: unknown) => Promise<{ output_text?: string }> };
+    }).responses.create({
+      model: process.env.OPENAI_SEARCH_MODEL ?? "gpt-4.1",
+      tools: [{ type: "web_search" }],
+      input: `${system}\n\n${user}`,
+    });
+    const text = res.output_text ?? "";
+    const m = text.match(/\{[\s\S]*\}/);
+    return m ? (JSON.parse(m[0]) as T) : null;
+  } catch (e) {
+    console.warn(`⚠ 事実確認（Web検索）に失敗したため元の内容で続行: ${(e as Error).message}`);
+    return null;
+  }
+}
+
+/**
  * 画像生成して保存する。size: 縦長カルーセル用は1024x1536。
  */
 export async function generateImage(prompt: string, outPath: string): Promise<void> {

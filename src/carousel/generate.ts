@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync, existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { CAROUSEL_CATEGORIES } from "../config/categories.js";
 import { todayJST } from "../config/env.js";
-import { chatJSON, generateImage } from "../lib/openai.js";
+import { chatJSON, factCheckJSON, generateImage } from "../lib/openai.js";
 import { selectCategory, loadStrategy } from "../planner/select.js";
 import { renderCover, renderContent, renderCTA } from "./render.js";
 
@@ -102,6 +102,32 @@ JSON形式:
     ai.caption = ai.caption.trimEnd() + "\n\nあなたはどれに共感しましたか？";
   }
   ai.hashtags = (ai.hashtags ?? []).slice(0, 10).map((h) => (h.startsWith("#") ? h : `#${h}`));
+
+  // Web検索によるファクトチェック: 固有名詞を球団・球場の公式サイトと照合し、
+  // 確認できない記述は一般表現に書き換える。チェック自体が失敗した日は元の内容で続行
+  const checked = await factCheckJSON<AiCarousel>(
+    `あなたは日本のプロ野球に詳しいファクトチェッカーです。Web検索を使い、
+与えられたInstagram投稿案に含まれる固有名詞（グルメ名・メニュー名・イベント名・施設名・球場名）が
+実在するかを確認してください。球団・球場の公式サイト（例: npb.jp、各球団公式、球場公式）を最優先の根拠とします。
+
+ルール:
+- 公式または信頼できる情報源で実在確認できた固有名詞 → そのまま残す
+- 確認できなかった固有名詞 → 「ご当地グルメ」「名物メニュー」のような一般表現に書き換える
+- 新しい事実・価格・売店名・営業時間を追加してはいけない
+- 文体・文字数の雰囲気・絵文字・改行構成は元のまま保つ
+- slidesの各image_promptは一切変更せずそのまま返す
+- 最後に全体をJSONのみで出力する（形式: {"title":"...","slides":[{"heading":"...","body":"...","image_prompt":"..."}],"caption":"...","hashtags":["#..."],"cover_image_prompt":"...","verified_notes":"確認結果の要約1行"}）`,
+    JSON.stringify({ title: ai.title, slides: ai.slides, caption: ai.caption, hashtags: ai.hashtags, cover_image_prompt: ai.cover_image_prompt }),
+  );
+  if (checked && Array.isArray(checked.slides) && checked.slides.length === ai.slides.length) {
+    ai.title = checked.title || ai.title;
+    ai.slides = checked.slides.map((s, i) => ({ ...s, image_prompt: ai.slides[i].image_prompt }));
+    ai.caption = checked.caption || ai.caption;
+    console.log(`✅ 事実確認完了: ${(checked as AiCarousel & { verified_notes?: string }).verified_notes ?? "OK"}`);
+    if (!ai.caption.includes("あなたはどれに共感しましたか")) {
+      ai.caption = ai.caption.trimEnd() + "\n\nあなたはどれに共感しましたか？";
+    }
+  }
 
   // 画像生成: 表紙背景(AI) → 表紙/本文/CTAをレンダリング
   const dir = join("media", "carousel", date);
