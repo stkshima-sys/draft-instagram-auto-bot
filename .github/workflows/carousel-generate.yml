@@ -1,0 +1,50 @@
+name: カルーセル事前生成（毎日9:00 JST）
+
+on:
+  schedule:
+    # JST 9:00 = UTC 0:00 に当日分を生成。12:00の投稿までが確認タイム。
+    # ここで生成済みなら12:00側の生成はスキップされ、キューがそのまま投稿される
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: instagram-post
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: 日本語フォントをインストール（スライド画像用）
+        run: sudo apt-get update && sudo apt-get install -y fonts-noto-cjk
+
+      - run: npm ci
+
+      - name: カルーセル生成（企画＋画像のみ・投稿はしない）
+        run: npm run carousel:generate
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+
+      - name: 生成物をコミット（確認用キュー）
+        run: |
+          git config user.name "draft-bot"
+          git config user.email "bot@draft-match.com"
+          git add media/ queue/
+          git commit -m "preview: $(date -u +%Y-%m-%d) の投稿内容を事前生成" || echo "変更なし"
+          git pull --rebase origin main
+          git push
