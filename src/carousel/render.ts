@@ -113,25 +113,35 @@ export async function renderContent(
   const bodyLines = body.split("\n").flatMap((p) => wrap(p, 16));
 
   if (bgPath && existsSync(bgPath)) {
-    // 写真背景版: すべて中央揃え。パネルの高さを文章量に合わせて計算し、縦中央に配置
-    const hl = headLines.length;
-    const bl = bodyLines.length;
-    const panelH = 95 + 110 + (hl - 1) * 96 + 50 + 95 + (bl - 1) * 84 + 85;
-    const panelY = Math.max(120, Math.round((H - panelH) / 2));
-    const pgY = panelY + 95;
-    const headY = pgY + 110;
-    const underY = headY + (hl - 1) * 96 + 50;
-    const bodyY = underY + 95;
+    // 写真背景版: パネルの左端から右端まで文字で使い切る。
+    // 行の文字量に合わせてフォントサイズを自動調整し、枠幅いっぱいに表示する
+    const padX = 130;
+    const usable = W - padX * 2; // パネル内の文字領域幅
+    const units = (l: string) => [...l].reduce((s, c) => s + (/[ -~]/.test(c) ? 0.55 : 1), 0);
+
+    const hLines = wrap(heading, 11);
+    const headFont = Math.min(84, Math.floor(usable / Math.max(...hLines.map(units), 6)));
+    const headLH = Math.round(headFont * 1.3);
+    const bLines = body.split("\n").flatMap((p) => wrap(p, 15));
+    const bodyFont = Math.min(60, Math.floor(usable / Math.max(...bLines.map(units), 8)));
+    const bodyLH = Math.round(bodyFont * 1.62);
+
+    const pgY0 = 90;
+    const headY0 = pgY0 + 30 + headLH;
+    const underY0 = headY0 + (hLines.length - 1) * headLH + 45;
+    const bodyY0 = underY0 + 55 + bodyFont;
+    const panelH = bodyY0 + (bLines.length - 1) * bodyLH + 70;
+    const panelY = Math.max(110, Math.round((H - panelH) / 2));
     const svg = `<svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
       <rect width="${W}" height="${H}" fill="#000000" opacity="0.18"/>
       <rect x="70" y="${panelY}" width="${W - 140}" height="${panelH}" rx="32" fill="${DARK}" opacity="0.85"/>
-      <text x="${W / 2}" y="${pgY}" font-family="${FONT}" font-size="44" font-weight="bold" fill="${BRAND_CYAN}" text-anchor="middle">${String(index).padStart(2, "0")} / ${String(total).padStart(2, "0")}</text>
-      <text font-family="${FONT}" font-size="72" font-weight="bold" fill="#ffffff" text-anchor="middle">
-        ${tspans(headLines, W / 2, headY, 96)}
+      <text x="${padX}" y="${panelY + pgY0}" font-family="${FONT}" font-size="44" font-weight="bold" fill="${BRAND_CYAN}">${String(index).padStart(2, "0")} / ${String(total).padStart(2, "0")}</text>
+      <text font-family="${FONT}" font-size="${headFont}" font-weight="bold" fill="#ffffff">
+        ${tspans(hLines, padX, panelY + headY0, headLH)}
       </text>
-      <rect x="${W / 2 - 70}" y="${underY}" width="140" height="10" rx="5" fill="${BRAND_CYAN}"/>
-      <text font-family="${FONT}" font-size="52" fill="#eafcff" text-anchor="middle">
-        ${tspans(bodyLines, W / 2, bodyY, 84)}
+      <rect x="${padX}" y="${panelY + underY0}" width="${usable}" height="8" rx="4" fill="${BRAND_CYAN}" opacity="0.9"/>
+      <text font-family="${FONT}" font-size="${bodyFont}" fill="#eafcff">
+        ${tspans(bLines, padX, panelY + bodyY0, bodyLH)}
       </text>
       <text x="${W / 2}" y="${H - 60}" font-family="${FONT}" font-size="36" fill="#ffffff" opacity="0.85" text-anchor="middle">Draft ｜ 野球観戦仲間マッチング</text>
     </svg>`;
