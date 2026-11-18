@@ -19,7 +19,7 @@ export interface CarouselPlan {
 
 interface AiCarousel {
   title: string;
-  slides: { heading: string; body: string }[];
+  slides: { heading: string; body: string; image_prompt: string }[];
   caption: string;
   hashtags: string[];
   cover_image_prompt: string;
@@ -64,6 +64,9 @@ ${strategy}
 - slides: 本文スライド4〜6枚（表紙とCTAは別途自動生成するので含めない）
   - heading: 20文字以内の見出し
   - body: 60〜90文字。改行(\\n)で2〜3行に分ける。絵文字1〜2個OK
+  - image_prompt: そのスライドの内容に合った背景写真用の英語プロンプト。
+    cover_image_promptと同じ制約（photorealistic/smartphone/no text/no fan signs/no logos等）を必ず含め、
+    見出しの内容（グルメなら食べ物、コーデなら服装など）が伝わる構図にする
 - title: 表紙タイトル。15〜22文字。数字や「〇選」で保存したくなる表現。
   絵文字・特殊記号は使わない（画像描画で文字化けするため。「！」「？」などの全角記号はOK）
 - caption: 300〜600文字。共感→内容の要約→コメント誘導。自然な日本語、絵文字適度。
@@ -77,7 +80,7 @@ ${strategy}
   （AIが架空の選手名や文字を描き込むのを防ぐため。うちわ・ボード・ロゴ入りユニフォームは登場させない）
 
 JSON形式:
-{"title": "...", "slides": [{"heading": "...", "body": "..."}], "caption": "...", "hashtags": ["#..."], "cover_image_prompt": "..."}`;
+{"title": "...", "slides": [{"heading": "...", "body": "...", "image_prompt": "..."}], "caption": "...", "hashtags": ["#..."], "cover_image_prompt": "..."}`;
 
   const ai = await chatJSON<AiCarousel>(SYSTEM, user);
 
@@ -104,7 +107,15 @@ JSON形式:
 
   for (let i = 0; i < ai.slides.length; i++) {
     const p = join(dir, `${String(i + 2).padStart(2, "0")}_slide.jpg`);
-    await renderContent(i + 2, total, ai.slides[i].heading, ai.slides[i].body, p);
+    // スライドごとの背景写真を生成。失敗しても投稿自体は止めない（写真なしデザインで続行）
+    let slideBg: string | undefined = join(dir, `bg_${String(i + 2).padStart(2, "0")}.png`);
+    try {
+      await generateImage(ai.slides[i].image_prompt || ai.cover_image_prompt, slideBg);
+    } catch (e) {
+      console.warn(`⚠ スライド${i + 2}の背景生成に失敗（写真なしで続行）: ${(e as Error).message}`);
+      slideBg = undefined;
+    }
+    await renderContent(i + 2, total, ai.slides[i].heading, ai.slides[i].body, p, slideBg);
     images.push(p);
   }
 

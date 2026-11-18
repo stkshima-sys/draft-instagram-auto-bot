@@ -97,16 +97,51 @@ export async function renderCover(bgPath: string, title: string, outPath: string
   await base.composite([{ input: Buffer.from(svg) }]).jpeg({ quality: 90 }).toFile(outPath);
 }
 
-/** 本文スライド */
+/**
+ * 本文スライド。
+ * bgPathに写真があれば「写真背景＋濃色パネル＋白文字」、無ければ従来の淡色デザインで描く。
+ */
 export async function renderContent(
   index: number,
   total: number,
   heading: string,
   body: string,
   outPath: string,
+  bgPath?: string,
 ): Promise<void> {
   const headLines = wrap(heading, 12);
-  const bodyLines = body.split("\n").flatMap((p) => wrap(p, 18));
+  const bodyLines = body.split("\n").flatMap((p) => wrap(p, 16));
+
+  if (bgPath && existsSync(bgPath)) {
+    // 写真背景版: パネルの高さを文章量に合わせて計算し、縦中央に配置
+    const headBlock = headLines.length * 96;
+    const bodyBlock = bodyLines.length * 84;
+    const panelH = 150 + headBlock + 60 + bodyBlock + 80;
+    const panelY = Math.max(140, Math.round((H - panelH) / 2));
+    const headY = panelY + 150 + 70;
+    const bodyY = headY + headBlock + 50;
+    const svg = `<svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
+      <rect width="${W}" height="${H}" fill="#000000" opacity="0.18"/>
+      <rect x="70" y="${panelY}" width="${W - 140}" height="${panelH}" rx="32" fill="${DARK}" opacity="0.85"/>
+      <text x="130" y="${panelY + 100}" font-family="${FONT}" font-size="44" font-weight="bold" fill="${BRAND_CYAN}">${String(index).padStart(2, "0")} / ${String(total).padStart(2, "0")}</text>
+      <rect x="130" y="${headY - 68}" width="14" height="${headBlock}" rx="7" fill="${BRAND_CYAN}"/>
+      <text font-family="${FONT}" font-size="72" font-weight="bold" fill="#ffffff">
+        ${tspans(headLines, 180, headY, 96)}
+      </text>
+      <text font-family="${FONT}" font-size="52" fill="#eafcff">
+        ${tspans(bodyLines, 130, bodyY, 84)}
+      </text>
+      <text x="${W / 2}" y="${H - 60}" font-family="${FONT}" font-size="36" fill="#ffffff" opacity="0.85" text-anchor="middle">Draft ｜ 野球観戦仲間マッチング</text>
+    </svg>`;
+    await sharp(bgPath)
+      .resize(W, H, { fit: "cover" })
+      .composite([{ input: Buffer.from(svg) }])
+      .jpeg({ quality: 90 })
+      .toFile(outPath);
+    return;
+  }
+
+  // 従来版（写真なしフォールバック）
   const headY = 300;
   const bodyY = headY + headLines.length * 96 + 90;
   const svg = `<svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
