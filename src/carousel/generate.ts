@@ -63,7 +63,7 @@ ${strategy}
 # 出力ルール
 - slides: 本文スライド4〜6枚（表紙とCTAは別途自動生成するので含めない）
   - heading: 20文字以内の見出し
-  - body: 60〜90文字。改行(\\n)で2〜3行に分ける。絵文字1〜2個OK
+  - body: 70〜110文字。改行(\\n)は入れず、ひと続きの文章として書く（画像上での折り返しは自動）。絵文字1〜2個OK
   - image_prompt: そのスライドの内容に合った背景写真用の英語プロンプト。
     cover_image_promptと同じ制約（photorealistic/smartphone/no text/no fan signs/no logos等）を必ず含め、
     見出しの内容が伝わる構図にする。内容タイプ別の構図ルール:

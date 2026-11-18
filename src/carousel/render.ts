@@ -71,6 +71,33 @@ function wrap(text: string, maxChars: number): string[] {
   return out;
 }
 
+/**
+ * 詰め込み式の折り返し: 各行を上限幅まで使い切ってから改行する（右側の隙間を作らない）。
+ * 英単語・数字は分割せず、行頭に句読点が来ない禁則処理も行う。
+ */
+function wrapFill(text: string, maxUnits: number): string[] {
+  const out: string[] = [];
+  const width = (t: string) => [...t].reduce((s, c) => s + (/[ -~]/.test(c) ? 0.55 : 1), 0);
+  const noBreakBefore = /^[、。！？!?…ー」』）〉》”’]/;
+  for (const para of text.split("\n")) {
+    const tokens = para.match(/[A-Za-z0-9#&%+._-]+|\S|\s/gu) ?? [];
+    let cur = "";
+    let curW = 0;
+    for (const t of tokens) {
+      const tw = width(t);
+      if (cur !== "" && curW + tw > maxUnits && !noBreakBefore.test(t)) {
+        out.push(cur.trim());
+        cur = "";
+        curW = 0;
+      }
+      cur += t;
+      curW += tw;
+    }
+    if (cur.trim()) out.push(cur.trim());
+  }
+  return out;
+}
+
 function tspans(lines: string[], x: number, startY: number, lineH: number): string {
   return lines
     .map((l, i) => `<tspan x="${x}" y="${startY + i * lineH}">${esc(l)}</tspan>`)
@@ -113,25 +140,39 @@ export async function renderContent(
   const bodyLines = body.split("\n").flatMap((p) => wrap(p, 16));
 
   if (bgPath && existsSync(bgPath)) {
-    // 写真背景版: すべて中央揃え。パネルの高さを文章量に合わせて計算し、縦中央に配置
-    const hl = headLines.length;
-    const bl = bodyLines.length;
-    const panelH = 95 + 110 + (hl - 1) * 96 + 50 + 95 + (bl - 1) * 84 + 85;
-    const panelY = Math.max(120, Math.round((H - panelH) / 2));
-    const pgY = panelY + 95;
-    const headY = pgY + 110;
-    const underY = headY + (hl - 1) * 96 + 50;
-    const bodyY = underY + 95;
+    // 写真背景版(v1ベースの左揃え): 各行を均等割付で右端まで伸ばし、右側の隙間をなくす
+    const padX = 130;
+    const unitWidth = (l: string) => [...l].reduce((s, c) => s + (/[ -~]/.test(c) ? 0.55 : 1), 0);
+    // 行の自然幅が領域の65%以上なら右端まで均等に伸ばす（短すぎる行は間延びするので除外）
+    const justified = (lines: string[], x: number, startY: number, lineH: number, font: number, usableW: number) =>
+      lines.map((l, i) => {
+        const natural = unitWidth(l) * font;
+        const stretch = natural >= usableW * 0.65 && natural < usableW
+          ? ` textLength="${usableW}" lengthAdjust="spacing"` : "";
+        return `<tspan x="${x}" y="${startY + i * lineH}"${stretch}>${l.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")}</tspan>`;
+      }).join("");
+
+    const headX = padX + 50; // 縦バーの分だけ右から開始
+    const headUsable = W - headX - padX;
+    const bodyUsable = W - padX * 2;
+    const hLines = wrapFill(heading, headUsable / 72);
+    const bLines = wrapFill(body, bodyUsable / 52);
+    const headBlock = hLines.length * 96;
+    const bodyBlock = bLines.length * 84;
+    const panelH = 150 + headBlock + 60 + bodyBlock + 80;
+    const panelY = Math.max(140, Math.round((H - panelH) / 2));
+    const headY = panelY + 150 + 70;
+    const bodyY = headY + headBlock + 50;
     const svg = `<svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
       <rect width="${W}" height="${H}" fill="#000000" opacity="0.18"/>
       <rect x="70" y="${panelY}" width="${W - 140}" height="${panelH}" rx="32" fill="${DARK}" opacity="0.85"/>
-      <text x="${W / 2}" y="${pgY}" font-family="${FONT}" font-size="44" font-weight="bold" fill="${BRAND_CYAN}" text-anchor="middle">${String(index).padStart(2, "0")} / ${String(total).padStart(2, "0")}</text>
-      <text font-family="${FONT}" font-size="72" font-weight="bold" fill="#ffffff" text-anchor="middle">
-        ${tspans(headLines, W / 2, headY, 96)}
+      <text x="${padX}" y="${panelY + 100}" font-family="${FONT}" font-size="44" font-weight="bold" fill="${BRAND_CYAN}">${String(index).padStart(2, "0")} / ${String(total).padStart(2, "0")}</text>
+      <rect x="${padX}" y="${headY - 68}" width="14" height="${headBlock}" rx="7" fill="${BRAND_CYAN}"/>
+      <text font-family="${FONT}" font-size="72" font-weight="bold" fill="#ffffff">
+        ${justified(hLines, headX, headY, 96, 72, headUsable)}
       </text>
-      <rect x="${W / 2 - 70}" y="${underY}" width="140" height="10" rx="5" fill="${BRAND_CYAN}"/>
-      <text font-family="${FONT}" font-size="52" fill="#eafcff" text-anchor="middle">
-        ${tspans(bodyLines, W / 2, bodyY, 84)}
+      <text font-family="${FONT}" font-size="52" fill="#eafcff">
+        ${justified(bLines, padX, bodyY, 84, 52, bodyUsable)}
       </text>
       <text x="${W / 2}" y="${H - 60}" font-family="${FONT}" font-size="36" fill="#ffffff" opacity="0.85" text-anchor="middle">Draft ｜ 野球観戦仲間マッチング</text>
     </svg>`;
