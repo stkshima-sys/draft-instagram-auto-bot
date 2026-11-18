@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-19",
+  "category": "球場グルメ紹介",
+  "title": "神宮球場グルメ女子会リール企画",
+  "scene": "明治神宮球場の観客席で20代女性グループが笑顔でポテトや焼きそば、カップアイスを手にする。ひと口食べて『おいし～』と盛り上がる。最後はカメラ目線で乾杯ポーズ＆ピース。",
+  "caption": "野球観戦って、実はグルメもめちゃくちゃ楽しみのひとつ！今日は明治神宮球場で、定番のポテトや焼きそば、つめたいカップアイスを友達とシェアして満喫してきたよ🍟⚾️みんなで『どれ食べる？』ってワイワイ選ぶの、めっちゃ楽しくない？ひとり参戦だと少し勇気がいるけど、推し活仲間がいると新しい球場グルメもたくさんトライできちゃうのが魅力だよね！野球観戦＝応援だけじゃなくて、こういうグルメ時間もみんなの思い出になるから大事にしたい💛みんなの球場グルメ神7もぜひ教えて！保存して次の遠征の参考にもしてね。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#明治神宮球場",
+    "#プロ野球",
+    "#観戦友達募集中",
+    "#推し活",
+    "#女子会",
+    "#観戦コーデ",
+    "#日常vlog",
+    "#保存版"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, natural handheld smartphone-shot style. Three Japanese women in their 20s, sitting together in the stands at Meiji Jingu Stadium, holding classic Japanese stadium foods like french fries, yakisoba, and a cup of ice cream. They take bites, smile, and react happily, then look at the camera and do a cheers gesture with their snacks. No team logos, no text, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, realistic smartphone footage. 0-5s: Shot of three Japanese women in their 20s sitting in the stands at a Japanese baseball stadium, talking and laughing, holding stadium foods like french fries and yakisoba. 5-10s: Close-up of one woman taking a big bite of yakisoba, others reacting with happy expressions, sharing food. 10-15s: Group turns to the camera, smiles, does a cheers gesture with snacks and makes a peace sign. No overlays, no logos, no artificial effects.",
+    "higgsfield": "vertical 9:16, photorealistic, handheld camera motion with gentle panning. Starts from a side angle showing Japanese women in their 20s chatting and enjoying stadium food in the stands. The camera pushes in slightly as they take bites and laugh together, then pans to center as they raise their snacks towards the camera for a cheers, finishing with a natural smile and peace sign. No logos, no text."
+  },
+  "videoFile": "videos/2026-11-19.mp4"
+}
