@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-20",
+  "category": "球場観戦Vlog風",
+  "title": "球場観戦女子のリアルVlog｜Tokyo Domeで推し活DAY",
+  "scene": "Tokyo Domeの外観前で集合しスマホ自撮りからスタート。売店で人気球場グルメを購入し、観客席で乾杯＆推し活トーク。熱い応援と楽しさが伝わるリアルな1日。",
+  "caption": "＼野球女子のTokyo Dome観戦Vlog🎥／\n今日は推し活仲間と一緒にTokyo Domeで試合観戦！球場のワクワク感、友達と食べる球場グルメ、乾杯する瞬間…現地の雰囲気ってやっぱ最高だよね⚾️売店で話題のフードをシェアしたり、観戦コーデを撮り合ったり、試合が始まったら大盛り上がり！周りのファンとも自然に一体感が生まれて、野球の楽しさを全部感じられた1日でした♡\n『一緒に行く仲間がいなくて寂しい…』『観戦デビューしたいけど勇気が出ない…』そんな時はDraftで気軽に観戦仲間を見つけてみて！\n保存して次の球場観戦の参考にしてね♪  あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#東京ドーム",
+    "#観戦仲間",
+    "#女子旅",
+    "#女子会",
+    "#保存版"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16 smartphone-shot style video, 10-15s. Japanese women in their 20s meet and smile in front of a baseball stadium entrance (Tokyo Dome, iconic modern dome exterior visible in background), then inside the stadium walk through a concourse lined with typical food stalls, laughing and pointing, buy classic stadium food like hot dogs and fried chicken. Transition to them seated in the stands, clinking drinks and cheering in a lively crowd. Natural handheld motion, candid moments, no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic smartphone-shot look, 10-15s total.\n0-5s: Japanese women in their 20s gather in front of the Tokyo Dome, taking candid selfies and laughing as people walk past the stadium entrance.\n5-10s: Inside a bright, bustling stadium concourse, the group walks to a food stall, buys classic baseball food like hot dogs and fried snacks, smiles at each other.\n10-15s: They find their seats, pan to the group clinking drinks, holding food, and cheering excitedly during a baseball game. Natural handheld camera without AI artifacts or text.",
+    "higgsfield": "Vertical 9:16, photorealistic, 10-15s. Handheld smartphone camera follows Japanese women in their 20s at a baseball stadium: starts with a slight pan across the stadium entrance as they meet and smile, then push-in through the concourse as they approach a food stall, finally a gentle pan as they sit in the stands, do a quick cheers with drinks and laugh together. Strong sense of real-life motion, no text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-20.mp4"
+}
