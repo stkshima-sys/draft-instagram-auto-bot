@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-19",
+  "category": "観戦初心者向け",
+  "title": "観戦初心者のための保存版ガイド5選",
+  "slides": [
+    {
+      "heading": "チケットの買い方は色々！",
+      "body": "チケットは公式サイトやコンビニ端末から簡単に購入できるよ。人気カードは早めにチェックが鉄則！座席によって景色や雰囲気が結構変わるから、自分好みの場所を見つけてみてね。🏟️",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, Japanese women in their 20s checking baseball tickets on their smartphones at home, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "座席選びはここに注目",
+      "body": "初めてなら内野席が安心！全体が見やすいしファン層も幅広いよ。応援に参加したいなら外野席もオススメ。推し活重視派はグッズ売場や名物グルメが近い席も要チェック🍙",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, wide shot from the stands showing various seats in a Japanese baseball stadium, focus on women deciding on seats, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "ルールや用語も怖くない",
+      "body": "全部覚えなくても大丈夫！「ストライク」「アウト」など基本を押さえればOK。球場ビジョンで状況も分かりやすいし、分からないことは周りに聞いちゃって大丈夫だよ😊",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, Japanese women looking at the big screen in a baseball stadium, one explaining basic rules to her friend, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "持ち物リストを要チェック",
+      "body": "日焼け止め・帽子・タオル・モバイルバッテリー・雨対策のポンチョや折り畳み傘は必須アイテム！観戦仲間とシェアできるグッズも持って行くと盛り上がるかも💕",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, flat lay, top-down view of essentials on a wooden surface: towel, sunscreen, cap, portable battery, poncho, and umbrella, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "観戦仲間で楽しさ倍増！",
+      "body": "初心者こそ観戦仲間がいると心強いよ！推し選手トークや写真撮影、球場での応援もみんなでワイワイすると思い出になるはず。まずはSNSやDraftで仲間探ししてみては？🤗",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, Japanese women in their 20s enjoying a baseball game together, smiling and chatting in the stands, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    }
+  ],
+  "caption": "野球観戦デビュー、気になるけど何から始めればいいか迷っちゃう…そんな野球女子の“あるある”に寄り添って、初心者向けの観戦ガイドをまとめました⚾️チケットの買い方、座席選び、ルールの基礎、持ち物リストなど、これさえ知っておけば初観戦でも安心！実は、観戦仲間がいるとハードルはぐんと下がるよ。友達やSNSでのつながりはもちろん、Draftみたいなサービスを活用するのも◎ 推し活や写真タイムも仲間と一緒だと倍楽しいし、困ったことも相談できて安心です。これから観戦デビューを考えている方の参考になれば嬉しいな☺️保存して見返すのもおすすめ！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#野球観戦初心者",
+    "#プロ野球観戦",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦仲間",
+    "#球場体験",
+    "#スタジアムデビュー",
+    "#Draftで観戦"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, Japanese women in their 20s enjoying themselves at a baseball stadium, casual summer clothing, natural smiles, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing",
+  "images": [
+    "media/carousel/2026-11-19/01_cover.jpg",
+    "media/carousel/2026-11-19/02_slide.jpg",
+    "media/carousel/2026-11-19/03_slide.jpg",
+    "media/carousel/2026-11-19/04_slide.jpg",
+    "media/carousel/2026-11-19/05_slide.jpg",
+    "media/carousel/2026-11-19/06_slide.jpg",
+    "media/carousel/2026-11-19/07_cta.jpg"
+  ]
+}
