@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-21",
+  "category": "推し活動画",
+  "title": "推し活女子のPayPayドーム観戦Day！",
+  "scene": "PayPayドームの外でユニフォーム姿の20代女性2人が待ち合わせ、笑顔でハイタッチ。観客席でタオルを掲げて盛り上がる。推しのうちわを持ちながら球場グルメを楽しむシーンで締めくくり。",
+  "caption": "推し活って、やっぱり現地が一番楽しいよね！ユニフォームを着て球場に向かうときのワクワク感、チームカラーのタオルやうちわを手に一緒に声援を送る瞬間、そして球場グルメで乾杯するのも醍醐味。今日はPayPayドームで、いつもの推し仲間と“推し活”全開で楽しんできました！1人じゃなかなか勇気が出ない…って思いがちだけど、観戦仲間がいるだけで球場に行くハードルがぐっと下がるし、推しの話やグッズ自慢も思いっきりできて本当に最高。初めて現地観戦に行く女子も、Draftで仲間を探してみてほしいな。みんなで盛り上がれる楽しさ、経験してほしい！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#女子会",
+    "#PayPayドーム",
+    "#スポーツ観戦",
+    "#推し仲間",
+    "#保存版"
+  ],
+  "prompts": {
+    "kling": "Two Japanese women in their 20s, wearing baseball uniforms, meet outside a Japanese baseball stadium and exchange a cheerful high-five. Cut to them sitting together in the stadium seats, waving towels and cheering with smiles, surrounded by excited fans. Next, close-up of them holding handmade fans (uchiwa) and sharing classic stadium food, laughing and enjoying. The footage is shot vertically in 9:16, mimicking natural smartphone handheld style, with casual, spontaneous gestures, photorealistic look, no visible AI artifacts, and lively crowd background.",
+    "veo": "0-5s: Two Japanese women in their 20s meet outside a baseball stadium, wearing team-colored uniforms, smiling and greeting each other with a high-five. 5-10s: The women are in the stadium stands, raising towels and energetically cheering, the crowd in the background. 10-15s: Both hold decorative fans (uchiwa) and enjoy typical stadium food, laughing and showing their excitement. Vertical 9:16, photorealistic, natural handheld smartphone footage, no text or AI artifacts.",
+    "higgsfield": "Vertical 9:16. Start with a handheld walking shot as two Japanese women in their 20s approach each other outside a Japanese baseball stadium, then steady pan as they high-five. Cut to a handheld push-in on them cheering in the stands, waving towels. Finish with a casual handheld shot as they hold uchiwa and eat stadium food, natural conversational energy, photorealistic, lively but realistic atmosphere, no visible AI or text artifacts."
+  },
+  "videoFile": "videos/2026-11-21.mp4"
+}
