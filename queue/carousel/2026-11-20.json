@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-20",
+  "category": "応援グッズ",
+  "title": "野球観戦女子の応援グッズ活用術7選",
+  "slides": [
+    {
+      "heading": "推しアピールはタオルが定番",
+      "body": "球場でまず持っておきたいのが推しカラーや名前入りの応援タオル！振ったり肩にかけたり、写真映えもばっちり。夏は汗拭きにも使えて一石二鳥だよ🧢",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, top-down view of baseball cheering towels, a plain water bottle, and a mini fan, neatly arranged on a wooden stadium seat, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "ユニフォームで一体感を楽しむ",
+      "body": "公式ユニフォームはやっぱり特別！お気に入りのデザインを着るとテンションUP。パーカーやデニムと組み合わせて、自分らしい観戦コーデを作ろう👕",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, full-body outfit shot, Japanese young woman in a plain baseball jersey (no logos), cap, jeans, and sneakers, casual stadium outfit, in a stadium seat, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "ペンライトで応援も撮影も盛り上げる",
+      "body": "夜の試合やイベントにあると心強いペンライト。みんなで光らせれば一体感も増すし、写真や動画も華やかになるよ。手首が疲れにくい軽めタイプが人気✨",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, flat lay, top-down view of simple penlights, cheering towels, and a sunscreen tube, all in neutral colors, arranged on a plain table, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "実用系グッズも抜かりなく",
+      "body": "日焼け止め、折りたたみレインポンチョ、充電器は女子の必須持ち物。長時間の観戦や突然の天気の変化にも備えておけば安心！友達とシェアするのも◎",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, flat lay, top-down view of essentials: sunscreen, portable battery, folded poncho, eco bag, and simple baseball cap, on a wooden surface, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "初心者さんも安心！手ぶら応援術",
+      "body": "グッズを持ち歩かなくても大丈夫。現地で観戦仲間とグッズ交換したり、売店で気軽に手に入るものだけでも充分楽しめるよ。無理せず自分流で楽しもう😊",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, Japanese young woman in plain casual outfit cheering hands-free in stadium stands, empty hands, happy and relaxed, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    }
+  ],
+  "caption": "野球女子の観戦といえば、かわいい応援グッズは欠かせないよね！タオルやユニフォームで推しアピールしたり、ペンライトや便利グッズで快適に過ごしたり…シーンに合わせてグッズ選びも楽しみのひとつ。最近はおしゃれなデザインや女子向けのアイテムも増えてきて、写真映えにもこだわりたくなる！手ぶら派さんも現地で調達したり、友達とシェアするのもよくあるスタイル。球場でしか味わえない一体感も、グッズがあるとさらに盛り上がるはず。みんなはどんな応援グッズを使ってる？初心者さんやおひとりさまでも安心して楽しめるアイデアも紹介してみたよ。保存して、次の観戦の参考にしてね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#観戦グッズ",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場ライフ",
+    "#応援アイテム",
+    "#観戦初心者",
+    "#女子会",
+    "#観戦仲間募集"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, Japanese women in their 20s enjoying a baseball game at a Japanese stadium, holding simple towels and wearing casual non-logo outfits, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing",
+  "images": [
+    "media/carousel/2026-11-20/01_cover.jpg",
+    "media/carousel/2026-11-20/02_slide.jpg",
+    "media/carousel/2026-11-20/03_slide.jpg",
+    "media/carousel/2026-11-20/04_slide.jpg",
+    "media/carousel/2026-11-20/05_slide.jpg",
+    "media/carousel/2026-11-20/06_slide.jpg",
+    "media/carousel/2026-11-20/07_cta.jpg"
+  ]
+}
