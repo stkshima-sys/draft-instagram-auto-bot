@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-21",
+  "category": "Draft成功体験",
+  "title": "野球観戦仲間ができた私のDraft体験談4選",
+  "slides": [
+    {
+      "heading": "1人観戦から卒業できた日",
+      "body": "野球好きだけど、周りに一緒に行ける友達がいなくて1人観戦しがちだった私。でもDraftで同じ推しを応援する仲間とつながったら、最初の球場観戦から会話が盛り上がって不安も吹き飛んだよ😊",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, two Japanese women in their 20s smiling inside a Japanese baseball stadium, casual clothing, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "女子トーク全開の観戦が最高",
+      "body": "観戦中も推し選手の話はもちろん、球場グルメや観戦コーデの話で大盛り上がり！ドラフト経由の仲間は趣味やテンションも似てるから、初対面でもすぐ友達感覚になれるのが嬉しい💡",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, Japanese women in their 20s chatting and laughing at stadium seats with food and drinks, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "みんなで球場グルメ開拓",
+      "body": "定番の名物弁当やご当地グルメをシェアしながらいろいろ食べ比べ！一人だと挑戦しづらいメニューも仲間がいると頼みやすくて、グルメ選びの幅が広がった🍴",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, close-up of hands holding various stadium bento boxes and local gourmet foods, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "試合後も語り合える仲間に",
+      "body": "試合が終わった後も余韻トークが止まらず、そのままSNSでもつながって毎回一緒に観戦する友達になれたよ！野球の話はもちろん、日常の推し活トークもできる仲間って最高✨",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, two to three Japanese women in casual clothes chatting on stadium concourse after the game, smiling, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    }
+  ],
+  "caption": "「野球好きなのに一緒に観戦する友達がいない…」そんな悩み、意外と多いよね。私もずっと1人観戦が多かったけど、Draftで同じ趣味の仲間とつながってからは球場での楽しさが何倍にもUP！推し選手トーク、観戦コーデ、グルメの食べ比べや写真撮影も、女子同士ならではの盛り上がりに。試合後もSNSで「次も一緒に行こう！」って自然と約束する仲に。この体験、1人でも多くの野球女子に知ってほしいな🥰 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#観戦仲間",
+    "#球場グルメ",
+    "#推し活女子",
+    "#観戦コーデ",
+    "#女子会",
+    "#野球好きと繋がりたい",
+    "#保存版",
+    "#Draft体験談"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, Japanese women in their 20s enjoying a baseball stadium in Japan, casual stylish clothing, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing",
+  "images": [
+    "media/carousel/2026-11-21/01_cover.jpg",
+    "media/carousel/2026-11-21/02_slide.jpg",
+    "media/carousel/2026-11-21/03_slide.jpg",
+    "media/carousel/2026-11-21/04_slide.jpg",
+    "media/carousel/2026-11-21/05_slide.jpg",
+    "media/carousel/2026-11-21/06_cta.jpg"
+  ]
+}
