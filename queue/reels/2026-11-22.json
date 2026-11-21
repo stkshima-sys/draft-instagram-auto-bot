@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-22",
+  "category": "ホームランの盛り上がり",
+  "title": "PayPayドームで体感！女子のホームラン歓喜リール",
+  "scene": "PayPayドームのスタンドで推し活女子たちが試合観戦。ホームランが出た瞬間、歓声とハイタッチで盛り上がる。みんな笑顔で全力応援、現地の熱狂がリアルに伝わる映像。",
+  "caption": "球場でホームランが飛び出した瞬間の熱さ、知ってる？✨推しの一打に沸き上がるスタンドの盛り上がり、まわりの女子とも自然とハイタッチしちゃうあの空気…！1人で観にきても、ホームランが出ると一瞬でみんなが仲間になれるのが球場観戦の醍醐味だよね。PayPayドームの雰囲気って、実は女子だけでもめちゃ安心だし、グルメ片手に応援すれば緊張もすぐ吹き飛ぶ！推し活友達と一緒なら、さらに楽しいけど、1人でも全力で盛り上がれるから心配しなくてOK。次はあなたもスタンドで、あの一体感を体験してみて！観戦仲間が見つかるDraftも要チェック👀 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#ホームラン",
+    "#推し活",
+    "#PayPayドーム",
+    "#観戦仲間",
+    "#野球観戦",
+    "#女子旅"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic and natural handheld smartphone-shot look. Three Japanese women in their 20s, stylish casual outfits, sitting together in the spectator seats at a Japanese baseball stadium during a game (PayPay Dome). The moment a home run is hit, everyone in the crowd stands up and cheers, the women jump to their feet, smile, and give each other high fives. Close-up of their excited expressions, dynamic crowd reactions around them, cups of drinks and snacks in hands, natural daylight, no text overlays, no visible AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot. 0-5s: Three Japanese women in their 20s sitting in the PayPay Dome spectator seats, chatting, holding snacks, and watching the field. 5-10s: Sudden home run moment—crowd bursts into cheers, women leap up, laughing and giving high fives, energy and excitement in the air, camera shakes with the action. 10-15s: Zoom-in on their happy faces, one takes a quick selfie with friends, background filled with smiling fans, all celebrating together. No text overlays, no visible AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot, handheld camera motion with natural shakes and slight pans between friends. Start with a handheld steady shot of Japanese women in their 20s in the stands, then quick handheld push-in as they react to the home run. Camera pans to capture their high fives and excited laughing, then close up push-in on their smiling faces, crowd moving and cheering in the background. No text overlays, no visible AI artifacts."
+  },
+  "videoFile": "videos/2026-11-22.mp4"
+}
