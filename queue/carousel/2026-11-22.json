@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-22",
+  "category": "球場グルメ",
+  "title": "球場グルメ定番7選 保存版まとめ",
+  "slides": [
+    {
+      "heading": "甲子園で有名なあのカレー",
+      "body": "甲子園といえばやっぱりカレー！観戦しながらスパイシーな香りに包まれて食べる一杯は格別。推し活の合間にもぴったりなエネルギー補給メニューだよ🍛",
+      "image_prompt": "photorealistic, shot on smartphone, stadium seat background, close-up of a Japanese curry rice in a paper container with a simple spoon, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "東京ドーム名物ジャンボ焼き鳥",
+      "body": "東京ドームの名物ご当地グルメは外せない！大きめサイズでボリューム満点。スタンドで友達とシェアして食べても楽しい一品。焼き立ての香ばしさが食欲をそそるよ😋",
+      "image_prompt": "photorealistic, shot on smartphone, close-up of large skewered grilled chicken (yakitori) held in hand with stadium seats blurred in the background, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "福岡PayPayドームのもつ鍋",
+      "body": "福岡のPayPayドームでは、ご当地グルメのもつ鍋も観戦のお供に人気！アツアツの状態で食べられるからナイターにもぴったりだよ。熱々をみんなで楽しんで✨",
+      "image_prompt": "photorealistic, shot on smartphone, close-up of steaming Japanese hot pot with vegetables and meat (motsunabe style) in a disposable bowl, stadium seats subtly visible, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "札幌ドームのご当地グルメ",
+      "body": "札幌ドームに行ったら、北海道らしいご当地食材を使った名物グルメにも注目！新鮮な海鮮や地元の味を楽しみながら、観戦がより贅沢な時間に変わっちゃうよ🍱",
+      "image_prompt": "photorealistic, shot on smartphone, close-up of a colorful Japanese bento box with assorted seafood and local specialties, held on lap with stadium seats in background, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "名古屋バンテリンドームの手羽先",
+      "body": "バンテリンドーム ナゴヤ観戦の定番グルメといえば手羽先！カリッと揚げたてで味付けもしっかり。ビール派もジュース派も満足しちゃう味だよ🍗",
+      "image_prompt": "photorealistic, shot on smartphone, close-up of crispy chicken wings (Japanese tebasaki) in paper tray, stadium seat background in natural daylight, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "神宮球場のかき氷",
+      "body": "夏の神宮球場といえばカラフルなかき氷！推しのカラーを選んで観戦しながら楽しむのが女子的あるある。暑い日は冷たいスイーツで気分もリフレッシュ🍧",
+      "image_prompt": "photorealistic, shot on smartphone, close-up of brightly colored Japanese shaved ice in a clear cup with spoon, held up against stadium in background, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    }
+  ],
+  "caption": "球場グルメって、観戦の楽しみのひとつだよね！せっかく現地に行くなら名物は絶対にチェックしたいし、友達とシェアしたり推しカラーで盛り上がったり…女子ならではの楽しみ方も。今回は全国の定番人気グルメを7つ厳選してまとめたよ。これを保存しておけば「次はどれ食べる？」って仲間とも盛り上がれるはず！意外と知らなかったご当地メニューもあるかも？ぜひ参考にしてね。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#プロ野球観戦",
+    "#グルメ旅",
+    "#観戦コーデ",
+    "#推し活",
+    "#野球好きと繋がりたい",
+    "#ご当地グルメ",
+    "#野球観戦仲間募集",
+    "#スタジアムグルメ"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, a group of 20s Japanese women enjoying stadium food on the stands of a Japanese baseball stadium, focus on friendly atmosphere and food in hands, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing",
+  "images": [
+    "media/carousel/2026-11-22/01_cover.jpg",
+    "media/carousel/2026-11-22/02_slide.jpg",
+    "media/carousel/2026-11-22/03_slide.jpg",
+    "media/carousel/2026-11-22/04_slide.jpg",
+    "media/carousel/2026-11-22/05_slide.jpg",
+    "media/carousel/2026-11-22/06_slide.jpg",
+    "media/carousel/2026-11-22/07_slide.jpg",
+    "media/carousel/2026-11-22/08_cta.jpg"
+  ]
+}
