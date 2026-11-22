@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-23",
+  "category": "球場観戦Vlog風",
+  "title": "女子の球場1日Vlog｜横浜スタジアム推し活あるある",
+  "scene": "横浜スタジアムに女子2人が到着してワクワク入場。定番グルメを選んで座席で乾杯、笑顔で観戦開始。推し活グッズを手に応援、スマホで写真も撮り合うシーン。",
+  "caption": "【野球女子の横浜スタジアム推し活Vlog】\n今日は友達と横浜スタジアムで野球観戦！入り口でワクワクしながら入場、球場グルメのにおいにつられて、名物のお弁当や唐揚げをチョイス。座席についたらまずは乾杯＆記念写真📸仕事のこととか忘れて、推しグッズ片手に全力で応援しちゃうのが最高だよね…！現地の熱気やファンの一体感は、やっぱり画面越しじゃ味わえない特別感。\n\nでも、最初は「一緒に行く友達どうしよう」「1人で大丈夫かな…？」なんて悩むこともあったけど、最近は観戦仲間もできて本当に世界が広がった！同じチームを応援する友達がいると、盛り上がり方も違うし、思い出も倍増🤍\n\n気になる人は、『Draft』で観戦仲間探してみるのもおすすめ！保存して、次の観戦プランに役立ててね。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#横浜スタジアム",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦仲間",
+    "#休日の過ごし方",
+    "#女子会",
+    "#Vlog"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s enter a Japanese baseball stadium (no logos), smiling and chatting, stop at a food stall to choose classic ballpark food, then walk to their seats in the stands. Sitting side by side, they toast drinks, laugh, show off cheering accessories like towels or uchiwa, and take selfies with excitement. The scene is vibrant, lively, and feels like a real match day, with other fans in the background, but no visible branding.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion, Japanese women in their 20s at a Japanese baseball stadium (no text). 0-5s: Two women enter stadium through the gate, smiling and casually filming themselves. 5-10s: Stopping at a food stall, deciding and picking up classic stadium snacks, showing the food to the camera. 10-15s: Sitting in the stands, toasting drinks, laughing together, waving cheering goods, snapping selfies, and soaking in the atmosphere with other fans visible but no branded details.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-captured look, 10-15 seconds. Begin with a handheld, slightly shaky camera following two Japanese women in their 20s as they enter a lively Japanese baseball stadium. Camera pans to their hands as they receive food at a stall, then a handheld push-in as they walk to their seats. End with a steady but natural handheld shot of them seated, toasting drinks, laughing, showing off cheering accessories, and taking photos, with dynamic crowd background."
+  },
+  "videoFile": "videos/2026-11-23.mp4"
+}
