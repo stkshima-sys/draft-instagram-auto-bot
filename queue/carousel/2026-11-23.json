@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-23",
+  "category": "球場デート",
+  "title": "球場デートで役立つ保存版5ポイント",
+  "slides": [
+    {
+      "heading": "服装のポイントは快適さ重視",
+      "body": "動きやすいTシャツやジーンズ、キャップとスニーカーが鉄板！気温差がある日に備えて薄手の羽織りやストールも持っていくと安心だよ。観戦中に冷えがちなのでひざ掛けもおすすめ😊",
+      "image_prompt": "photorealistic, shot on smartphone, full-body outfit shot of a Japanese woman in casual baseball stadium outfit: T-shirt, jeans, sneakers, cap, light jacket, no text, natural lighting, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "観戦がもっと楽しくなる座席選び",
+      "body": "外野や内野、どこから観るかで雰囲気が全然違う！推し選手を近くで見たい人は内野席、応援団の声援を楽しみたい人は外野席が人気。日中のデーゲームは日差しや風向きも要チェック🔍",
+      "image_prompt": "photorealistic, shot on smartphone, wide-angle stadium view from various seat locations, Japanese spectators enjoying the game, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "必需品リストは忘れずに！",
+      "body": "応援タオル、双眼鏡、日焼け止め、ウェットティッシュ、モバイルバッテリーは鉄板アイテム。突然の雨に備えて折りたたみ傘やポンチョもあると安心だよ🌂",
+      "image_prompt": "photorealistic, shot on smartphone, flat lay, top-down view of neatly arranged items: towel, sunscreen, portable battery, wet wipes, binoculars, folding umbrella, poncho, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "球場グルメも満喫しよう",
+      "body": "球場ごとの名物弁当やご当地グルメは必ずチェック！みんなでシェアするのも楽しいし、SNS映えも間違いなし。どれを食べるか迷う時間もワクワクするよ🍱",
+      "image_prompt": "photorealistic, shot on smartphone, close-up of Japanese bento boxes and local stadium foods on a table, vibrant colors, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "写真も思い出づくりの一つ",
+      "body": "友達や観戦仲間と記念写真をたくさん撮ろう！観戦コーデやグルメ、スタンドでの一瞬など“推し活”の風景は思い出にもSNSにもぴったり。周りに気を使いながら楽しんで📸",
+      "image_prompt": "photorealistic, shot on smartphone, candid scene of Japanese women taking selfies and group photos at a stadium, casual outfits, cheerful atmosphere, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    }
+  ],
+  "caption": "野球観戦って「どんな服装がいいの？」「何を持っていけば安心？」と迷うこと多いよね。今回は球場デートをもっと楽しむためのポイントを5つまとめたよ！動きやすい観戦コーデ、座席選びのコツ、持ち物チェックリスト、絶対食べたい球場グルメ、そして写真の楽しみ方まで、初心者さんも常連さんも保存して後で見返せる内容です。他にも「これ役立った！」というポイントがあったら、ぜひコメントでシェアしてね。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#観戦仲間募集",
+    "#野球好きと繋がりたい",
+    "#推し活女子",
+    "#球場デート",
+    "#持ち物チェック",
+    "#観戦初心者"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, a group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium, casual clothing, cheerful, taking photos and looking at the field, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing",
+  "images": [
+    "media/carousel/2026-11-23/01_cover.jpg",
+    "media/carousel/2026-11-23/02_slide.jpg",
+    "media/carousel/2026-11-23/03_slide.jpg",
+    "media/carousel/2026-11-23/04_slide.jpg",
+    "media/carousel/2026-11-23/05_slide.jpg",
+    "media/carousel/2026-11-23/06_slide.jpg",
+    "media/carousel/2026-11-23/07_cta.jpg"
+  ]
+}
