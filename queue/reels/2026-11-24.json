@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-24",
+  "category": "球場グルメ紹介",
+  "title": "PayPayドームの女子向け球場グルメ現地レポ",
+  "scene": "20代の日本人女性2人がPayPayドームの観客席で並んで笑顔で乾杯。人気の球場グルメを手に持って見せ合い、嬉しそうに食べるシーン。バックには球場の賑わいと応援の雰囲気が映り、友達同士のリアルな楽しさが伝わる。",
+  "caption": "友達と一緒にPayPayドームの球場グルメを満喫してきました！外野席でグルメ片手に乾杯する瞬間、最高すぎる😍人気の唐揚げやたこ焼き、定番のソフトクリームまで…どれも試してみたくなるものばかり。グルメをシェアしながら推し活トークも盛り上がって、気づけば試合そっちのけで写真撮影タイム📸女子だけの気軽な観戦も、こんなに楽しめるんだと実感しちゃいました。1人観戦はちょっと勇気がいるけど、仲間がいるともっと球場が好きになる！Draftで観戦仲間を見つけたら、次はどの球場グルメに挑戦しようかな？保存して、あとで友達と一緒に見返してみてね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#推し活女子",
+    "#女子旅",
+    "#スポーツ観戦",
+    "#友達募集",
+    "#Draftで観戦仲間"
+  ],
+  "prompts": {
+    "kling": "Two Japanese women in their 20s, sitting side by side in the audience stands of a lively Japanese baseball stadium, holding up popular ballpark foods like fried chicken and soft serve ice cream, smiling and toasting cheerfully. Natural handheld smartphone-shot look, photorealistic, ambient stadium crowd in the background. The women exchange friendly looks, take bites, and enjoy the game atmosphere together. No visible logos or text.",
+    "veo": "0-5s: Two Japanese women in their 20s walk along the stadium concourse, laughing and buying ballpark foods like yakitori and soft serve ice cream, handheld camera following them. 5-10s: The women sit in their seats, cheerfully clink their drinks or food, smile, and show their food to the camera, stadium background busy with fans. 10-15s: Close-up of the women taking a bite, laughing, and cheering with a panoramic view of the field behind them, maintaining a real smartphone-shot aesthetic.",
+    "higgsfield": "Handheld vertical camera, following two Japanese women in their 20s as they move through the stadium concourse, light pan to capture them selecting food, then push-in as they sit and toast with their snacks. Natural movements, occasional slight shakes for realism, focusing on cheerful expressions and authentic ballpark atmosphere, with crowd and field visible in the background."
+  },
+  "videoFile": "videos/2026-11-24.mp4"
+}
