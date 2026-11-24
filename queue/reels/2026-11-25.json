@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "category": "球場観戦Vlog風",
+  "title": "東京ドーム女子観戦Vlog｜1日密着リール",
+  "scene": "友達と一緒に東京ドームのゲート前でワクワクしながら入場。コンコースで球場グルメを選んで乾杯、座席に戻ってみんなで応援＆記念撮影。試合のワクワク感や女子ならではの楽しみ方がぎゅっと詰まった一日。",
+  "caption": "今日は東京ドームで野球観戦🏟️女子だけの観戦って、実はめちゃくちゃ盛り上がるんだよね！ゲートの前で「推し活日和！」ってテンション上がるし、コンコースで迷いながら選ぶ球場グルメも最高🍗（みんなは何派？）座席に着いたら、ドリンクで乾杯して記念写真も忘れずに📸ドームの雰囲気に包まれて、応援タオルを振ったり「ここ好き〜」って写真撮り合ったり…野球好き女子同士ならではの共感ポイントがいっぱい。1人で来るのは少し勇気がいるけど、友達と一緒なら楽しさ倍増！Draftなら観戦仲間もすぐ見つかるから、次はあなたも参加してみない？保存して次の観戦の参考にしてね✨あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#東京ドーム",
+    "#推し活",
+    "#野球観戦",
+    "#応援スタイル",
+    "#スポーツ観戦女子",
+    "#球場Vlog"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone-shot look, no text overlays. Japanese women in their 20s arriving at a large Japanese baseball stadium entrance (Tokyo Dome-inspired), laughing and taking selfies, then walking through a busy indoor concourse choosing food at a concession stand, finally sitting together in green stadium seats, smiling, clinking drinks, and cheering. Dynamic handheld camera, natural expressions, vibrant crowd. No visible team logos or text on clothing or props. Atmosphere: energetic, casual, fun girls' day out.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, 10-15 seconds. 0-5s: Two or three Japanese women in their 20s excitedly arrive at the entrance of a Japanese baseball stadium, taking selfies together. 5-10s: In the indoor concourse, they browse and buy famous ballpark food from a concession stand, chatting and smiling. 10-15s: Sitting in the stadium seats, they toast with drinks, laugh, and cheer for the game, capturing candid moments. No visible team logos, no text overlays.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone-shot look. Scene 1 (handheld tracking): Camera follows Japanese women in their 20s walking toward the stadium entrance. Scene 2 (handheld, slight pan): Captures them choosing food at a bustling concession stand, interacting and laughing. Scene 3 (push-in, handheld): Shows the women sitting, raising drinks for a toast, then cheering and waving, with natural crowd ambiance in the background. No visible text or logos."
+  },
+  "videoFile": "videos/2026-11-25.mp4"
+}
