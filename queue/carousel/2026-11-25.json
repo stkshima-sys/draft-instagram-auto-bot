@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-25",
+  "category": "球場イベント",
+  "title": "保存版・直近球場イベント7選",
+  "slides": [
+    {
+      "heading": "花火ナイターで夏気分満喫",
+      "body": "球場によっては、花火ナイターが開催されることがあるよ！野球と花火、両方楽しめるのは夏の大きな魅力。夜空に上がる花火をバックに観戦仲間と盛り上がる体験は最高。最新情報は各球場の公式サイトでチェックしてね。",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, Japanese baseball stadium at night with vibrant fireworks in the sky, young Japanese women looking up, no text, no fan signs, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "コラボグッズで推し活が楽しい",
+      "body": "球団や企業とのコラボグッズが手に入る日もあるんだって！事前にチェックしておけば、観戦仲間とお揃いコーデもできちゃう。数量限定や人気アイテムはすぐ売り切れることも多いから、気になる人は早めの行動がおすすめ。",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, close-up of Japanese women’s hands holding cute collaboration goods (keychains, scarves, eco bags), no text, no fan signs, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "レディースデーは特典が盛りだくさん",
+      "body": "レディースデーが開催されることも！限定グッズやスペシャルな体験ブースなど、女性向けの特典がいっぱい。観戦仲間と一緒に行けば、さらに思い出に残ること間違いなし。詳細や実施日は公式サイトで確認してね。",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, Japanese women smiling together at a stadium, holding pink-themed gifts or small tote bags, fun and casual, no text, no fan signs, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "ユニフォーム配布で観戦モチベUP",
+      "body": "応援ユニフォームがもらえる日があると、会場全体が一体感に包まれるよ。推し球団カラーで写真映えもバッチリ。観戦仲間と写真を撮ればSNSも盛り上がるよね。配布条件やデザインは最新情報を要チェック！",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, young Japanese women happily showing plain-color uniforms (no logos or names), posing together at stadium seats, playful and photogenic, no text, no fan signs, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "ご当地グルメフェアも見逃せない",
+      "body": "地方球場などで開催されるご当地グルメフェアは食いしん坊女子にもおすすめ。観戦仲間とシェアしながらいろんな味を楽しんでみて。野球観戦＋グルメで一日大満足！グルメイベントの開催は公式案内を参考にしてね。",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, close-up of hands holding assorted Japanese ballpark gourmet foods (yakitori, bento, soft drinks), casual sharing, no text, no fan signs, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    }
+  ],
+  "caption": "夏の球場イベントって本当にワクワクするよね。花火ナイターや限定コラボグッズ、レディースデーやユニフォーム配布、ご当地グルメフェアなど、最近は色んなイベントが開催されることが多くて、観戦仲間がいるとさらに楽しい！1人だと勇気が出なかったイベントも、友達がいれば思い切り楽しめるし、特別な体験や写真も残せるよ。イベントの詳細や開催日は球場や球団の公式サイトで必ず確認して、お出かけの参考にしてみてね。あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場イベント",
+    "#観戦仲間募集",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活女子",
+    "#野球観戦記録",
+    "#レディースデー",
+    "#グルメフェア"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, Japanese baseball stadium in summer, two young Japanese women in casual non-logo outfits, enjoying the stands, holding drinks and food, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing",
+  "images": [
+    "media/carousel/2026-11-25/01_cover.jpg",
+    "media/carousel/2026-11-25/02_slide.jpg",
+    "media/carousel/2026-11-25/03_slide.jpg",
+    "media/carousel/2026-11-25/04_slide.jpg",
+    "media/carousel/2026-11-25/05_slide.jpg",
+    "media/carousel/2026-11-25/06_slide.jpg",
+    "media/carousel/2026-11-25/07_cta.jpg"
+  ]
+}
