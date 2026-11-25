@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-26",
+  "category": "球場観戦Vlog風",
+  "title": "東京ドーム1日Vlog｜野球女子の球場体験リール",
+  "scene": "東京ドームの外でワクワクしながら入場ゲートをくぐる。コンコースの売店でフードやドリンクを選び、観客席で仲間と乾杯＆応援！推し活グッズも手にして笑顔満開。",
+  "caption": "野球観戦、1人で行くのはちょっと不安…そんな女子にこそ体験してほしい！東京ドームで仲間と過ごす1日は、やっぱり特別。ゲートをくぐる瞬間のドキドキ、売店で悩む球場グルメ、座席に着いたらみんなで乾杯🍹推し活グッズを持って応援に熱中…推しを全力で楽しむって最高だよね。友達とキャーキャーしながら食べるおつまみや、チームカラーの小物たち、全部が思い出になる！『誰かと一緒だからこそ盛り上がる』それが球場観戦の魅力。野球好き女子でつながりたい人、Draftで仲間をみつけて新しい野球体験始めてみよう！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#東京ドーム",
+    "#観戦仲間募集中",
+    "#女子旅",
+    "#推し活女子",
+    "#グループ観戦"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone-shot look. Three Japanese women in their 20s approach the Tokyo Dome entrance with excited smiles, walk through the gates, then wander the bustling concession area choosing drinks and food. Next, they sit together in stadium seats, hold up classic stadium snacks and drinks, and cheer energetically towards the field. The vibe is lively, friendly, and full of anticipation; handheld camera with authentic movements that follow their actions closely. No text overlays, no visible AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, authentic smartphone-shot, Japanese women in their 20s at a baseball stadium. 0-5s: The group walks toward the Tokyo Dome entrance, excitedly talking and smiling, then entering the gate with tickets in hand. 5-10s: They explore the busy concourse, stop at a popular food stall to buy drinks and stadium snacks, laughing as they choose. 10-15s: The women settle into their seats, do a friendly group 'cheers' with drinks, take selfies, wave supporting items, and react to the game with happy faces. Natural audio ambiance of the stadium. No text, no obvious AI marks.",
+    "higgsfield": "9:16 vertical, photorealistic, natural handheld smartphone style. Start with a handheld walking shot panning from the women approaching the Tokyo Dome to the entrance. Then, a handheld follow shot as they move through the concourse and buy food. Transition to a push-in movement as they sit in the stands, capturing a group cheers and their reactions to the game. Focus on candid expressions and authentic stadium atmosphere. No text overlays, no visible AI traces."
+  },
+  "videoFile": "videos/2026-11-26.mp4"
+}
