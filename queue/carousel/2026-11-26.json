@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-26",
+  "category": "球場グルメ",
+  "title": "野球女子のための球場グルメ5選 保存版",
+  "slides": [
+    {
+      "heading": "定番！球場カレーの魅力",
+      "body": "どこの球場でも見かける定番グルメといえばやっぱりカレー🍛！野球観戦のお供にぴったりで、ご飯もルーもボリューム満点。推し活の合間にしっかりエネルギーチャージできるから、毎回食べる人も多いよね。",
+      "image_prompt": "photorealistic, close-up of Japanese stadium curry rice in a disposable container on a table, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "映え必至！ご当地グルメ",
+      "body": "その球場ならではのご当地グルメも外せない！たとえば名物弁当やご当地バーガーなど、写真を撮りたくなる彩りの良さが女子に人気。SNSでみんなとシェアしたくなる映えメニューを探すのも楽しみのひとつだよ😊",
+      "image_prompt": "photorealistic, close-up of vibrant Japanese local specialty stadium bento with multiple side dishes, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "スイーツで気分アップ",
+      "body": "甘いものが食べたくなったら、球場スイーツをチェック！ソフトクリームやアイス、季節限定スイーツなど、観戦しながら片手でパクッと食べられるから、休憩タイムにもぴったり。冷たさで気分リフレッシュ🍦",
+      "image_prompt": "photorealistic, close-up of a soft serve ice cream in a plastic cup held in hand at a Japanese baseball stadium, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "食べ歩きも楽しい屋台フード",
+      "body": "球場内の売店では、揚げ物やホットドッグ、焼きそばなどのフードも豊富！観戦しながら色々つまめるのが嬉しいポイント。友達とシェアすると、よりいろんな味が楽しめて盛り上がるよ🍟",
+      "image_prompt": "photorealistic, close-up of assorted Japanese stadium food: fried chicken, yakisoba, and a hotdog in paper trays, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "推しと乾杯！限定ドリンク",
+      "body": "可愛いカップのドリンクや、期間限定のオリジナルドリンクも見逃せない！推し選手や球団デザインのカップもあることが。乾杯しながら観戦すれば、推し活のテンションもアップしちゃうよ🥤",
+      "image_prompt": "photorealistic, close-up of colorful non-alcoholic drinks in cute plastic cups with straws, held in hand at a Japanese baseball stadium, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    }
+  ],
+  "caption": "「野球観戦＝グルメも全力！」な人、正直多いはず。球場ごとに違うグルメや、ご当地メニュー、可愛いスイーツは行くたびワクワクしちゃうよね！今回はみんなが食べている定番から、SNS映え抜群のものまで厳選してご紹介🌟ひとり観戦のときも、仲間とシェアしながら盛り上がるときも、おいしい球場フードがあればどんな観戦もテンション最高潮！食べすぎ注意だけど、つい色々食べたくなっちゃうのが球場マジックかも？みなさんはどんな球場グルメが好きですか？あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#球場グルメ",
+    "#推し活",
+    "#女子会",
+    "#野球好きな人と繋がりたい",
+    "#観戦メシ",
+    "#スタジアムスイーツ",
+    "#映えグルメ",
+    "#一人観戦"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing, young Japanese women in their 20s enjoying food at a Japanese baseball stadium, candid and vibrant scene",
+  "images": [
+    "media/carousel/2026-11-26/01_cover.jpg",
+    "media/carousel/2026-11-26/02_slide.jpg",
+    "media/carousel/2026-11-26/03_slide.jpg",
+    "media/carousel/2026-11-26/04_slide.jpg",
+    "media/carousel/2026-11-26/05_slide.jpg",
+    "media/carousel/2026-11-26/06_slide.jpg",
+    "media/carousel/2026-11-26/07_cta.jpg"
+  ]
+}
