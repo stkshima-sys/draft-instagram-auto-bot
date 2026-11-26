@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-27",
+  "category": "球場グルメ紹介",
+  "title": "球場グルメ女子のリアル観戦レポ@エスコンフィールド",
+  "scene": "20代女性2人がエスコンフィールド北海道の観客席で笑顔で球場グルメを手に乾杯。カメラが手元にフォーカスし、グルメを美味しそうに食べる瞬間を捉える。背景には球場の雰囲気や観客が映り込むリアルなシーン。",
+  "caption": "野球観戦といえば、やっぱり球場グルメ🍴✨エスコンフィールド北海道に来たら絶対食べたい定番グルメを片手に、友達と乾杯＆パシャリ📸💖試合前のワクワク感と球場ならではの雰囲気で、つい写真撮りたくなっちゃうよね！野球好きな友達と一緒に食べるごはんって、普段より美味しく感じるし、推し活トークも止まらない😊1人観戦も楽しいけど、やっぱり「これ美味しすぎる！」って言い合える仲間がいると盛り上がり方が全然違う…！Draftで観戦仲間を見つけて、次はみんなで球場グルメ制覇しよう🍟🏟️気になる人はプロフィールからチェックしてみてね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#エスコンフィールド北海道",
+    "#北海道旅行",
+    "#観戦仲間",
+    "#スタジアムグルメ",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16, 10-15 second video, filmed with a natural handheld smartphone look. Two Japanese women in their twenties sit in the stands at a crowded Japanese baseball stadium, holding popular ballpark food and smiling as they touch their dishes together in a cheerful toast. The camera moves in close, focusing on their hands and the food, and captures a candid moment as one woman takes a big, happy bite. The stadium atmosphere, other fans in the background, and dynamic lighting all contribute to a real, lively scene. No visible text overlays, no logos or artifacts.",
+    "veo": "0-5s: Two Japanese women in their 20s are seated together in the stands of a modern Japanese baseball stadium, smiling and showing off classic ballpark food; they laugh and toast their snacks together. 5-10s: The camera does a close-up of their hands holding the food, with candid reactions as they take a bite, capturing natural joy and excitement. 10-15s: The shot widens to include the stadium's bustling crowd and atmosphere, showing the women chatting and enjoying the moment. Always vertical 9:16, photorealistic, smartphone-shot, no overlays or logos.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Start with a handheld camera shot as two smiling Japanese women in their 20s sit in stadium seats, holding and toasting classic ballpark food. Camera pushes in naturally to focus on their hands and food, then captures one woman eating. Slow pan out reveals the lively atmosphere of the baseball stadium with other fans. No overlays or text, all movement is organic and true to real-life handheld video."
+  },
+  "videoFile": "videos/2026-11-27.mp4"
+}
