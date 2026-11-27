@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "category": "球場デート",
+  "title": "球場デート風リール：Tokyo Domeで観戦仲間と楽しむ休日",
+  "scene": "20代女子2人がTokyo Domeの外で待ち合わせ、笑顔で入場。観客席で仲良く乾杯しながら球場グルメを楽しむ。試合の盛り上がりに合わせて応援タオルを持ってはしゃぐ様子を自然にスマホで撮影。",
+  "caption": "野球観戦って、推し活もグルメも全部楽しみたいから、観戦仲間がいると本当に心強いよね！今日はTokyo Domeで女友達と待ち合わせして、観客席で乾杯したり、名物の球場グルメをはんぶんこしたり🍻💕推し選手の活躍に盛り上がって、思わず一緒にタオル振っちゃうのも観戦仲間がいるからできること。野球観戦の楽しさって、誰と行くかでも全然違うし、SNSに載せる写真も2人でポーズ決めて撮ると特別な思い出になるんだよね！1人だとちょっと不安…って思ってたけど、勇気出して仲間に声かけてみてよかった！みんなはどんな風に観戦を楽しんでる？観戦仲間との思い出、ぜひコメントでシェアしてね✨\n\nあなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#観戦仲間",
+    "#プロ野球",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#TokyoDome",
+    "#女子会",
+    "#推し活",
+    "#思い出シェア",
+    "#週末の過ごし方"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s meet outside a large Japanese baseball stadium (Tokyo Dome), smiling and chatting as they walk through the entrance. Cut to them sitting close together in the stands, laughing and clinking paper cups in a friendly toast, sharing typical stadium food like fried chicken and popcorn. They cheer enthusiastically, waving towels, capturing candid and joyful moments between friends. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. 0-5s: Two Japanese women in their 20s, casual baseball fan outfits, meet outside a busy Japanese baseball stadium entrance, smiling and waving, then entering together. 5-10s: In the stadium seating area, both women toast with paper cups, eat classic stadium snacks, and take cute selfies, showing genuine excitement and laughter. 10-15s: Close-up of the friends energetically waving towels and cheering, blending into a wide shot of the lively crowd around them. No text overlays, no AI elements.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot style with natural handheld camera motion. Start with a slow handheld pan as two Japanese women in their 20s greet each other outside a Japanese baseball stadium, then follow them with a steady handheld as they walk through the entrance. Cut to a push-in shot of the women in the stands smiling, clinking cups, and sharing stadium food. End with an energetic handheld close-up as they wave towels and cheer, capturing authentic joy between friends. No text or logos."
+  },
+  "videoFile": "videos/2026-11-28.mp4"
+}
