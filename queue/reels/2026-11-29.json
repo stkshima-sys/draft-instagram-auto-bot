@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-29",
+  "category": "Draft利用シーン",
+  "title": "Draftで出会った仲間と東京ドームで観戦合流！女性のリアル推し活DAY",
+  "scene": "東京ドームの入り口前で笑顔で手を振る女性たち。コンコースでチケットを見せ合いながら合流し、球場グルメ片手に乾杯している。観客席でわいわい応援しながら、推し活を楽しむシーンが続く。",
+  "caption": "『野球好きだけど、一緒に行く友達がいない…！』そんな風に思ったことありませんか？私も最初はひとり観戦派だったけど、今ではDraftで見つけた観戦仲間とこうして東京ドームで集合して、推し活もグルメも全力で楽しんでます🍿💙推しチームの話で盛り上がったり、応援グッズを見せ合ったり、盛り上がりすぎて知らないうちにハイタッチしちゃうことも！もちろん一緒に行きたい日だけ気軽に誘えるから、気持ちもラクなんです✨『初めて会うの、ちょっと緊張した…』って声も多いけど、球場内なら話題も自然にできて、すぐに仲良くなれちゃうよ！野球観戦がもっと楽しくなるDraftの使い方、ぜひ保存して今度トライしてみてね🙌 あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球",
+    "#東京ドーム",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#観戦仲間",
+    "#女子会",
+    "#推し活女子",
+    "#保存版"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Opening at the entrance gate of a packed Tokyo Dome, two or three Japanese women in their 20s greet each other with smiles and wave. Cut to them reuniting on the stadium concourse, showing each other paper tickets and laughing. Final shot: in the stadium seats, they clink drinks (plastic cups), enjoy classic stadium food, and cheer enthusiastically, all in a friendly, energetic atmosphere. No text overlays or AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, natural handheld motion, Japanese women in their 20s at a Japanese baseball stadium. 0-5s: Outside Tokyo Dome, two or three Japanese women in their 20s wave and call out to each other, smiling as they approach. 5-10s: On the stadium concourse, they show each other their tickets and chat, excited and friendly. 10-15s: Seated together in the stands, sharing stadium food, clinking drinks, and cheering, all with authentic joyful reactions.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot look. Scene starts with a handheld pan as two or three Japanese women in their 20s wave to each other outside Tokyo Dome. Push-in handheld shot as they meet and show tickets on the concourse. Handheld medium-close tracking shot as they settle in their seats, raise drinks in a toast, and cheer. Emphasize dynamic, friendly, and natural camera work with no text overlays or AI feel."
+  },
+  "videoFile": "videos/2026-11-29.mp4"
+}
