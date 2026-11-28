@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-28",
+  "category": "野球好き女子あるある",
+  "title": "野球好き女子あるある7選！観戦前日のワクワクが止まらない",
+  "slides": [
+    {
+      "heading": "推しの応援グッズは全出動",
+      "body": "応援タオルやユニフォーム、キャップにリストバンド…気付けばバッグがグッズでパンパン！「これもいるかも？」ってどんどん増えがちなの、あるあるだよね🧢📣",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, top-down view of items neatly arranged: colorful towels, a cap, a jersey (plain, no logos), wristband, and portable battery, on a simple background, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "観戦前日は遠足前の気分",
+      "body": "明日は試合！と思うと、なかなか寝つけないし、持ち物チェックも何度もしちゃう。推しの出場を想像してテンション上がりすぎて寝不足になりがち⚾️✨",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, young Japanese woman smiling in her bedroom, surrounded by baseball gear, suitcase open, checking a checklist on her phone, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "球場グルメの事前リサーチ必須",
+      "body": "毎回「今度は何食べよう？」って、試合前日から名物弁当やご当地グルメをインスタで検索しがち。どれを選ぶか悩むのも楽しい時間🍙😊",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, close-up of hands holding a smartphone displaying food photos, background shows assorted Japanese ballpark foods like bento and fried snacks, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "試合当日のコーデ迷子",
+      "body": "球場で浮かないようにカジュアルだけど可愛いコーデを考えがち。スニーカー、Tシャツ、キャップはマストアイテム。写真映えもしっかり意識しちゃう👟🎒",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, full-body outfit shot of young Japanese woman in stadium, wearing casual t-shirt, cap, sneakers, and jeans, with a simple backpack, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "推しが打った瞬間は記憶飛ぶ",
+      "body": "推し選手の出番やヒットの瞬間は歓声と興奮で全部ふっとぶ！動画撮っていたはずなのに手ブレ＆絶叫で見返しても自分の声ばっかり😂",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, excited young Japanese woman cheering in a stadium seat, holding her phone up as if taking a video, background is a blurred crowd, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    },
+    {
+      "heading": "遠征荷物はつい多くなる",
+      "body": "泊まり遠征の時は推しグッズだけじゃなく、着替えやコスメにお土産まで…「これも必要かも？」でキャリーがパンパンになっちゃう🎒🧳",
+      "image_prompt": "photorealistic, shot on smartphone, natural lighting, overhead view of a packed suitcase with baseball gear, clothes, skincare, and small omiyage gifts peeking out, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing"
+    }
+  ],
+  "caption": "「これ、めっちゃ分かる！」って思う野球女子のあるあるを集めてみました。観戦前日のワクワク、グッズの準備、グルメリサーチ、当日のコーデ選びや遠征の荷物まで…みんなもついやっちゃうことばかりじゃない？1人で行くのももちろん楽しいけど、同じ気持ちを共有できる仲間がいると楽しさ倍増だなって思います。ちなみに私は観戦当日の朝、必ずお気に入りの応援タオルを持ってるか再チェックしちゃう派です（笑）。保存して次の観戦準備にぜひ見返してみてくださいね！あなたはどれに共感しましたか？",
+  "hashtags": [
+    "#野球女子",
+    "#プロ野球観戦",
+    "#推し活",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#野球好きな人と繋がりたい",
+    "#観戦準備",
+    "#遠征女子",
+    "#球場体験",
+    "#あるあるネタ"
+  ],
+  "coverImagePrompt": "photorealistic, shot on smartphone, natural lighting, a group of Japanese women in their 20s smiling and posing casually in the stands of a Japanese baseball stadium, casual outfits with caps and sneakers (plain, no logos), holding snacks or drinks, cheerful atmosphere, no text, no fan signs, no uchiwa fans, no banners, no readable characters or names anywhere, no team logos or player names on clothing",
+  "images": [
+    "media/carousel/2026-11-28/01_cover.jpg",
+    "media/carousel/2026-11-28/02_slide.jpg",
+    "media/carousel/2026-11-28/03_slide.jpg",
+    "media/carousel/2026-11-28/04_slide.jpg",
+    "media/carousel/2026-11-28/05_slide.jpg",
+    "media/carousel/2026-11-28/06_slide.jpg",
+    "media/carousel/2026-11-28/07_slide.jpg",
+    "media/carousel/2026-11-28/08_cta.jpg"
+  ]
+}
